@@ -1,25 +1,14 @@
 ---
 layout: page
-title: Asynch
+title: ASYNCH
 permalink: /asynch/
 ---
 
 
-# WARNING: I have a STRONG preference for ASYNCHRONOUS communications.
-
-*NOTE: This preference might not be at all normal for others ... asynch means NOT in synch ... the asynch preference, like left-handedness is what is normal for some people. I am not suggesting that others make asynch normal for them; I am only stating the fact that you must realize why the preference asynch communication is normal for some of us. This page is an explanation.*
-
-With a very, very, very few exceptions, ***synchronous conversations/gatherings tend to BORE me*** ... and this boredom is significant, not just some little thing I can accomodate without a damned good reason -- it is the ONLY time that I am bored. 
-
-The frustration with attention to either the sheer nothingness or the effort of thinking of some response in sychronous communication usually builds and leaves me feeling extremely angry ... and certainly tremendously relieved to get away when the meeting is over, ie I would prefer a root canal.  I am always bored to the point of being stressed and in physical pain in meetings, social events, parties with friends or family gatherings. Always.
-
-Conversely, I never feel alone because there billions of humans to interact personally [but not necessarily immediately] with via messages, emails, exchanges on issues or dev channels, through the review of git repositories or papers with code/data ... also, as a Christian, I ALWAYS feel the distinct presence of my Creator. ALWAYS ... so I am never ever ever LONELY -- but I generally tend to prefer ending a conversation, even when I have initiated that conversation.
-
-I also have a very strong preference for anonymity. I no longer have any interest in being recognized or liked ... I am never alone -- but spending time with people almost always costs me. Since I do not require ANYTHING to be happy, things like like power, wealth or fame are of no value to me .... and this impacts my time management and time horizon.
-
+***WARNING: I am biased; I have a STRONG personal affinity for ASYNCHRONOUS communications.*** *As with left-handedness, the strong preference for ASYNCH might not seem normal to gregarious people or people who prefer going to conferences or different aspects of travel and different aspects of a physical social life, eg dining or going to clubs.* But since I bat ASYNCH-handed, I believe that I am better able to see opportunities in ASYNCH.work.
 # It's important to NEVER look in the rear view mirror
 
-Never spend time with people who are looking back ... never live in a setting sun world; always look to rising sun and the dawn of what can be created in a new day. For similar reasons, never aspire to living life in a perpetual party or state of consumption and comfort-seeking, as either an entitled tourist, a nursing home patient who requires care or some kind of victim whose happiness is driven by others.  Of course, you can/should pay attention to sleep hygiene, take breaks to move or break up the flow, perhaps even lay down to take a powernap and when you are so exhausted that you cannot concentrate, but you should live looking forward to the exercise and training that you still have left to do. 
+Never spend time with people who are too intent on looking back.  Do not bother them if they want to do that ... never live in a setting sun world; always look to rising sun and the dawn of what can be created in a new day. Just understand why the perks of travel and conferences cost more than the reimbursed expenses.
 
 # Always have a pyramidal planning horizon
 
@@ -29,7 +18,7 @@ Never spend time with people who are looking back ... never live in a setting su
 * CHECK ... review, re-measure before *cutting* or striking tactically
 * ACT ... do the most important thing possible, do it right NOW
 
-The important part of this pyramid is to plan the 10,000 most important moments of your 86,400 second day ... as you do this, then set the thoughts of daily actions in the context of your long-term 10,000 day vision of life.  
+The important part of this pyramid is to PLAN the 10,000 most important moments of your 86,400 second day rigorously ... that's one sec in 8, not even 3 full hours ... but FOCUS intently on the most vital 10,000 seconds ... and keep working; working to relax, to stay in touch ... but not with a particular plan.  Once you get in the habit of this focused pyramid of life, you will probably understand why you cannot sustain more than 3 intense hours in a day. The moments should all be treasured, but there's a different in terms of intensity.  
 
 You vision will always inform what your are going to be planning, doing, checking, action upon ... and your actions will always, to an infinitestimally small degree always re-calibrate your vision. You should generally aim to gather intelligence ... and intelligence, like all information, can only have value when it surprises you, makes you uncomfortable and causes you to adjust. Get comfortable being in slight discomfort or unease, so that you are agile and able to constantly rebalancing ... as if you were a toddler just learning to walk.
 
