@@ -1,0 +1,9 @@
+# Site settings
+title: MarkBruns
+email: MarkBruns@MarkBruns.com
+description: A convoluted collection of bad habits which I indulge as they strangle me per XKCD 1579
+twitter_username: MarkBruns
+github_username:  MarkBruns
+
+# Build settings
+markdown: kramdown
