@@ -1,11 +1,23 @@
 ---
 layout: page
-title: ASYNCH
+title: asynch
 permalink: /asynch/
 ---
 
 
-***WARNING: I am biased; I have a STRONG personal affinity for ASYNCHRONOUS communications.*** *As with left-handedness, the strong preference for ASYNCH might not seem normal to gregarious people or people who prefer going to conferences or different aspects of travel and different aspects of a physical social life, eg dining or going to clubs.* But since I bat ASYNCH-handed, I believe that I am better able to see opportunities in ASYNCH.work.
+# ASYNCH.work 
+
+***WARNING: I am biased; I have a STRONG personal affinity for ASYNCH.work or independent work*** which is tracked by regular continuous sharing of progress, eg a dashboard that looks like a commitgraph with extra background that can be drilled down into is one example.  
+
+There's no good excuse for something like a meeting ... except as a signal of FAILURE in being able to manage an ASYNCHRONOUS communication format. It's one thing to fail, it is inexcusable to fail because some idiot did not even try.
+
+### Not everyone is ready YET.
+
+GET READY ... but a degree of patience is in order. ***As with left-handedness, the strong preference for ASYNCH.work might not seem normal to all***, to gregarious people or people who prefer going to conferences or different aspects of travel and different aspects of a physical social life, eg dining or going to clubs.* 
+
+Since I bat ASYNCH-handed, I believe that I am better able to see opportunities in ASYNCH.work. Those opportunities will be obvious to some; to others, they never bothered looking at ways to improve efficiencies before ... because they had it easy, they never HAD TO look for efficiency improvements in order to have a chance to have work or to survive.
+
+At its core ASYNCH.work is about achieving a tenfold increase in efficiency and throughput -- it's about slashing times to launch and really developing speed as a competitive advantage.
 # It's important to NEVER look in the rear view mirror
 
 Never spend time with people who are too intent on looking back.  Do not bother them if they want to do that ... never live in a setting sun world; always look to rising sun and the dawn of what can be created in a new day. Just understand why the perks of travel and conferences cost more than the reimbursed expenses.
