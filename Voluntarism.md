@@ -1,17 +1,37 @@
 ---
 layout: page
-title: ASYNCH.work
-permalink: /asynch/
+title: Voluntarism
+permalink: /Voluntarism/
 ---
 
+# Free Will and Free Thinking
 
-# ASYNCH.work 
+*Be extremely careful about ever joining groups or taking any oaths*  Freedom of mind or freedom of thought becomes next to impossible after one has joined a group or any kind of political or religous movement.
 
-***WARNING: I am biased; I have a STRONG personal affinity for ASYNCH.work or independent work*** which is tracked by regular continuous sharing of progress, eg a dashboard that looks like a commitgraph with extra background that can be drilled down into is one example.  
+Your mind is the only wealth that you possess; your mind is what drives your ability to improve your habits, improve your discipline -- and, of course, your mind is everything when it comes to open source development or extending the realms of human knowledge and Science. *In this existence, your MIND is everything ... espeically for self-governance ... don't abdicate your responsibility to be in control of your mind."
 
-There's no good excuse for something like a meeting ... except as a signal of FAILURE in being able to manage an ASYNCHRONOUS communication format. It's one thing to fail, it is inexcusable to fail because some idiot did not even try.
+***The will is the governing force at the core of ALL human reality.*** 
 
-### Not everyone is ready YET.
+The will is not about reasoning, but an irrational, unconscious urge or love in relation to which the intellect represents a secondary phenomenon.
+
+Humans are exceptionally talented from very early ages in making excuses or  intellectualizing or rationalizing reasons and arguments for the direction our [largely unconscious or subconscious] will directs us to do. Enormous efforts are dedicated to advertisin, entertainment and educational programming to shape the will of individual humans ... humans can *control the projector* but most are either too lazy or so thoroughly programmed already that they do not understand any need to do this, ie they have already succumbed to the programming to join the *will of the herd*. 
+
+You could predict what someone zealously BELIEVES by looking at what sports, news, entertainment programming they enjoy watching ... you can also predict how people will spend their time working as salary/wage slaves by looking at which advertisements for automobiles, home furnishings or lifestyle products are supporting those enjoyed programs.
+
+Thus [psychological **Voluntarism**](https://en.wikipedia.org/wiki/Structuralism_(psychology)#Wundt_and_structuralism) or [philosopical **Voluntarism**](https://en.wikipedia.org/wiki/Voluntarism_(philosophy)) is NOT a political persausion ... it is more anti-political or aggressively apolitical in nature.
+
+
+Someone who is truly a [psychological **Voluntarist**](https://en.wikipedia.org/wiki/Structuralism_(psychology)#Wundt_and_structuralism) or a [philosopical **Voluntarist**](https://en.wikipedia.org/wiki/Voluntarism_(philosophy)) would be extremely careful about joining something like a church, or a political party or any kind of movement ... all movements are about peer-pressure and programming the membership ... it is not just that the **labels** of being a [Libertarian](https://en.wikipedia.org/wiki/Portal:Libertarianism) or [Anarchist](https://en.wikipedia.org/wiki/Portal:Anarchism) are really not at all well understood by anyone, including the so-called leaders of these movements, it is also that Voluntarist recognized why associations and public candidacies effectively pollute or even destroy the ability for one to remain objective and *in control of the projector* that is shaping the unconscious and subconscious thoughts underpinning the unexamined assumption driving one's *supposed* free will.
+
+Thus, a philosophical or psychological Voluntarist might choose to state general agreement with a **political** [***Voluntaryist's***](https://en.wikipedia.org/wiki/Voluntaryism) principal beliefs stemming from the principles of [self-ownership](https://en.wikipedia.org/wiki/Self-ownership) and [non-aggression](https://en.wikipedia.org/wiki/Non-aggression_principle) ... but a serious philosophical Voluntarist would be very cautious about joining any kind of [***Voluntaryist***](https://en.wikipedia.org/wiki/Voluntaryism) organization or getting involved in any political association.
+
+## Where entrepreneurial activitys, freelancing or topics like asynchronous work fit in this 
+
+I am personally biased; I have a STRONG personal affinity for asynchronous development or and independent work projects which can be managed by looking at the regular continuous sharing of progress and work artifacts ... I see workplaces, meetings and conferences as subtly coercive in nature, ie "WHY is it important for me to physically attend?" ... I strongly prefer 360-degree TRANSPARENCY ... this might involve looking at a dashboard that might look like a GitHub or GitLab commitgraph, but has a wealth of extra information underneath, which can be transparently drilled down into to see discussions and code.  
+
+There's really no good excuse for something like a conference or meeting anymore ... except as a signal of FAILURE in being able to manage an ASYNCHRONOUS communication format. It's one thing to fail, it is inexcusable to fail because some idiot did not even try.
+
+### Not everyone is ready YET ... SO???
 
 GET READY ... but a degree of patience is in order. ***As with left-handedness, the strong preference for ASYNCH.work might not seem normal to all***, to gregarious people or people who prefer going to conferences or different aspects of travel and different aspects of a physical social life, eg dining or going to clubs.* 
 
