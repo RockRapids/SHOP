@@ -1,6 +1,6 @@
 ---
 layout: page
-title: asynch
+title: ASYNCH.work
 permalink: /asynch/
 ---
 
