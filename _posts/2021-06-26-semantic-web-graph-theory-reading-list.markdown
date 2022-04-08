@@ -8,6 +8,7 @@ categories: learning
 
 # These annotated reading lists will not include proprietary packages or papers from journals with a pay wall 
 
+We might reference proprietary packages or papers, but we will not add them to curated lists
 
 # Introduction
 
