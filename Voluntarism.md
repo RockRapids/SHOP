@@ -4,13 +4,15 @@ title: Voluntarism
 permalink: /Voluntarism/
 ---
 
+
+
+***The will is the governing force at the core of ALL human reality.*** You can control what is projected onto your conscious mind to a large degree; with discipline and repetitive training, you can control what is projected on to your subconscious and unconscious mind to a lesser degree ... you are not really directly in charge of your will, but you control the projection.
+
 # Free Will and Free Thinking
 
 *Be extremely careful about ever joining groups or taking any oaths*  Freedom of mind or freedom of thought becomes next to impossible after one has joined a group or any kind of political or religous movement.
 
 Your mind is the only wealth that you possess; your mind is what drives your ability to improve your habits, improve your discipline -- and, of course, your mind is everything when it comes to open source development or extending the realms of human knowledge and Science. *In this existence, your MIND is everything ... espeically for self-governance ... don't abdicate your responsibility to be in control of your mind."
-
-***The will is the governing force at the core of ALL human reality.*** 
 
 The will is not about reasoning, but an irrational, unconscious urge or love in relation to which the intellect represents a secondary phenomenon.
 
