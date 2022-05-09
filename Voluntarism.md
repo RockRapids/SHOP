@@ -6,6 +6,16 @@ permalink: /Voluntarism/
 
 
 
+# Free markets are an asset-weighted reflection of the current will of the public with skin in the game.
+
+When you do not really have any skin in the game, your opinion does not really matter that much. Sure ideas can matter ... but not until those ideas are adopted by those who have the will to turned their ideas into reality. 
+
+Mostly, we should be talking about LIVES ... and what 9 billion UNIQUE individual human beings will do with each of the 86,400 seconds of their days ... the WILL of any one of those unique individual human beings would be more than sufficient to make that person the most wealthy person in the world in less than half a century ... most people believe that wealth is matter of intelligence. It isn't. Not exactly. Wealth is a matter of WILL. 
+
+Imagine a HUSTLING **strong-willed** ten-year-old kid with a stake of just $1. That kid would be able to figure out how to turn that $1 into $1.03 in two weeks of hustling ... and nobody would really even notice. That kid could continue developing hustling skills and business acumen and turn that $1 into $2 after a year by the time the kid was 11, and STILL nobody would notice. The same applies for the progression from $2 to $4 at age 12, from $4 to $8 at age 13, from $8 to $16 at age 14, from $16 to $32 at age 15, from $32 to $64 at age 16, from $64 to $128 at age 17, from $128 to $256 at age 18, from $256 to $512 at age 19, from $512 to $1024 at age 20 ... NOBODY is really going to notice another **strong-willed** 20-year-old kid with $1024 in savings ... that may start to change as $1,024 stake goes to $32,768 at 25, but probably not ... also, **strong-willed** kid is probably not even going to be notice $1,048,576 at 30 ... **becasue people notice the money, NEVER the WILL** *because humans are NEVER genuinely empathetic when it comes to strong-willed successes* ... but by the time, the kid has $33,554,432 at 35, the advisors will crawl out of the woodwork  ... by the time, the compounded will is at $1,073,741,824 when the kid is 40, the world cluelss fin journos will have labeled the kid as another unicorn success or product of wealthy, attractive advantaged parents ... by the time the kid turns 50 being worth over trillion, the conspiracy theorists will blame the kid on aliens. 
+
+But **it was always the WILL** ... the RELENTLESS will to perfect the discipline of turning $1 into $1 and 3c every two weeks [probably by giving people $1.06 in VALUE and selling it to them for only a $1.03].  
+
 ***The will is the governing force at the core of ALL human reality.*** You can control what is projected onto your conscious mind to a large degree; with discipline and repetitive training, you can control what is projected on to your subconscious and unconscious mind to a lesser degree ... you are not really directly in charge of your will, but you control the projection.
 
 # Free Will and Free Thinking
