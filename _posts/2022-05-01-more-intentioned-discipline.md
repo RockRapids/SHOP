@@ -2,7 +2,7 @@
 layout: post
 title:  "Intensifying the Intention of Intentioned Improvement In Discipline"
 date:   2022-05-01 4:39:00
-categories: template
+categories: Discipline
 ---
 
 The title is REPETITIVE ... but, if anything, it level of [recursion](https://en.wikipedia.org/wiki/Recursion) probably is not deeply recursive enough.
