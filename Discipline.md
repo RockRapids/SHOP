@@ -5,6 +5,10 @@ permalink: /Discipline/
 ---
 
 
+# Stop buying the HYPE; you will get the Slough of Despair
+
+***Embrace the SUCK*** of tedious discipline building.
+
 # Change the habits of being yourself
 
 Discipline is not something you are born with; discipline is something that you build. Try to stay humble as you learn but just [never stop learning or getting ideas from others](https://twitter.com/hakluke/status/1513290733624737797). The most important discipline is humility -- you need to stay way the fuck away from those who exhibit no humility or fallibility. 
