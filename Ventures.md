@@ -41,7 +41,7 @@ FIRST of all, we focus on bettering our time mgmt approach ... before we chop do
 
 4) CloudKernel.org
 
-OS ... CoreOS riff ... decentralized, but not really for massive hubs
+ResearchOS ... a CoreOS riff ... decentralized, but not really for massive hubs ... the first practical working application to demonstrate the approach would be TWFTR.org or the Twitter Filterator or Findulator ... a simplistic app, like a pocket calculator that uses preserved vector mapping of previous search results ... in a ConnectedPapers style knowledgegraph.
 
 Moby
 
