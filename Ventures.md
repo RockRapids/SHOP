@@ -75,6 +75,8 @@ MySQL ... LAMP stack, but more layer-ey as in containers ... tighter, more obser
 
 11) TWFTR.org
 
+In the Twitter Filter, which is not JUST about Twitter although that's a place to start ... we envision something like calculator app, except it's about just FINDING stuff and being notified our our topic areas or responses to to our previous interests, comments, likes, etc ... TWFTR is a "filterlator* and a "findulator" ... it's an AI-augmented crowdly, but configruable search algo which is the basis for our CloudKernel researchOS ... the efficiency of the search kernel would derive from the former searches and annotations from previous users ... the [vector mapping](https://en.wikipedia.org/wiki/Linear_map?wprov=sfla1) would be preserved and extended [homomorphologically](https://en.wikipedia.org/wiki/Homomorphism?wprov=sfla1) so that speed of any progressive web app relying on the researchOS cloudkernel vector mapping would deliver results in an effectively instantaneous fashion.
+
 12) ENGRco
 
 * QualityFellow
