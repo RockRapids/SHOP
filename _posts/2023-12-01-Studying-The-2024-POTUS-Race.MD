@@ -299,7 +299,7 @@ These are miscellaneous tools, git repositories and organizations that contain d
 
 56) [Govdirectory](https://www.govdirectory.org/) is a crowdsourced and fact checked directory of official governmental online accounts and services.
 
-57)
+57) Work your way through the [Github repositories with the *CivicTech* tag](https://github.com/topics/civictech?o=desc&s=forks)
 
 58)
 
