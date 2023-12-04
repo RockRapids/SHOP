@@ -311,7 +311,27 @@ In order to do that you will need to become a bit of [a FireOS developer](https:
 
 59) MEET the opinion leaders ... develop strategy for reaching out to those opinion leaders ... start asking the question about Legislature races and primaries ... get your lines in the water -- then WATCH YOUR BOBBERS ... it's up to YOU ... nobody else ... to find your crowd of wildly enthusiastic supporters ... what's your issue wheelhouse ... tech ... jobs ... health ... education ... 2A ... get started immediately to FIND YOUR CROWD ... you have to work at this every single day ... maybe you have to start by filling in all of the little momentary pauses in your schedule with more networking, perhaps more podcasting, radio or speaking engagements, perhaps even more COLD emailing or old fashioned cold calling or door knocking.
 
-60) 
+60) How many different ways can you develop a lead generation strategy or compelling landing page for [TidyCal](https://tidycal.com/) or [Calendly](https://calendly.com/pricing) or one of the folling alternatives:
+
+* Acuity Scheduling: Acuity Scheduling is a popular alternative to TidyCal and Calendly that offers a wide range of features, including customizable scheduling pages, automated reminders, and integration with popular calendar apps.
+
+* ScheduleOnce: ScheduleOnce is another popular alternative that offers similar features to TidyCal and Calendly, including customizable scheduling pages, automated reminders, and integration with popular calendar apps.
+
+* Appointlet: Appointlet is a simple and easy-to-use alternative to TidyCal and Calendly that offers basic appointment scheduling features, including customizable scheduling pages and automated reminders.
+
+* MeetMe: MeetMe is a popular alternative to Calendly that offers a range of features, including customizable scheduling pages, automated reminders, and integration with popular calendar apps.
+
+* Doodle: Doodle is a popular alternative to TidyCal and Calendly that offers a range of features, including customizable scheduling pages, automated reminders, and integration with popular calendar apps.
+
+* ScheduleGrid: ScheduleGrid is a popular alternative to TidyCal and Calendly that offers a range of features, including customizable scheduling pages, automated reminders, and integration with popular calendar apps.
+
+* Bookste: Bookste is a popular alternative to TidyCal and Calendly that offers a range of features, including customizable scheduling pages, automated reminders, and integration with popular calendar apps.
+
+* Reservio: Reservio is a popular alternative to TidyCal and Calendly that offers a range of features, including customizable scheduling pages, automated reminders, and integration with popular calendar apps.
+
+* Picktime: Picktime is a popular alternative to TidyCal and Calendly that offers a range of features, including customizable scheduling pages, automated reminders, and integration with popular calendar apps.
+
+* Vectera: Vectera is a popular alternative to TidyCal and Calendly that offers a range of features, including customizable scheduling pages, automated reminders, and integration with popular calendar apps.
 
 61)
 
