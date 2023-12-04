@@ -279,26 +279,25 @@ These are miscellaneous tools, git repositories and organizations that contain d
 - :octocat: [MEDSL](https://github.com/MEDSL) - MIT Election Data and Science Lab 
 - :octocat: [FiveThirtyEight](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight, including polling and election forecast data.
 
+47) Work your way through the [Github repositories with the *politics* tag](https://github.com/topics/politics?o=desc&s=forks)
 
-47)
+48) https://github.com/topics/campaign?o=desc&s=forks
 
-48)
+49) https://github.com/topics/donation-campaign
 
-49)
+50) https://github.com/topics/campaign-analytics
 
-50)
+51) https://github.com/topics/newsletter-management?o=desc&s=forks
 
-51)
+52) https://github.com/topics/campaign-finance-data
 
-52)
+53) https://www.opensecrets.org/resources/create/tools.php
 
-53)
+54) [A guide to statistics, data, and documentary sources in American politics available to researchers at Princeton University.](https://libguides.princeton.edu/politics/american/states#s-lg-box-7650805) ... you will see that most of the publicly available datasets which are REALLY interesting, such as the [2020 ballot demographics](https://wholeads.us/research/2020-ballot-demographics/) really NEEDS to be brought up to date with the 2024 data ... *maybe you can help with that?*
 
-54)
+55) https://github.com/topics/government-data?o=desc&s=forks
 
-55)
-
-56)
+56) [Govdirectory](https://www.govdirectory.org/) is a crowdsourced and fact checked directory of official governmental online accounts and services.
 
 57)
 
