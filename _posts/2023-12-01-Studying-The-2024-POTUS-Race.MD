@@ -16,15 +16,36 @@ By January 1st, 2021, right after the 2020 elections, the STRATEGIC decisions th
 
 Now, in late 2023, it's already time to start cutting up the carcasses and do the POST-mortem autopsy on the failed candidacies of 2024.
 
-## What does not work and why
+## What does NOT work and why it fails
 
 The race for 2024 STARTED IN EARNEST in December 2020, right after the Electoral College convened and the state legislatures across the country certified the electors. Of course, individuals that would run in 2024 had already had a LIFETIME of personal strategic decisions that had occured in the four or five decades BEFORE 2020 ... but, the CAMPAIGN for 2024, started right after the votes were tabulated and certified in 2020.
 
 Of course, we know from history, that candidates have to have successfully DEMONSTRATED to all of those around them a pathologically level of ambition for the Oval office. Any serious candidate really must aspire ***serioiusly*** to prepare their lives to be ready for the Presidency from their youth.  There are only a few thousand [at most] people in that pool of citizen leaders -- we are not talking about those people, ie the people who will have served in a Legislature OR as a Governor OR will have started/ran a major enterprise. That is actually far more interesting, more human topic ... it's not just the Founding Fathers OR Abraham Lincoln or all kinds of biographies of major figures, studying success and leadership will be far more applicable than the topic of political campaigns.  
 
-This topic is far more arcane, although some of us are very interested in political economics and what we refer to as the NEW Logic of Collective Action.
+# Political Economics and the NEW Logic of Collective Action.
 
-This is a fairly dry, technical topic in the organization of political decisionmaking ... it's stuff for economists and political economists and historians to studd.  It's all about is the organizational groundwork, planning, implementation, and constant updating and revision of strategic plan that MUST preceeds serious, every day campaigning by the earliest advance teams.
+Campaign management is like the Art of War or Clausewitz's On War really boring stuff. Developing successful campaigns actually involves digging to the details of different fairly dry, technical, low-level topics in the practical organization of campaigns.
+
+It's NOT about the drama in the Oval Office or even on the gossip on campaign bus. Campaigns like wars are an extension of politics and  political decisionmaking is really about a lot of low-level details of how things get done.  Power does not just emerge; it emerges because the parties in power have an established track record of listening to [powerful] constituents and finding ways to put together the votes or coalitions in order to get things. Making sausage is fundamentally about GRINDING and mixing and then putting the ground mix in a tube.
+
+The new logic of collective action is about how we assemble the material that going to go into the grinder in a manner that will be successful. Of course, NOW campaingns are primarily about new things like social media, analytics and efficiently tracking the success of content generation operations and optimizing asynchronous networks of opinion leaders. Yes, we still still see old school stuff like yardsigns and billboards, blizzards of mass mailers and the even more annoying carpetbombing of advertisements across different forms of media.  
+The DATA on campaigns is kind of stuff that economists and political economists and historians want to study ... but's that not where the work happens.
+
+## SERVING constituents before elections to CONVINCE them that the candidate will serve them even better as an incumbent
+
+Actually implementing campaigns *is*, or should be, about finding ways to SERVE CONSTITUENTS with the campaign itself ... but, we are not exactly there yet.  
+
+Almost all campaigns are about nothing other than hot air and carpetbombing the voters with way too many promises and no actual REAL VALUE. Campaigns are still run *WRONG* ... they are STILL only about finding ways bamboozle the voters.
+
+Actally SERVING constituents is all about LISTEN ... and OBSERVABILITY ENGINEERING.  Putting together a genuine listening network OR being something of an ombudsman or mouthpiece for aggreived voters is important, but beyond that campaigns *should* be about giving voters tools to make themselves better off ... rather than a pencil or a balloon for the kiddos, a MODERN campaign should give voters something like an convenient app to track fitness goals and make their diet more nutritious OR maybe that app should help them find better jobs or maybe network for their side hustles.  
+
+**SERVING constituents is about us digging the well before we start getting thirsty.**
+
+Doing this takes far, far better organizational groundwork, planning, implementation than we have seen from the currently useless and annoying campaigns in this industry.  The current state is PATHETIC ... but, as with many of our elected officials, we have gotten accustomed to pathetic.  ***DELIVERING*** on the objective of constituent service requires a strategic commitment by the campaign to be entirely about serving the constituent FIRST ... that means implementation checking, action with refactored planning followed by repition of the cycle. It's the PDCA cycle ... or DCA with refactored P and cyclic repition.
+
+We should emphasize that it's about FIGHTING [for constituents] and revising the fight plan and continually re-implementing new plans to flank the opponent ... always be flanking ... or as what General Eisenhower at D-Day or the prizefighter Mike Tyson said about planning -- it's about getting punched in the face [to wake up], counterpunching an immediate defense as best as possible, not backing down but revising the initial plan with more of a flanking strategy and then ATTACKING the weaknesses with a more informed view ... and never quitting but repeating this cycle until the bell rings ... constant updating and revision of strategic plan that MUST preceeds serious, every day campaigning ... FIGHTING every day ... fighting led from the front from the start, from advance teams, from the candidate.
+
+## Current campaigns don't work because they are strategically backward-looking.
 
 The important point is that we need to understand why the ***campaign*** for 2024 started IN EARNEST in December 2020 ... even though, most of the candiates never got that memo. The Trump campaign is really the only campaign that came close to realizing this and started [somewhat incoherently at first] putting together the Trump 2024 organization with officials working the early states immediately, or at least right after January 6 ... nobody else [who could entertain serious aspirations to be POTUS] started soon enough.
 
