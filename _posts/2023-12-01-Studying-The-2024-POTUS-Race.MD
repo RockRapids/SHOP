@@ -85,7 +85,7 @@ Of course, you can do it better than this, but you're welcome to *start* with th
 
 0 ) ***BEFORE STARTING*** ... *PLEASE refactor, edit, revise, edit, refactor, revise again and to compress the following list ... it's RAW ... still extremely rough ... it's just a starting gas capture of vaporware ... the VERY RAWEST of RAW brainstorming lists ... only a starting point to sort of illustrate the ideation process ... definitely a work in progress.*
 
-1) SERVE the constituents FIRST!!! For starters, list [at least] ten key *buddytrack* apps that in addition to providing informative value [pulling data from available sources] also furnishes a social networking/messaging opportunity with *shares-my-passions* fellow consitutents:
+1) SERVE the constituents FIRST!!! For starters, list [at least] ten key *buddytrack* apps [based on Zulip?] that in addition to providing informative value [pulling data from available sources] also furnishes a social networking/messaging opportunity with *shares-my-passions* fellow consitutents:
 
 * A) A training app that helps people to *buddytrack* shared fitness/martial arts goals with close friends and family members
 * B) A diet, cooking and meal planning app to helps people *buddytrack* their meals, food coops, dirct sources, glucose/keto/vit D levels
