@@ -85,7 +85,18 @@ Of course, you can do it better than this, but you're welcome to *start* with th
 
 0 ) ***BEFORE STARTING*** ... *PLEASE refactor, edit, revise, edit, refactor, revise again and to compress the following list ... it's RAW ... still extremely rough ... it's just a starting gas capture of vaporware ... the VERY RAWEST of RAW brainstorming lists ... only a starting point to sort of illustrate the ideation process ... definitely a work in progress.*
 
-1) People, organization, staffing, volunteers ... WHO is going to BELIEVE in your 2028 campaign enough to work insane hours for a minimal earnest money commitment in salary ... don't expect GOOD people put their life on hold and go into debt for YOUR campaign ... you will need to have a plan to pay them *something* or cover their expenses ... but exactly WHO are these people in states like Iowa, New Hampshire, South Carolina ... exactly WHO are these people that are going to start electing your political allies in your national "overnight success" organization.
+1) SERVE the constituents FIRST!!! For starters, list [at least] ten key *buddytrack* apps that in addition to providing informative value [pulling data from available sources] also furnishes a social networking/messaging opportunity with *shares-my-passions* fellow consitutents:
+
+* A) A training app that helps people to *buddytrack* shared fitness/martial arts goals with close friends and family members
+* B) A diet, cooking and meal planning app to helps people *buddytrack* their meals, food coops, dirct sources, glucose/keto/vit D levels
+* C) An outdoors app that helps campers/hunters/fishers/hikers *buddytrack* outdoors events, shops/services, club travel opportunities
+* D) A side hustle app that helps entrepreneurs, professionals and candidates to network per their side hustles or investment aspirations
+* E) A social networking app that helps pols to find like-minded activists in their states, Congressional Districts and communities
+* F) A social farming/gardening app *buddytrack* gardens, food preservation, composting, plant exchange, livestock, 4H projects
+* G) A gunowners app that helps gun owned to find shooting ranges, gunsmiths, gun clubs, gun shows, gun shops in their area
+* H) A sports app that families and athletes *buddytrack* their athletic passions with similar families in their region or state
+* I) A music/art/festival app that helps people *buddytrack* creative recreational events, workshops, galleries, training, performances
+* J) A job search app to help find better remote work and develop their own syllabi level-up professional skillsets/certifications
 
 2) What do you know about social media, interactions, DMs ... how can you deliver content that promotes your ability to be seen as thought leader and Presidential candidate in 2028 ... it's not just Twitter, Medium, LinkedIn, Substack, et al ... it also includes the use of SMM tools like Hootsuite, Buffer, CloudCampaign, etc.
 
