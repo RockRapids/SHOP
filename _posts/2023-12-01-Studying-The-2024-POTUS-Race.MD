@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2024 is for STUDYING How to Best Run for POTUS in 2028"
+title:  "The 2024 Campaign: A Case Study in Political Economics and the NEW Logic of Collective Action"
 date:   2023-12-01 4:30:00
 categories: Discipline
 ---
@@ -8,37 +8,61 @@ categories: Discipline
 
 
 
-# Shift Left ... Not Politically ... But in Time
+# 2024 is for STUDYING How to Best Run for POTUS in 2028
 
 Stop looking in the rear view mirror ... THINK about the Journey ahead. 
 
-It's already time to start cutting up the carcasses and do the POST-mortem autopsy on the failed candidacies of 2024.
+By January 1st, 2021, right after the 2020 elections, the STRATEGIC decisions that were going to affect the 2024 campaign were already made. AFTER that, every significant move was a matter of implementing a tactical decision. 
+
+Now, in late 2023, it's already time to start cutting up the carcasses and do the POST-mortem autopsy on the failed candidacies of 2024.
 
 ## What does not work and why
 
-The race for 2024 started in December 2020, right after the Electoral College convened and the state legislatures certified the electors ... RIGHT THEN, back in 2020 is when the race for the 2024 kicked off IN EARNEST ... of course, we know from history, that candidates have to have a pathologically level of ambition for the Oval office and they must aspire ***serioiusly*** to prepare their lives to be ready for the Presidency from their youth -- we're not talking about THAT ... what we are talking about is the organizational groundwork that preceeds serious, every day campaigning by the earliest advance teams ... THAT is the part of the ***campaign*** for 2024 started in December 2020 ... the Trump campaign is really the only campaign that came close to realizing this and started [somewhat incoherently at first] putting together the Trump 2024 organization with officials working the early states immediately, or at least right after January 6 ... nobody else [who could entertain serious aspirations to be POTUS] started soon enough.
+The race for 2024 STARTED IN EARNEST in December 2020, right after the Electoral College convened and the state legislatures across the country certified the electors. Of course, individuals that would run in 2024 had already had a LIFETIME of personal strategic decisions that had occured in the four or five decades BEFORE 2020 ... but, the CAMPAIGN for 2024, started right after the votes were tabulated and certified in 2020.
 
-So ... to otherwise great candidates like Doug Burgum who are more than well-qualified ... the question is WHY? ... ***WHY in the world would you wait to put together a skeletal staff until 2023 to kick off your campaign for the POTUS race in 2024?*** *If you were going to run ... exactly WHAT were you waiting for? WHAT IN THE WORLD WERE YOU WAITING FOR?* Why get in so late?  Didn't you really BELIEVE that you were going to be a serious contender? *If you really did believe that you'd make a good President, then WHY did you waffle on the fence, waiting for support?*  
+Of course, we know from history, that candidates have to have successfully DEMONSTRATED to all of those around them a pathologically level of ambition for the Oval office. Any serious candidate really must aspire ***serioiusly*** to prepare their lives to be ready for the Presidency from their youth.  There are only a few thousand [at most] people in that pool of citizen leaders -- we are not talking about those people, ie the people who will have served in a Legislature OR as a Governor OR will have started/ran a major enterprise. That is actually far more interesting, more human topic ... it's not just the Founding Fathers OR Abraham Lincoln or all kinds of biographies of major figures, studying success and leadership will be far more applicable than the topic of political campaigns.  
 
-*This timidity on the part of OTHER candidates is WHY a guy named Trump has the support he does.*
+This topic is far more arcane, although some of us are very interested in political economics and what we refer to as the NEW Logic of Collective Action.
 
-By election night of Novemer, 2022, you should have already a minimally-staffed campaign organization in place that had already played a role in electing your political allies in the 2022 elections.  
+This is a fairly dry, technical topic in the organization of political decisionmaking ... it's stuff for economists and political economists and historians to studd.  It's all about is the organizational groundwork, planning, implementation, and constant updating and revision of strategic plan that MUST preceeds serious, every day campaigning by the earliest advance teams.
 
-Shift LEFT means that campaign starts WAY EARLIER ... in practice, this means, you should have had the intell gathering operation in place in 2021 ... a concrete organization of PAID staffers who believed in your campaign -- not just some informal phone calls, but PAID staff [low-cost but dedicated staff, working out of their den at home OR mom&dad's basement] ... a concrete organization which would help you to play a role at early level fundraising activities and the like that were all about electing the next generation of political leaders, new candidates running for Legislature, Attorney General and Secretary of State and Governor in  the key states of the 2024 race ... 
+The important point is that we need to understand why the ***campaign*** for 2024 started IN EARNEST in December 2020 ... even though, most of the candiates never got that memo. The Trump campaign is really the only campaign that came close to realizing this and started [somewhat incoherently at first] putting together the Trump 2024 organization with officials working the early states immediately, or at least right after January 6 ... nobody else [who could entertain serious aspirations to be POTUS] started soon enough.
 
-Leadership involves ambition and vision ... personal foresight ... why is it necessary to remind candidates why YOU NEED TO DIG YOUR WELL BEFORE YOU ARE THIRSTY?
+So ... to otherwise great candidates like Doug Burgum and others who are generally excellent citizen-leaders and are more than well-qualified although new to POTUS campaigns -- the big question is WHY [did you start so late]? If offering your services to be POTUS, is important to you -- WHY WAIT? ... In particular, ***WHY in the world would you wait to put together a skeletal staff until 2023 to kick off your campaign for the POTUS race in 2024?*** *If you were going to run ... exactly WHAT were you waiting for to start building your team? Obviously, you cannot do everything yourself -- by why not put together the team that will help? So ...WHAT IN THE WORLD WERE YOU WAITING FOR?* Why get in so late?  Didn't you really BELIEVE that you were going to be a serious contender? *If you really did believe that you'd make a good President, then WHY should a qualified, capable candidate with aspirations to serve WAIT ... what is to be gained by waffling on the fence, waiting for invitation to materialize from the heavens?*  
 
-Start EARLIER ... if you are thinking about the race for 2028 ... you need to start NOW ... or, actually, you should have started earlier because you are already behind ... but the past is the past ... you can't change that ... we don't drive by looking in the rear view mirror; we drive by looking forward.  
+**This timidity on the part of OTHER candidates is WHY a guy named Trump has the support he does.**
 
-# 2024 is for STUDYING How to Best Run for POTUS in 2028
+By election night of Novemer, 2022, a qualified, capable candidate for the office of POTUS should have already had a minimally-staffed campaign organization in place that, most importantly, already had the experience of directing playing a recognizable role in electing your political allies in the 2022 elections. The same WILL apply to the 2028 race ... or the 2032 race ... or beyond.
 
-Let's start thinking about some of the key dates ... there will be lots of opportunities to learn, but PRACTICALLY speaking ... the 2024 race is basically already over ... opinion leaders have already pretty much made up their minds about how they see things working out ... it's too late to build a campaign organization for 2024, but it's not too late to start building that skeletal campaign organization for 2028 ... study what is working, who the fresh faced rising future stars ... start locking up the talent that your campaign will need to be successful as it puts together its PAID team in December 2024 ... you should have started before for 2028, but you can start now.
+Candidates start way too LATE ... they need to shift earlier ... in the development of systems, ***shifting LEFT*** means that the development starts WAY, WAY, WAY EARLIER at a more microfoundational level, because we typically think of the project timetime as progressing timewise, reading left-to-right- ... in the practice of political campaigns, *shifting left* means, a candidate for a 2024 office should have had its intell gathering operation in place in 2021 and built that organization by electing allies for the 2022 election ... as soon as it could write a check that would not bounce, a campaign need to have a concrete organization of PAID full-time staffers who believed in that campaign -- not just some informal phone calls, but PAID staff [low-cost but dedicated staff, working out of their den at home OR mom&dad's basement] ... a concrete organization which would help you to play a role at early level fundraising activities and the like that were all about electing the next generation of political leaders, new candidates running for Legislature, Attorney General and Secretary of State and Governor in  the key states of the 2024 race ... 
 
-## Start brainstorming about the key points of your 2028 campaign NOW
+**Leadership involves ambition and vision ... personal foresight and definition of a brand. WE NEED TO DIG OUR WELLS LONG BEFORE WE ARE EVER EVEN THINKING ABOUT BEING THIRSTY?** So start EARLIER ... if you are thinking about the race for 2028 ... you need to start NOW ... or, actually, you should have started earlier because you are already behind ... but the past is the past ... you can't change that ... we don't drive by looking in the rear view mirror; we drive by looking forward.  
 
-FORK this repo ... populate your OWN list of 200 brainstormed ideas, but CAPTURE those ideas right now ... segment those ideas into the following categories ... A) Actionable right now, B) Actionable with funding, C) Actionable, in case you have more funding than you know what to do with, D) Parking lot, wild hair ideas that need more development 
+# At this point ... 2024 is for failure analysis and post-mortem autopsies
 
-0 ) ***BEFORE STARTING*** ... *PLEASE refactor, edit, revise, edit, refactor, revise again and to compress the following list ... it's still extremely rough ... it's just a starting gas capture of vaporware ... a VERY RAW brainstorming list ... only a starting point ... a work in progress.*
+We are coming up on what the general public recognizes as key dates, but the 2024 race is already basically over by January 1st.  Of course, there will be lots of opportunities to learn, but PRACTICALLY speaking ... the decisions that really shaped the 2024 race happened three year ago [or even before].  Large donors and even opinion leaders in small groups of friends and family members have already pretty much made up their minds about how they see things working out. So, even a year ago, was too late to build a campaign organization for 2024, but it's not too late to start building that skeletal campaign organization for 2028 and what will be put in place after the dust settles and electoral college votes are formally certified. 
+
+Now ... study what is working, who the fresh faced rising future stars ... start locking up the talent that your campaign will need to be successful as it puts together its PAID team in December 2024 ... any aspiring candidate should have started personally long before for 2028, of course, but if you care about future races, you can start now.
+
+## Organizing a campaign and designing a VLSI circuit share similarities
+
+That's true in *very* general sense in terms of the planning and optimization involved ... but campaigns, because they are about human beings and the logic of collective action, far more complex.
+
+Designing a campaign to serve a consituency of voters is *SOMEWHAT* like designing a very large-scale integrated (VLSI) logic circuit. Nobody who designs new microprocessors or logic circuits starts from scratch -- it's all about reusing intellectual property for extremely large scale information processing tasks that have been THOROUGHLY proven in generations before.  Organizing a campaign and designing a VLSI circuit share SOME similarities in terms of the planning and optimization involved. It is obviously necessary to recognize that political campaigns are far more complex than mere microprocessors, but . Here are some ways in which they are similar:
+
+* Both involve dividing a large entity into smaller parts: In voter organization, a constituency is divided into smaller precincts or districts for better management. Similarly, in VLSI design, a large circuit is divided into smaller blocks or modules for easier design and optimization ... and then, successively more intensive refactoring, re-design and more intense optimization ... and, as time elapses and lessons are learned, the optimization of the planning continues iteratively.
+* Both require careful planning and placement: In voter organization, precincts are planned and placed to ensure efficient voting processes and maximum voter turnout. In VLSI design, components are placed on the chip to minimize distance and optimize signal integrity.
+* Both involve managing interconnections: In voter organization, precincts are connected to each other through voting systems and networks. In VLSI design, components are connected through wires and buses to enable communication and data transfer.
+* Both require optimization for performance and efficiency: In voter organization, the goal is to maximize voter turnout and minimize wait times. In VLSI design, the goal is to minimize power consumption, reduce latency, and optimize performance.
+* Both involve testing and verification: In voter organization, precincts are tested and verified to ensure accurate vote counting and security. In VLSI design, the circuit is tested and verified to ensure proper functioning and reliability.
+
+Of course, it should be blatantly obvious to recognize that voter organization and VLSI design are fundamentally different in terms of their purpose and scope. Voter organization is focused on ensuring more fair, more efficient elections with a better-informed electorate while VLSI design is only about a simpler, more narrowly scoped task of creating complex electronic systems for various applications. This analogy is only a model for thinking about the overall roadmap of how the process needs to unfold.
+
+## Roll your own campaign. Start brainstorming about the key points of your 2028 campaign NOW
+
+Of course, you can do it better than this, but you're welcome to *start* with this approach. FORK this repo ... populate your OWN list of 200 brainstormed ideas, but just find a way CAPTURE those ideas right now ... segment those ideas into the following categories ... A) Actionable right now, B) Actionable with funding, C) Actionable, in case you have more funding than you know what to do with, D) Parking lot, wild hair ideas that need more development 
+
+0 ) ***BEFORE STARTING*** ... *PLEASE refactor, edit, revise, edit, refactor, revise again and to compress the following list ... it's RAW ... still extremely rough ... it's just a starting gas capture of vaporware ... the VERY RAWEST of RAW brainstorming lists ... only a starting point to sort of illustrate the ideation process ... definitely a work in progress.*
 
 1) People, organization, staffing, volunteers ... WHO is going to BELIEVE in your 2028 campaign enough to work insane hours for a minimal earnest money commitment in salary ... don't expect GOOD people put their life on hold and go into debt for YOUR campaign ... you will need to have a plan to pay them *something* or cover their expenses ... but exactly WHO are these people in states like Iowa, New Hampshire, South Carolina ... exactly WHO are these people that are going to start electing your political allies in your national "overnight success" organization.
 
