@@ -85,7 +85,7 @@ Of course, you can do it better than this, but you're welcome to *start* with th
 
 0 ) ***BEFORE STARTING*** ... *PLEASE refactor, edit, revise, edit, refactor, revise again and to compress the following list ... it's RAW ... still extremely rough ... it's just a starting gas capture of vaporware ... the VERY RAWEST of RAW brainstorming lists ... only a starting point to sort of illustrate the ideation process ... definitely a work in progress.*
 
-1) ***SERVE the constituents FIRST!!!*** For starters, list awesome open source app projects or perhaps develop an indexed roadmap of key *buddytrack* social AI-ified app refinements [based on [Zulip](https://github.com/zulip/zulip) or [Thunderbird](https://www.thunderbird.net/en-US/get-involved/)] that in addition to providing informative value [pulling data/AI models from available sources] also furnishes a social networking/messaging opportunity with *shares-my-passions* fellow consitutents:
+1) ***SERVE the constituents FIRST!!!*** For starters, list awesome open source app projects or perhaps develop an indexed roadmap of key *buddytrack* social AI-ified app refinements [based on [Zulip](https://zulip.com/case-studies/rust/) or [Thunderbird](https://www.thunderbird.net/en-US/get-involved/)] that in addition to providing informative value [pulling data/AI models from available sources] also furnishes a social networking/messaging opportunity with *shares-my-passions* fellow consitutents:
 
 * A) AccidentalInvention or TRIZ.tips to apply the contradiction matrix and 40 principles from the Theory of Inventive Problem Solving
 * B) Business development CRM for entrepreneurs, professionals to market per their products, movements, research funding, open source projects
