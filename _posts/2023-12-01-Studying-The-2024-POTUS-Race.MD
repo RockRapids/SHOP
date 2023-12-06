@@ -85,7 +85,9 @@ Of course, you can do it better than this, but you're welcome to *start* with th
 
 0 ) ***BEFORE STARTING*** ... *PLEASE refactor, edit, revise, edit, refactor, revise again and to compress the following list ... it's RAW ... still extremely rough ... it's just a starting gas capture of vaporware ... the VERY RAWEST of RAW brainstorming lists ... only a starting point to sort of illustrate the ideation process ... definitely a work in progress.*
 
-1) ***SERVE the constituents FIRST!!!*** For starters, list awesome open source app projects or perhaps develop an indexed roadmap of key *buddytrack* social AI-ified app refinements [based on [Zulip](https://zulip.com/case-studies/rust/) or [Thunderbird](https://www.thunderbird.net/en-US/get-involved/)] that in addition to providing informative value [pulling data/AI models from available sources] also furnishes a social networking/messaging opportunity with *shares-my-passions* fellow consitutents:
+1) ***SERVE the constituents FIRST!!!*** For starters, listify awesome open source app projects to be adapted by the campaign ... perhaps develop an indexed roadmap of key PLANNED *buddytrack* social AI-ified app refinements ... you might start with something like [a [Zulip based community](https://zulip.com/case-studies/rust/) or perhaps [a spin on Thunderbird's email/RSS reader](https://www.thunderbird.net/en-US/get-involved/)] ... the aim to ***SERVE the constituents FIRST!!!*** *RATHER than ask them to make financial contributions to fund a traditional [FAILED] approach to a campaign  ... so in addition to providing informative value [pulling data/AI models from available sources] also furnishes a social networking/messaging opportunity with *shares-my-passions* fellow consitutents.  
+
+The campaign should ATTRACT open source developers for apps that ***SERVE the constituents FIRST!!!***  Here are some ideas:
 
 * A) AccidentalInvention or TRIZ.tips to apply the contradiction matrix and 40 principles from the Theory of Inventive Problem Solving
 * B) Business development CRM for entrepreneurs, professionals to market per their products, movements, research funding, open source projects
@@ -110,10 +112,9 @@ Of course, you can do it better than this, but you're welcome to *start* with th
 * U) UltraFrugal app to help people lower their expenses, rideshare, upcycle, recycle, barter, trade, share, rent, lease, auction, refurb
 * V) Venture app that helps isolated entrepreneurs and professionals kibitz over the problems of side hustles or investment struggles
 * W) Wellness app to help people *buddytrack* their health, fitness, nutrition, sleep, mental health, stress, meditation, yoga, tai chi
-* X) Networking app-of-apps that helps pols to find like-minded activists in their states, Congressional Districts and Twitter
-* Y) WHY, Knowing Your Why, as well *buddytracking* those impossible, impenetrable stumpers and root cause investigations
+* X) X-networking app-of-apps glue that helps pols to find like-minded activists in their states, Congressional Districts, Twitter/FB
+* Y) WHY, Knowing Your Why, WISDOM sharing as well *buddytracking* those impossible, impenetrable problems and root cause investigations
 * Z) Sleep hygiene app to help people *buddytrack* their sleep habits, sleep apnea, sleep studies, sleep clinics, sleep doctors
-
 
 2) What do you know about social media, interactions, DMs ... how can you deliver content that promotes your ability to be seen as thought leader and Presidential candidate in 2028 ... it's not just Twitter, Medium, LinkedIn, Substack, et al ... it also includes the use of SMM tools like Hootsuite, Buffer, CloudCampaign, etc.
 
