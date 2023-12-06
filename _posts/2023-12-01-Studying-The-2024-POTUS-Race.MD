@@ -85,9 +85,11 @@ Of course, you can do it better than this, but you're welcome to *start* with th
 
 0 ) ***BEFORE STARTING*** ... *PLEASE refactor, edit, revise, edit, refactor, revise again and to compress the following list ... it's RAW ... still extremely rough ... it's just a starting gas capture of vaporware ... the VERY RAWEST of RAW brainstorming lists ... only a starting point to sort of illustrate the ideation process ... definitely a work in progress.*
 
-1) ***SERVE the constituents FIRST!!!*** For starters, listify awesome open source app projects to be adapted by the campaign ... perhaps develop an indexed roadmap of key PLANNED *buddytrack* social AI-ified app refinements ... you might start with something like [a [Zulip based community](https://zulip.com/case-studies/rust/) or perhaps [a spin on Thunderbird's email/RSS reader](https://www.thunderbird.net/en-US/get-involved/)] ... the aim to ***SERVE the constituents FIRST!!!*** *RATHER than ask them to make financial contributions to fund a traditional [FAILED] approach to a campaign  ... so in addition to providing informative value [pulling data/AI models from available sources] also furnishes a social networking/messaging opportunity with *shares-my-passions* fellow consitutents.  
+1) ***SERVE the constituents FIRST!!!*** For starters, listify awesome open source app projects to be adapted by the campaign ... perhaps develop an indexed roadmap of key PLANNED *buddytrack* social AI-ified app refinements ... you might start with something like [a [Zulip based community](https://zulip.com/case-studies/rust/) or perhaps [a spin on Thunderbird's email/RSS reader](https://www.thunderbird.net/en-US/get-involved/)] ... the aim to ***SERVE the constituents FIRST!!!*** *RATHER than ask them to make financial contributions to fund a traditional [FAILED] approach to a campaign*
 
-The campaign should ATTRACT open source developers for apps that ***SERVE the constituents FIRST!!!***  Here are some ideas:
+In addition to providing informative value [pulling data/AI models from available sources] also furnishes a social networking/messaging opportunity with *shares-my-passions* fellow consitutents. The campaign should be structured to ATTRACT people who want to develop skills while they meet people ... that means, the primary target will be open source developers for apps that ***SERVE the constituents FIRST!!!***
+
+Here are some ideas for what that might look like:
 
 * A) AccidentalInvention or TRIZ.tips to apply the contradiction matrix and 40 principles from the Theory of Inventive Problem Solving
 * B) Business development CRM for entrepreneurs, professionals to market per their products, movements, research funding, open source projects
