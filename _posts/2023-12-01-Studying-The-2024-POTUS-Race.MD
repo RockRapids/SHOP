@@ -87,16 +87,33 @@ Of course, you can do it better than this, but you're welcome to *start* with th
 
 1) SERVE the constituents FIRST!!! For starters, list [at least] ten key *buddytrack* apps [based on Zulip?] that in addition to providing informative value [pulling data from available sources] also furnishes a social networking/messaging opportunity with *shares-my-passions* fellow consitutents:
 
-* A) A training app that helps people to *buddytrack* shared fitness/martial arts goals with close friends and family members
-* B) A diet, cooking and meal planning app to helps people *buddytrack* their meals, food coops, dirct sources, glucose/keto/vit D levels
-* C) An outdoors app that helps campers/hunters/fishers/hikers *buddytrack* outdoors events, shops/services, club travel opportunities
-* D) A side hustle app that helps entrepreneurs, professionals and candidates to network per their side hustles or investment aspirations
-* E) A social networking app that helps pols to find like-minded activists in their states, Congressional Districts and communities
-* F) A social farming/gardening app *buddytrack* gardens, food preservation, composting, plant exchange, livestock, 4H projects
-* G) A gunowners app that helps gun owned to find shooting ranges, gunsmiths, gun clubs, gun shows, gun shops in their area
-* H) A sports app that families and athletes *buddytrack* their athletic passions with similar families in their region or state
-* I) A music/art/festival app that helps people *buddytrack* creative recreational events, workshops, galleries, training, performances
-* J) A job search app to help find better remote work and develop their own syllabi level-up professional skillsets/certifications
+* A) AccidentalInvention or TRIZ.tips to apply the contradiction matrix and 40 principles from the Theory of Inventive Problem Solving
+* B) Business development CRM for entrepreneurs, professionals to market per their products, movements, research funding, open source projects
+* C) Coaching, discipline accountability app ... did you use your 86400 seconds as you intended today? What's your plan to improve tommorow?
+* D) Diffversity app to help people *buddytrack* exploration of new cultures, new languages, new ideas, new foods, maverick music/art
+* E) 
+* F) Funnier.Be app to help people *buddytrack* a deeper interest what brings the funny; not just laughing, but what makes people ponder
+* G) Gunowners app that helps gun owned to find shooting ranges, gunsmiths, gun clubs, gun shows, gun shops in their area
+* H) Healing app to help people *buddytrack* recover to wellness, herbel medicine, traditional chinese medicine, yoga, flexibilty
+* I) Improvment app, not just sports, but practice like you play, *buddytrack* highly specific practice sessions, drills, etc
+* J) Job search app to help find better remote work and develop their own syllabi level-up professional skillsets/certifications
+* K) Frgl.be app to help people lower their expenses, rideshare, upcycle, recycle, barter, trade, share, rent, lease, auction, refurb
+* L) Listify app for people to *buddytrack* their bucket lists, reading lists, watch lists, shopping lists, to-do lists, wish lists
+* M) Music/art/festival app that helps people *buddytrack* creative events, workshops, museums, galleries, dances, performances
+* N) Nature/gardening app *buddytrack* gardens, food preservation, composting, plant exchange, landscape architecture, ecosystem resto 
+* O) Outdoors app that helps campers/hunters/fishers/hikers *buddytrack* outdoors events, shops/services, club travel opportunities
+* P) Party app for FUN, parties, weddings, reunions, anniversaries, birthdays, graduations, holidays, celebrations, even funerals/memorials
+* Q) Diet, cooking and meal planning app to helps people *buddytrack* their meals, food coops, dierct sources, glucose/keto/vit D levels
+* R) Real estate app that helps people *buddytrack* home improvement, home repair/maintenance, home security, real estate
+* S) Sports app that families and athletes *buddytrack* their athletic passions with similar families in their region or state
+* T) Training app that helps people to *buddytrack* shared hard core fitness/martial arts goals with competitive athletes, enthusiasts
+* U) University-in-an-app that helps autodidacts *buddytrack* self-directed learning, syllabi, certifications, programs of study, etc
+* V) Venture app that helps isolated entrepreneurs and professionals kibitz over the problems of side hustles or investment struggles
+* W) Wellness app to help people *buddytrack* their health, fitness, nutrition, sleep, mental health, stress, meditation, yoga, tai chi
+* X) Networking app-of-apps that helps pols to find like-minded activists in their states, Congressional Districts and Twitter
+* Y) Five levels of WHY and the full Ishikawa, a brainstorming app for problem-solvers with *buddytracking* for root cause investigations
+* Z) Sleep hygiene app to help people *buddytrack* their sleep habits, sleep apnea, sleep studies, sleep clinics, sleep doctors
+
 
 2) What do you know about social media, interactions, DMs ... how can you deliver content that promotes your ability to be seen as thought leader and Presidential candidate in 2028 ... it's not just Twitter, Medium, LinkedIn, Substack, et al ... it also includes the use of SMM tools like Hootsuite, Buffer, CloudCampaign, etc.
 
