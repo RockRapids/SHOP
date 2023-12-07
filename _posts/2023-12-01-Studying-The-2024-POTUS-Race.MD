@@ -427,7 +427,9 @@ Ultimately, developers combining these techniques will create differentiated app
 
 64) Eating our own dogfood and contributing to open source communities is a key part of SERVING CONSTITUENTS FIRST. Do you spend a few minutes everyday following [AWESOME open source development tools](https://wiki.opensourceisawesome.com/shelves/open-source-tools)?
 
-65) About homelabs ... and reusing old miniPCs and such ...
+65) About homelabs ... and reusing old miniPCs, laptops, chromebooks, raspberry pis ... not just for [salvaging components or making a small monitor from an old laptop screen](https://www.youtube.com/watch?v=_yCa0NtO3Ng) *which is remarkable in itself just for the fixer creativity ideas* ... but mostly this is about developing a sandbox of functional nodes for networking experiments. 
+
+66) Instead of selling that old phone for $50, how about continuing to TINKER with it, maybe rooting it and tearing it apart ... or just simply reusing old phones or FireOS tablets in a less invasive approach ... such as [turning your old phone into a home security camera](https://www.youtube.com/watch?v=YntmlWeWsAo) ... there's [an entire genre of this device upcycling material out there on YouTube](https://www.youtube.com/results?search_query=turn+your+old+phone+into+a+security+camera+dash+cam+or+gopro+&sp=CAE%253D)
 
 66)
 
