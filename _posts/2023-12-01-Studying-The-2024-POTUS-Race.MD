@@ -425,7 +425,7 @@ Ultimately, developers combining these techniques will create differentiated app
 
 63) For [relatively] secure private meetings and protecting your information security and internet privacy ... how's your [homelab networking playground, specifically your Tailscale game](https://youtu.be/XXx7NDgDaRU?si=lQF3kTwNuEVvA2aS)? How would you use Proxmox? Would you recommend pfSense or OPNsense? What's your comfort level with [Tailscale](https://tailscale.com/) or [ZeroTier](https://www.zerotier.com/) or [WireGuard](https://www.wireguard.com/) or [OpenVPN](https://openvpn.net/) or [SoftEther](https://www.softether.org/) or [Tinc](https://www.tinc-vpn.org/) or [Pritunl](https://pritunl.com/) or [TunSafe](https://tunsafe.com/) or [Freelan](https://freelan.org/) or [Passepartout](https://passepartoutvpn.app/) or [Tunnelblick](https://tunnelblick.net/) or [Viscosity](https://www.sparklabs.com/viscosity/) or [OpenConnect](https://www.infradead.org/openconnect/) or [WireGuard](https://www.wireguard.com/) or [OpenSSH](https://www.openssh.com/) or [OpenVPN](https://openvpn.net/) or [Streisand](
 
-64)
+64) Eating our own dogfood and contributing to open source communities is a key part of SERVING CONSTITUENTS FIRST. Do you spend a few minutes everyday following [AWESOME open source development tools](https://wiki.opensourceisawesome.com/shelves/open-source-tools)?
 
 65)
 
