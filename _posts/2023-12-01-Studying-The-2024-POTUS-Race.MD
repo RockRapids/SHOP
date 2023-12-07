@@ -118,7 +118,7 @@ Here are some ideas for what that might look like:
 * Y) WHY, Knowing Your Why, WISDOM sharing as well *buddytracking* those impossible, impenetrable problems and root cause investigations
 * Z) Sleep hygiene app to help people *buddytrack* their sleep habits, sleep apnea, sleep studies, sleep clinics, sleep doctors
 
-2) What do you know about social media, interactions, DMs ... how can you deliver content that promotes your ability to be seen as thought leader and Presidential candidate in 2028 ... it's not just Twitter, Medium, LinkedIn, Substack, et al ... it also includes the use of SMM tools like Hootsuite, Buffer, CloudCampaign, etc.
+2) How much do you know about social media, interactions, DMs ... it's probably not enough, if you want to build any kind of campaign. You should be thinking about providing SERVICE to constituents RATHER than running a traditional, ie from 2020 or before, old school campaign. How can you BEST deliver *a connection* that promotes your ability to be seen as thought leader and Presidential candidate in 2028 ... it's not just Twitter or the Twitter API with Postman or others like Medium, LinkedIn, Substack, et al and a bunch of wiz bang data analytics dashboards ... it's about CONNECTIONS ... connections include the mastery of SMM tools like Hootsuite, Buffer, CloudCampaign, etc to CONNECT with voters.
 
 2) What do you know about analytics, experimentation, optimization to drive engagement ... including the use of tools like Google Analytics, Google Optimize, [Google Tag Manager](https://support.google.com/tagmanager/answer/6102821?hl=en), etc.
 
@@ -409,7 +409,7 @@ In order to do that you will need to become a bit of [a FireOS developer](https:
 
 * Vectera: Vectera is a popular alternative to TidyCal and Calendly that offers a range of features, including customizable scheduling pages, automated reminders, and integration with popular calendar apps.
 
-61)
+61) Are you ready to start [building with Gemini](https://deepmind.google/technologies/gemini/#build-with-gemini), which is [DeepMind Technology](https://deepmind.google/technologies/)'s largest and most capable AI model. It's worth spending 90 seconds or so thinking about what Gemini might mean. Of course, it might be a bit early YET, before the [Google Cloud Applied AI Summit]](https://cloudonair.withgoogle.com/events/summit-applied-ml-summit-23) on December 13th, 2023] to [build something for Gemini](https://deepmind.google/technologies/gemini/#build-with-gemini) and [Google's AI Studio](https://cloud.google.com/generative-ai-studio?hl=en) and [Vertex AI](https://cloud.google.com/vertex-ai?hl=en), but have you [interacted with Gemini](https://developers.googleblog.com/2023/12/how-its-made-gemini-multimodal-prompting.html) through [DeepMind's approach to Multimodal Prompting?](https://www.youtube.com/watch?v=UIZAiXYceBI)? Maybe you have [read the Gemini paper](https://arxiv.org/abs/2112.11024) or [read the DeepMind [marketing] blog post](https://deepmind.com/blog/article/how-its-made-gemini-multimodal-prompting)?  [Unlocking insights in scientific literature](https://www.youtube.com/watch?v=sPiOP_CB54A) ... or any information-driven domain, for that matter ... will change with multimodal prompting ... it's not so much that it replaces what has come before, but it really does appear that Gemini takes a lot of the mindbogglingly tedious work of grokking the lay of the land on large information domains, ie like political data.
 
 62)
 
