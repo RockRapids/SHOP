@@ -427,7 +427,7 @@ Ultimately, developers combining these techniques will create differentiated app
 
 64) Eating our own dogfood and contributing to open source communities is a key part of SERVING CONSTITUENTS FIRST. Do you spend a few minutes everyday following [AWESOME open source development tools](https://wiki.opensourceisawesome.com/shelves/open-source-tools)?
 
-65)
+65) About homelabs ... and reusing old miniPCs and such ...
 
 66)
 
