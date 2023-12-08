@@ -431,9 +431,9 @@ Ultimately, developers combining these techniques will create differentiated app
 
 66) Instead of selling that old phone for $50, how about continuing to TINKER with it, maybe rooting it and tearing it apart ... or just simply reusing old phones or FireOS tablets in a less invasive approach ... such as [turning your old phone into a home security camera](https://www.youtube.com/watch?v=YntmlWeWsAo) ... there's [an entire genre of this device upcycling material out there on YouTube](https://www.youtube.com/results?search_query=turn+your+old+phone+into+a+security+camera+dash+cam+or+gopro+&sp=CAE%253D)
 
-66)
+66) https://www.hubspot.com/products/marketing-hub https://ecosystem.hubspot.com/marketplace/apps/apps-for-marketing-campaigns
 
-67)
+67) https://github.com/topics/langchain https://github.com/topics/gpt4 https://github.com/topics/prompt-engineering https://github.com/topics/semantic-search
 
 68)
 
