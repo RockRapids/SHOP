@@ -437,7 +437,31 @@ Ultimately, developers combining these techniques will create differentiated app
 
 68) [Scientific instruments](https://en.wikipedia.org/wiki/Scientific_instrument) provide examples for how we might think about designing and optimizing measurement systems for campaigns. Obviously, the applications of these systems in fields such as physics, engineering, and environmental monitoring not exactly directly applicable to intelligence gathering for political campaigns, as it does not take into account the complex social and political factors that influence human behavior and decision-making, but [detection theory or signal detection theory](https://en.wikipedia.org/wiki/Detection_theory) is THEORETICAL construct for thinking about how we might measure the ability to differentiate between information-bearing patterns (called stimulus in living organisms, signal in machines) and random patterns that distract from the information (called noise, consisting of background stimuli and random activity of the detection machine and of the nervous system of the operator). Since the tools available for use to record photos, audio or video from unsuspecting voters are so incredible powerful in capturing infomation, we must focus more on ethical and legal methods of gathering information and analyzing data for political campaigns ... how we might design our own surveys or strategies for focus groups and interviews with voters ... as well as analyzing publicly available data such as social media trends, polling data, and campaign finance reports. A key part of this is being more proactive about concerns to respect voters' privacy not use [or collect] their private data in ways that could be misleading or manipulative. Transparency and accountability are not really sufficient -- even tight information/data security aren't really sufficient, it's important to ensure that all data are collected and analyzed in ways that the data cannot be used in a manner consistent with ethical principles and legal regulations.
 
-69)
+69) What makes [NOTION.so](https://www.notion.so/help/guides/category/ai) better than its competition? It's really in the COMBINATION of things: 
+
+   A) All-in-One Workspace: MOST IMPORTANTLY, it's what it brings together in a comprehensive workspace that combines notes, tasks, databases, and page templates into a single interface. This allows users to access and manage all their work-related content in one place, making it easier to stay organized and focused.
+
+   B) Customization: Notion.so provides a high degree of customization, enabling users to tailor their workspace to their specific needs. Users can create databases, tasks, and pages that fit their workflow, and they can also customize the layout and design of their workspace.
+
+   C) Flexibility: Notion.so is a flexible tool that can be used for a wide range of purposes. It can be used for personal task management, team collaboration, project management, and even as a knowledge base. Its flexibility makes it a great tool for users who need to manage multiple tasks and projects simultaneously.
+
+   D) Integration: Notion.so integrates seamlessly with other tools and services, including Google Drive, Trello, Asana, and Slack. This allows users to leverage the power of Notion.so alongside the tools they already use, making it easier to streamline their workflow and increase productivity.
+
+   E) Mobile Access: Notion.so offers mobile apps for iOS and Android devices, allowing users to access and manage their content on the go. This makes it easy to stay productive and connected, even when away from a computer.
+
+   F) Collaboration: Notion.so offers real-time collaboration features, enabling teams to work together simultaneously on documents, tasks, and projects. It also provides a commenting system, allowing team members to communicate and collaborate effectively.
+
+   G) Security: Notion.so takes security seriously, providing end-to-end encryption and two-factor authentication to protect user data. This ensures that sensitive information remains secure and confidential.
+
+   H) Scalability: Notion.so is designed to scale with the needs of its users. It can handle large amounts of data and content, making it a great choice for businesses and organizations that need to manage complex projects and workflows.
+
+   I) Affordable: Notion.so offers a free plan, as well as several paid plans that are affordable and offer great value for the features and functionality provided. This makes it an accessible tool for individuals and businesses of all sizes.
+
+   J) Continuous Improvement: Notion.so is constantly evolving and improving, with new features and updates being added regularly. This ensures that users have access to the latest productivity tools and techniques, helping them stay ahead of the curve and achieve their goals.
+
+   L) What else? What could make it better? 
+
+Is there room for an open source suite of connected apps in this space?   
 
 70)
 
