@@ -1,12 +1,17 @@
 ---
 layout: post
 title:  "The 2024 Campaign: A Case Study in Political Economics and the NEW Logic of Collective Action"
-date:   2023-12-01 4:30:00
+date:   2023-12-17 4:30:00
 categories: Discipline
 ---
 
+# Civics lesson: Key Dates in how the Electoral Collage functions
 
+Today, on the 17th day of December in 2023, we are exactly one full year out from when the Electors meet in their respective States and vote for President and Vice President on separate ballots. On December 17, 2024, the 538 Electors record their votes on six Certificates of Vote, which are paired with the six remaining Certificates of Ascertainment. The electors sign, seal up, and certify six sets of electoral votes. Each State's set of electoral votes consists of one Certificate of Ascertainment and one Certificate of Vote. Electoral votes must be received by the President of the Senate and the Archivist no later than the fourth Wednesday in December. If votes are lost or delayed, the Archivist may take extraordinary measures to retrieve duplicate originals. On or before January 3, 2025, the US Archivist transfers Certificates to Congress. On January 6, 2025, Congress meets in joint session to count the electoral votes. The Vice President, as President of the Senate, presides over the count and announces the results of the Electoral College vote. 
 
+It's basically already way to late for any citizen to do anything other in 2024 than just vote and help get out the vote so that all elgible voters exercise their legal right to vote.
+
+***It is NONE TOO EARLY to start thinking about the 2028 race ... or the 2032 race.***
 
 # 2024 is for STUDYING How to Best Run for POTUS in 2028
 
