@@ -468,7 +468,29 @@ Ultimately, developers combining these techniques will create differentiated app
 
 Is there room for an open source suite of connected apps in this space?   
 
-70)
+70) Startupcookbook ... 
+
+   A) How does this provide sufficient value to generate revenue
+
+   B) Spend nothing ... use free trials and use the best of the AFFORDABLE stuff first as you refine your idea, but get after positive net revenue and GROW IT
+
+   C) What's your minimum viable product? Where/how do you get it into customers hand or sell it? Freemium? Free trial? What aspects are free forever [but require customers to register and participate in surveys/webinars]?
+
+   D) Advertise with curated AI-ified AWESOME lists
+
+   E) What's the best AI / social media strategy?
+
+   F) What's the best AI / SEO strategy?
+
+   G) What's the best AI email marketing strategy?
+
+   H) What's the best AI / content marketing strategy?
+
+   I) Customized prompt engineering for each customer segment
+
+   J) Customized [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/) to optimize output of a large language model.
+
+   K) Use the  the [Google Cloud Generative AI repository on Github](https://github.com/GoogleCloudPlatform/generative-ai) for things like the [new Gemini and PaLM (legacy) API](https://ai.google.dev/docs) on [Android apps](https://ai.google.dev/tutorials/android_quickstart) with [different generative AI models](https://ai.google.dev/models) / [Vertex AI Jupyter Notebooks](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/retrieval-augmented-generation/intro_multimodal_rag.ipynb) with different [prompt samples](https://cloud.google.com/vertex-ai/docs/generative-ai/learn/prompt-samples) / [Model Garden](https://cloud.google.com/model-garden?hl=en) for first party foundation models and pretrained APIs, open source models, third-party models such as [Claude 2](https://www.anthropic.com/index/claude-2)
 
 71)
 
