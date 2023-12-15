@@ -13,11 +13,77 @@ It's basically already way to late for any citizen to do anything other in 2024 
 
 ***It is NONE TOO EARLY to start thinking about the 2028 race ... or the 2032 race.***
 
-# 2024 is for STUDYING How to Best Run for POTUS in 2028
+## First, the obvious, cliche, *safe* conventional wisdom answers, ie what LLMs tell us
 
-Stop looking in the rear view mirror ... THINK about the Journey ahead. 
+* Technological advancements: Social media platforms and data analytics will likely play an even more prominent role in campaigning.
+* Generational shifts: Millennials and Gen Z will make up a larger portion of the electorate, necessitating messaging and outreach tailored to their values and priorities.
+* Climate change: Concerns about the environment are likely to remain high, potentially influencing policy platforms and voter choices.
+* Economic uncertainty: The global economic climate in 2028 is difficult to predict, but could be a major campaign issue.
 
-By January 1st, 2021, right after the 2020 elections, the STRATEGIC decisions that were going to affect the 2024 campaign were already made. AFTER that, every significant move was a matter of implementing a tactical decision. 
+Tactics and Strategy Analysis:
+
+1. Messaging:
+
+Potentially Effective:
+
+Focusing on unity and common ground: In a polarized political climate, emphasizing shared values and solutions could appeal to moderate voters.
+Addressing the concerns of younger generations: Tailoring messaging to issues like climate change, student debt, and social justice can resonate with Millennials and Gen Z.
+Leveraging data-driven insights: Utilizing data analytics to personalize messaging and target specific demographics can increase effectiveness.
+Potentially Ineffective:
+
+Excessive negativity: Continued reliance on attack ads and divisive rhetoric may further alienate voters and hinder constructive dialogue.
+Ignoring key issues: Avoiding important topics like climate change or economic inequality can leave voters feeling disengaged.
+Failing to adapt to changing media landscapes: Sticking to traditional media outlets while neglecting new platforms like TikTok could limit reach and engagement.
+Recommendations:
+
+Develop a clear and concise message that focuses on the future and solutions.
+Prioritize authenticity and transparency in communication.
+Invest in research and data analysis to inform messaging strategies.
+
+2. Fundraising:
+
+Potentially Effective:
+
+Building a strong network of small-dollar donors: Continued focus on grassroots fundraising can provide a reliable and sustainable financial base.
+Utilizing emerging technologies: Exploring new avenues like cryptocurrency donations or blockchain-based fundraising platforms could attract innovative supporters.
+Engaging in corporate social responsibility initiatives: Aligning the campaign with ethical business practices could attract environmentally and socially conscious donors.
+Potentially Ineffective:
+
+Overreliance on PACs and special interests: Dependence on large donors could raise concerns about undue influence and special interests.
+Falling behind in technological advancements: Failing to adapt to new fundraising technologies could limit financial reach.
+Neglecting diverse funding sources: Relying solely on traditional methods like fundraising dinners may not be sufficient in the future.
+Recommendations:
+
+invest in building a diversified and geographically dispersed network of donors.
+Explore innovative fundraising methods while maintaining ethical practices.
+Increase transparency and accountability in all fundraising activities.
+
+3. Grassroots Organizing:
+
+Potentially Effective:
+
+Building community-based coalitions: Partnering with local organizations and advocacy groups can expand reach and influence beyond traditional party lines.
+Leveraging social media for mobilization and engagement: Utilizing platforms like TikTok and Instagram to organize events, share information, and build community can be highly effective.
+Prioritizing volunteer training and development: Investing in volunteer training programs can ensure a well-equipped and motivated grassroots network.
+Potentially Ineffective:
+
+Neglecting rural and marginalized communities: Focusing solely on urban areas can leave rural and minority voters feeling ignored and disengaged.
+Failing to address voter suppression tactics: Countering misinformation and ensuring voter access in vulnerable communities is crucial in a close election.
+Ignoring the power of online communities: Underestimating the potential of online activism and organizing can hinder mobilization efforts.
+Recommendations:
+
+Develop targeted outreach strategies to engage specific demographics and communities.
+Utilize data analytics to identify and mobilize key supporters.
+Invest in technology and social media tools to facilitate grassroots organizing and communication.
+Remember, this analysis is just a starting point for further exploration. As we approach 2028, new trends and challenges will emerge, necessitating ongoing adaptation and refinement of campaign strategies. Encourage further discussion and feedback to refine this analysis and gain a deeper understanding of what might work in the future political landscape.
+
+Disclaimer: This analysis is intended to be objective and non-partisan. However, due to the nature of political discourse, some interpretations may differ. I encourage you to critically evaluate the information presented, consider diverse perspectives, and engage in further research to form your own conclusions.
+
+# 2024 is for CLOSELY STUDYING How to Best Run for POTUS in 2028
+
+Stop looking in the rear view mirror, ie let the generative artificial intelligence models do that ... THINK AHEAD, THINK DIFFERENT ... this is about the JOURNEY ahead, not the one in the past. 
+
+What we know is how backward looking campaigns tend to be ... candidates should know bettr, but they never seem to learn. For example, by January 1st, 2021, right after the 2020 elections, the STRATEGIC decisions that were going to affect the 2024 campaign were already made. AFTER that, every significant move was a matter of implementing a tactical decision. 
 
 Now, in late 2023, it's already time to start cutting up the carcasses and do the POST-mortem autopsy on the failed candidacies of 2024.
 
@@ -490,7 +556,7 @@ Is there room for an open source suite of connected apps in this space?
 
    J) Customized [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/) to optimize output of a large language model.
 
-   K) Use the  the [Google Cloud Generative AI repository on Github](https://github.com/GoogleCloudPlatform/generative-ai) for things like the [new Gemini and PaLM (legacy) API](https://ai.google.dev/docs) on [Android apps](https://ai.google.dev/tutorials/android_quickstart) with [different generative AI models](https://ai.google.dev/models) / [Vertex AI Jupyter Notebooks](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/retrieval-augmented-generation/intro_multimodal_rag.ipynb) with different [prompt samples](https://cloud.google.com/vertex-ai/docs/generative-ai/learn/prompt-samples) / [Model Garden](https://cloud.google.com/model-garden?hl=en) for first party foundation models and pretrained APIs, open source models, third-party models such as [Claude 2](https://www.anthropic.com/index/claude-2)
+   K) Use the  the [Google Cloud Generative AI repository on Github](https://github.com/GoogleCloudPlatform/generative-ai) for things like the [new Gemini and PaLM (legacy) API](https://ai.google.dev/docs) on [Android apps](https://ai.google.dev/tutorials/android_quickstart) with [different generative AI models](https://ai.google.dev/models) as well as [Vertex AI Jupyter Notebooks](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/retrieval-augmented-generation/intro_multimodal_rag.ipynb) with different [prompt samples](https://cloud.google.com/vertex-ai/docs/generative-ai/learn/prompt-samples) from the [Model Garden](https://cloud.google.com/model-garden?hl=en) for first party foundation models and pretrained APIs, open source models, third-party models such as [Claude 2](https://www.anthropic.com/index/claude-2) or [DuetAI for Developers](https://services.google.com/fh/files/misc/gws_duet_ai_handbook.pdf?utm_source=wgc&utm_medium=et&utm_content=wgc-cs-button&utm_campaign=FY23-Q3-global-WKSP145-other-cs-duet-aiga--contact-sales-form&utm_term=-) to AI-enable a smoother software dev lifecycle from ideation in Workspace to a coded prototype to a deployed production app running in Google Cloud
 
 71)
 
