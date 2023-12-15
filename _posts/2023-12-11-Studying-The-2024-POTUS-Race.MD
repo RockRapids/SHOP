@@ -7,34 +7,42 @@ categories: Discipline
 
 # Civics lesson: Key Dates in how the Electoral Collage functions
 
-Today, on the 17th day of December in 2023, we are exactly one full year out from when the Electors meet in their respective States and vote for President and Vice President on separate ballots. On December 17, 2024, the 538 Electors record their votes on six Certificates of Vote, which are paired with the six remaining Certificates of Ascertainment. The electors sign, seal up, and certify six sets of electoral votes. Each State's set of electoral votes consists of one Certificate of Ascertainment and one Certificate of Vote. Electoral votes must be received by the President of the Senate and the Archivist no later than the fourth Wednesday in December. If votes are lost or delayed, the Archivist may take extraordinary measures to retrieve duplicate originals. On or before January 3, 2025, the US Archivist transfers Certificates to Congress. On January 6, 2025, Congress meets in joint session to count the electoral votes. The Vice President, as President of the Senate, presides over the count and announces the results of the Electoral College vote. 
+On December 17, 2024, the Electoral College meets in each State and across the nation, 538 Electors record their votes ... the election uncertainty is basically over at that point ... on January 6, 2025, Congress meets in joint session and formally counts those electoral votes and there's NO WAY POSSIBLE that the votes have changed since December 17th.
 
-It's basically already way to late for any citizen to do anything other in 2024 than just vote and help get out the vote so that all elgible voters exercise their legal right to vote.
+What we should realize however is that it is basically already way, way too late for any citizen to do anything other in 2024 than just vote and help get out the vote so that all elgible voters exercise their legal right to vote.
 
 ***It is NONE TOO EARLY to start thinking about the 2028 race ... or the 2032 race.***
 
 ## First, the obvious, cliche, *safe* conventional wisdom answers, ie what LLMs tell us
 
-* Technological advancements: Social media platforms and data analytics will likely play an even more prominent role in campaigning.
-* Generational shifts: Millennials and Gen Z will make up a larger portion of the electorate, necessitating messaging and outreach tailored to their values and priorities.
-* Climate change: Concerns about the environment are likely to remain high, potentially influencing policy platforms and voter choices.
-* Economic uncertainty: The global economic climate in 2028 is difficult to predict, but could be a major campaign issue.
+* Technological advancements: Improved use of social media platforms and data analytics will likely play an even more prominent role in campaigning.
 
-Tactics and Strategy Analysis:
+* Generational shifts: We're all getting older together It was obvious before that Millennials and Gen Z will make up a larger portion of the electorate ... but strategists need to process the significance of the obvious fact that voters born in 2010 [and before] will vote in 2028 ... whereas a LOT of those voters that mattered back in 2012, 2016, 2020, 2024 will be dead in 2028 ... it's not just that there are different people involved, the voters involved will be changing with age, necessitating big changes in messaging and outreach tailored to a different demographic's values and priorities.
+
+* Climate change: Concerns about the environment ... OR, conversely, concerns about the excesses of hyperactive policy that does not matter to the climate, but matters immensely to the economy ... are likely to remain high, potentially influencing policy platforms and voter choices. Depending upon a voters perspective, the man-made catastrophe of climate change OR climate change policy is VERY REAL.
+
+* Economic uncertainty: The global economic climate in 2028 is difficult to predict, but it will be a major campaign issue FOR REASONS THAT NO ONE CURRENTLY UNDERSTANDS, ie or else, people would have reacted to those things and correspondingly, they'd be non-issues ... the cure for low corn prices is low corn prices because aberrations always motivate significant shifts/adjustments ... of course the economy will matter, FOR SOME REASON THAT WE CURRENTLY DO NOT APPRECIATE.
+
+### Tactics and Strategy Analysis:
 
 1. Messaging:
 
-Potentially Effective:
+#### Potentially Effective:
 
 Focusing on unity and common ground: In a polarized political climate, emphasizing shared values and solutions could appeal to moderate voters.
+
 Addressing the concerns of younger generations: Tailoring messaging to issues like climate change, student debt, and social justice can resonate with Millennials and Gen Z.
+
 Leveraging data-driven insights: Utilizing data analytics to personalize messaging and target specific demographics can increase effectiveness.
 Potentially Ineffective:
 
 Excessive negativity: Continued reliance on attack ads and divisive rhetoric may further alienate voters and hinder constructive dialogue.
+
 Ignoring key issues: Avoiding important topics like climate change or economic inequality can leave voters feeling disengaged.
+
 Failing to adapt to changing media landscapes: Sticking to traditional media outlets while neglecting new platforms like TikTok could limit reach and engagement.
-Recommendations:
+
+#### Recommendations:
 
 Develop a clear and concise message that focuses on the future and solutions.
 Prioritize authenticity and transparency in communication.
