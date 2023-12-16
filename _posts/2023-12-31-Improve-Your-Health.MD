@@ -7,15 +7,21 @@ categories: Discipline
 
 # Assess your current strategy and tactics
 
+Forget New Year's resolutions ... this is actually important ... DO IT ... prepare as if your life depended upon it ... because it actually does.
+
+Do not let up.
+
 EVERY SINGLE MOMENT of every day, always be MINDFULLY AWARE of every breath, mindful of your posture and every physical movement, as you develop a constant mental discipline of coaching, correcting, re-optimizing your health ... for the road ahead ... without your health, what do you have?
 
-## Improve your DISCIPLINE of MINDFULNESS ... when you walk WALK
+## Improve your DISCIPLINE of MINDFULNESS ... when you walk, WALK
 
-When you eat, ENJOY every bite of your food ... when you work, enjoy getting things DONE and DONE RIGHT.  
+When you eat, EAT ... really savor every bite of your food ... when you work, enjoy everything about how good it feels to be getting things DONE and DONE RIGHT.  
 
-Pay attention to what you are doing ... FOCUS. 
+Pay more attention! You cannot possibly pay too much attention to what you are doing ... FOCUS. Most people are so distracted that they are not even aware of how distracted they are ... they are not paying attention to what they are doing when they are doing it. ALMOST everyone does this and you know that you do this sometimes as well ... STOP! Pay closer attention to what you are doing.
 
-Stop wasting your time staying angry; it is a sign of mental laziness to filled with anxiety ... focus on being FILLED with gratitude for everything that you have been given to work with. FOCUS on gratitude and being a good steward of what you have. Stop EVER being anxious about things like money or status ... when you are anxious, realize that your mental attitude has lapsed and you have slipped into a counterproductive state of pessimism, anxiety and lack of gratitude. If you cannot be grateful, you will hasten your death.
+Stop wasting any of your time staying angry. Stop being anxious ... it's a sign of mental laziness to filled with anxiety or to hold a grudge.  You know better.
+
+Focus on being FILLED with gratitude for everything that you have been given to work with. FOCUS on gratitude and being a good steward of what you have. Stop EVER being anxious about things like money or status ... when you are anxious, realize that your mental attitude has lapsed and you have slipped into a counterproductive state of pessimism, anxiety and lack of gratitude. If you cannot be grateful, you will hasten your death.
 
 LET GO of all hate and worry and focus on what you are doing RIGHT NOW. As you master NOW, you will find that you are able to focus on the future side of now and what the road ahead looks like ... but when you lapse back into gazing in the rear view mirror, you need to STOP, get control of your mind and re-focus on what you are doing RIGHT NOW and how that impacts the road ahead. 
 
