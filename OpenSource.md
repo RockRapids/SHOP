@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenSource
-permalink: /Discipline/
+permalink: /OpenSource/
 ---
 
 This page is a List of AWESOME Lists.

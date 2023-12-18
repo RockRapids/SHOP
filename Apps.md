@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apps
-permalink: /Discipline/
+permalink: /Apps/
 ---
 
 Campaigns have to be about SERVING constituents FIRST ... this is done tools or apps that serve a real need for something we need to do ourselves ... this is what [DOGFOODING](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) our tools is about ... it's really up to us to make the tools, equipment, apps that we depend on.
