@@ -6,7 +6,7 @@ date:   2023-12-24 4:30:00
 categories: Discipline
 ---
 
-***Freedom Is Never Free!*** Uncle Sam is looking at you and saying, "*This is up to you, kiddo!*"
+***Freedom Is Never Free!*** Uncle Sam is looking at you and saying, "*This is up to you, kiddo!*" There's a lump of VLSI magic in your stocking, but to use the magic, you will need to level up those VLSI skills.
 
 Today's Christmas Eve and you might be wondering if Santa has forgotten you. You might be sniffling about [the big money starting to be spread around by the bipartisan Chips and Science Act](https://www.cnbc.com/2023/12/11/bae-systems-new-hampshire-computer-chip-plant-the-first-to-get-funding-from-chips-law.html), thinking to yourself that you could put $52 billion to better use ... *except, if you're actually that selfish to think such a thing, then you're dead wrong.*
 
@@ -67,3 +67,24 @@ Your bill for the future war will get paid by you OR you will wish that you had 
 THAT ... the deep and widespread technical competency in all facets of VLSI skills ... is what's so special about something like the Chips Act. The important part, for YOU, is this matter is that YOU cannot afford to be the lazy kind of asshole who believes that somebody else is going to level up your VLSI skills *in using them, manufacturing them AND investing in the best companies that deliver them*.  
 
 ***Freedom Is Never Free!*** Uncle Sam is looking at you and saying, "*This is up to you, kiddo!*"
+
+## You already have more VLSI skills than you realize ... but those skills are not enough FOR THE FUTURE.
+
+Thinking in terms of VLSI technology basically pervades much of our culture already ... especially, for those of us who have worked professionally in manufacturing or industry ... or, really, any form of project management. Organizing an EFFECTIVE campaign that really engages thought leaders, for example, and designing a VLSI circuit share some distinct similarities.
+
+That's true in *very* general sense in terms all kinds of design and planning and re-planning and re-optimization of good plans ... but campaigns, because they are about human beings and the logic of collective human action is actually far more complex than just VLSI code.However, designing a good campaign to realy serve a consituency of voters is *SOMEWHAT* like designing a very large-scale integrated (VLSI) logic circuit. It can seem overwhelming ... but as we break down complex projects into their component parts, we realize that there's a certain manageable logic to it ... *as long as every component is executed as it should be executed, everything looks easy*.
+
+Nobody who designs new microprocessors or logic circuits starts from scratch -- it's all about reusing intellectual property for extremely large scale information processing tasks that have been THOROUGHLY proven in generations before.  Organizing a campaign and designing a VLSI circuit share SOME similarities in terms of the planning and optimization involved. It is obviously necessary to recognize that political campaigns are far more complex than mere microprocessors, but . Here are some ways in which they are similar:
+
+* Both involve dividing a large entity into smaller parts: In voter organization, a constituency is divided into smaller precincts or districts for better management. Similarly, in VLSI design, a large circuit is divided into smaller blocks or modules for easier design and optimization ... and then, successively more intensive refactoring, re-design and more intense optimization ... and, as time elapses and lessons are learned, the optimization of the planning continues iteratively.
+
+* Both require careful planning and placement: In voter organization, precincts are planned and placed to ensure efficient voting processes and maximum voter turnout. In VLSI design, components are placed on the chip to minimize distance and optimize signal integrity.
+
+* Both involve managing interconnections: In voter organization, precincts are connected to each other through voting systems and networks. In VLSI design, components are connected through wires and buses to enable communication and data transfer.
+
+* Both require optimization for performance and efficiency: In voter organization, the goal is to maximize voter turnout and minimize wait times. In VLSI design, the goal is to minimize power consumption, reduce latency, and optimize performance.
+
+* Both involve testing and verification: In voter organization, precincts are tested and verified to ensure accurate vote counting and security. In VLSI design, the circuit is tested and verified to ensure proper functioning and reliability.
+
+Of course, it should be blatantly obvious to recognize that voter organization and VLSI design are fundamentally different in terms of their purpose and scope. Voter organization is focused on ensuring more fair, more efficient elections with a better-informed electorate while VLSI design is only about a simpler, more narrowly scoped task of creating complex electronic systems for various applications. This analogy is only a model for thinking about the overall roadmap of how the process needs to unfold.
+
