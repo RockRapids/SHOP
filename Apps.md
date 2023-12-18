@@ -15,7 +15,7 @@ So, instead of the old way of fundraising and asking donors to write checks, we 
 
 # Dogfooded Campaign Apps that SERVE our constituents [and our needs] FIRST!!!
 
- We might start with something like [a spin on Thunderbird's email/RSS reader](https://www.thunderbird.net/en-US/get-involved/)] ... maybe an RSS reader with added intelligence as in [NewsBlur](https://github.com/BRUNOSolutions/NewsBlur) ... the upshot of our ***DOGFOODED*** aim to ***SERVE the constituents FIRST!!!*** is that we will FIRST build something we need to use, ie a tool that helps to READ radically more [and read it better] than we are currently able to read with the toolset we have.
+ We might start with something like [a spin on Thunderbird's email/RSS reader](https://developer.thunderbird.net/)] ... maybe an RSS reader with added intelligence as in [NewsBlur](https://github.com/BRUNOSolutions/NewsBlur) ... the upshot of our ***DOGFOODED*** aim to ***SERVE the constituents FIRST!!!*** is that we will FIRST build something we need to use, ie a tool that helps to READ radically more [and read it better] than we are currently able to read with the toolset we have.
 Here are some ideas for what that list of dogfooded might look like:
 
 * A) AccidentalInvention or TRIZ.tips to apply the contradiction matrix and 40 principles from the Theory of Inventive Problem Solving

@@ -10,13 +10,22 @@ Curating and annotating these awesome lists is all about jumping off points for 
 
 # Open Source Projects We LOVE ... And Hope To Contribute To
 
-1) TBD ... see [Apps](Apps.md) for a brainstormed list of apps we will be *thinkering on*
-2) TBD
-3) TBD
-4) TBD
-5) TBD
-6) TBD
-7) TBD
-8) TBD
-9) TBD
-10) TBD
+1) Beyond *just* email, and *just* RSS feeds ... we need ***much smarter*** *tools* and even better set of best practices that will help us to READ more, READ better, READ faster and to generally accelerate our ability to coherently, professionally process more information. *Accelerate the practices for READING, accelerate the READING tools, and accelerate the accelerated development of READING tools* ***so that we are able to slow down and THINK.*** Doing this is really going to be about understanding how the best developers have been dogfooding their own toolkits for the last few decades. We might start by looking into the [Thunderbird development community](https://developer.thunderbird.net/thunderbird-development/getting-started) ... which uses the [Mercurial distributed version control system(DVCS)](https://wiki.mercurial-scm.org/Download) rather than the [Git DVCS](https://git-scm.com/book/en/v2) [*and just the topic of comparing DVCSs and DVCS practices including distributed issue tracking and distributed code review by itself is an extremely important facet of distributed development*] ...moreover, the Thunderbird community itself is also important since it is part of the foundation of developing different web technologies, including CSS, HTML, and JavaScript at [Mozilla's Developer site MDN](https://developer.mozilla.org/en-US/) ... or, instead of *just* working on the tool itself, we might contribute to the Thunderbird website, this documentation, or addons.thunderbird.net through the [repositories and their issue trackers on the Thunderbird GitHub page](https://github.com/thunderbird). It's worth repeating for emphasis that *dev'ing Thunderbird, and using Mercurial and Git, is really about understanding how the best developers on the planet have been dogfooding their own toolkits for the last few decades* ... and ***the important stuff is still all dev'd with plain old email!*** It's all about ***READING.***
+
+2) Just [Git](https://git-scm.com/book/en/v2) itself through subscribing to the [git mailing list](git@vger.kernel.org) or following the major developments from that list with the summarized [Git Rev News](https://git.github.io/rev_news/rev_news/) ... but practically, it really gets into *USING* Git with the [best Gitflow practices](https://www.gitkraken.com/learn/git/git-flow) or what might be even better, the [GitLab Flow Best Practices](https://about.gitlab.com/topics/version-control/what-are-gitlab-flow-best-practices/) ... which are mostly about doing code review better and things like [Gerrit](https://www.gerritcodereview.com/) ... although some of it is about *shifting left further* to use intelligence in the linting/testing/debugging/dev'ing that happens even before code review with a ***GitDeep*** implementations of [generative AI foundation model](https://www.connectedpapers.com/main/4f68e07c6c3173480053fd52391851d6f80d651b/On-the-Opportunities-and-Risks-of-Foundation-Models/graph) or a quasi-proprietary, branded approach like [Gitlab Duo's Generative AI Coding Methodology](https://about.gitlab.com/blog/2023/07/20/supercharge-productivity-with-gitlab-duo/) ... but all of these practices, depend upon really internalizing the thinking behind the entire GitLab CI/CD toolkit ... or using a similar GitHub-centric approach ... but it's all about making the most of what others have done and what sorts of *free* resources are available for open source developers, such as taking advantage of GitLab/Github Pages for development documentation.
+
+3) TBD ... see [Apps](Apps.md) for a brainstormed list of the top 25 or so apps that we will be *thinkering on*
+
+4) More TBDey TBDness
+
+5) Advanced TBD
+
+6) Back to fundamentals TBD
+
+7) A different point of view TBD
+
+8) Somebody else's idea of TBD
+
+9) The unknown unknowns of TBD
+
+10) MVP #WhatWouldLinusDo TBD
