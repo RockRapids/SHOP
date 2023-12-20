@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "AI Lead Generation"
-date:   2024-01-07 4:30:00
-categories: Discipline
+date:   2024-01-01 4:30:00
+categories: Tools
 ---
 
 # Are you in the hunt ... or are you the hunted?
