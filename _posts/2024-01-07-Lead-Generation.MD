@@ -15,9 +15,9 @@ Some examples of lead generators are things like job applications [to identify i
 
 We're going to focus on AI lead generation ... at least, first -- in this post ... 
 
-# Deploy chatbots
+# Deploy USEFUL chatbots
 
-Chatbots are ALMOST human-like ... but potential customers are more than savvy enough to avoid almost all annoying pop-up chatbot interactions.
+Chatbots are ALMOST human-like ... it's almost scary how much chatbots have been oversold in our culture ... the most sophisticated chatbots are nothing different than the voicemail mazes that we started seing fifty years ago, but NOW the chatbots have made the mazes smarter and much more annoying  ... but potential customers are more than savvy enough to avoid almost all annoying pop-up chatbot interactions.
 
 Humans might be prey animals ... but they are not idiots.
 
