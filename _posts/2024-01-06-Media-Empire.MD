@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Media Empire Business Plan"
+title:  "The Campaign's Media Empire And Its Business Plan"
 date:   2024-01-06 4:30:00
 categories: Tools
 ---
 
-Your campaign ... because it is a campaign ... will need to become it's own *media empire* ... and your empire will need partners, sponsors and affiliates ... but first of all, your media empire will need a WRITTEN plan. 
+If you are thinking about a future campaign ... because your campaign will need to be modern, forward-looking campaign ... will need to become or build it's own *media empire* ... sure, your empire might use partners, sponsors and affiliates -- but your campaign will need to control its own destiny, set its own tempo ...and to accomplish that your future campaign's media empire will need a WRITTEN plan and ***working on that written plan starts *TODAY*** *because it's too late to start yesterday or last week or ...* 
 
 ## Strategy and business plan
 
