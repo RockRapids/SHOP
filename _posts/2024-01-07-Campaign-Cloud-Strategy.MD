@@ -12,4 +12,4 @@ categories: Tools
 
 We will try to look at the top ten ... and pick out the ONE to really focus on, although we might have two or three or four small lines in the water ... the **strategy is primarily an intelligence gathering strategy intended to be most useful for people who are looking at campaigns in 2028 and beyond.**
 
-The strategy is really about gaining experience RATHER that acquiring gear.
+The strategy is really about gaining experience RATHER than just acquiring gear that inevitably has to be disposed of ... there's only so much that can be learned from a private collection of gear; conversely, *the entire Universe, not just the cloud computing and AI part of it but the WHOLE Universe, was built for us to explore.*
