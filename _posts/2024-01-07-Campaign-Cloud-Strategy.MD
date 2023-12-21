@@ -11,3 +11,5 @@ categories: Tools
 ## Cloud Strategy
 
 We will try to look at the top ten ... and pick out the ONE to really focus on, although we might have two or three or four small lines in the water ... the **strategy is primarily an intelligence gathering strategy intended to be most useful for people who are looking at campaigns in 2028 and beyond.**
+
+The strategy is really about gaining experience RATHER that acquiring gear.
