@@ -6,10 +6,10 @@ date:   2024-01-07 4:30:00
 categories: Tools
 ---
 
-*We might think that we ultimately want to control our destiny with on-prem hardware BUT* ... gear gets expensive, even refurbed fifth string stuff from four or five years ago ... and realistically we're probably going to buy almost all the on-prem stuff from eBay or another refurbisher ... a serious home lab is enough ... why recreate one's own scientific high performance computing data center ...  so using the cloud is partly an exercise in developing specifications by seeing what has worked, what hasn't ... EXCEPT that mostly it's about trying stuff to see what works [and generates enough revenue to pay its bills].
+*Sometimes, we might imagine that we ultimately want to control our destiny with our very own bespoke custom crafted on-prem hardware* ***BUT*** ... the reality is that we want to be aware of what's out ther in terms of GCP, AWS, Azure, IBM Cloud, PaperSpace, LambdaLabs, NVIDIA AI Enterprise, Platform9, Cirrity, Rescale, Bright Computing, DigitalOcean ... as well as rentable compute thru VAST.ai or LambdaLabs ... in addition to what we can cook up with an on-prem home lab ...
 
-## Cloud Strategy
+BUT ... gear gets effing expensive [and fills up a closet] in a hurry ... even if it's just refurbed fifth-string, but still kickass stuff from four or five years ago.
 
-We will try to look at the top ten options that we have ... but we really have pick out just ONE to really focus on at a time, although we might have two or three or four small lines in the water ... the **strategy is primarily an intelligence gathering strategy intended to be most useful for people who are looking at campaigns in 2028 and beyond.**
+We are definitely NOT going to buy cutting edge stuff -- we might buy some components for on-prem stuff from eBay or another refurbisher source in order to have a somewhat serious home lab, ie a capability that that five years ago in 2019 would have been on the cutting edge and something that was not even thinkable way back in 2014. After all, why recreate one's own scientific high performance computing data center, when we just look around, all over the world, at the top ten options that we have ... there's only so much that can be learned from a private collection of gear; conversely, ***the entire Universe***, *not just the cloud computing and AI part of that Universe, but the WHOLE ENTIRE UNIVERSE, was built for us to explore.* 
 
-The strategy is really about gaining experience RATHER than just acquiring gear that inevitably has to be disposed of ... there's only so much that can be learned from a private collection of gear; conversely, *the entire Universe, not just the cloud computing and AI part of it but the WHOLE Universe, was built for us to explore.*
+Why would we ever limit our fucking around to just the collection of shit we own?
