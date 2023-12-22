@@ -5,7 +5,20 @@ date:   2024-01-06 4:30:00
 categories: Tools
 ---
 
-If you are thinking about a future campaign ... because your campaign will need to be modern, forward-looking campaign ... will need to become or build it's own *media empire* ... sure, your empire might use partners, sponsors and affiliates -- but your campaign will need to control its own destiny, set its own tempo ...and to accomplish that your future campaign's media empire will need a WRITTEN plan and ***working on that written plan starts *TODAY*** *because it's too late to start yesterday or last week or ...* 
+Ask Yourself: WHY do I NEED to do this campaign?
+
+        Do I want to educate or inform people or what am I trying to achieve? Am I attempting to SERVE first?
+        Is this about championing a cause or an underSERVED community that would not otherwise be SERVED?
+        Is the podcast or vlog or blog or book a lead generator or an entrepreneurial endeavor for something else?
+        Do you and your friends have jokes or insights or music or something the world needs to hear/read/see?
+        Are you the biggest superfan of a sports team with stats and stats ... or maybe you love something about history that is ignored?
+        Are you willing to pursue your campaign and where yoru content takes enough so that are ready for the difficult interviews or hecklers?
+        Do you actually feel called to it? What's your WHY of this? What's the agenda in service of that WHY?
+        Do you really NEED to do this ... even on those days when the world does not encourage you? You don't need to imitate Trump's style but can you *trump* unquenchable **Trump's AMBITION or DRIVE** on this?
+
+***Do not waste anybody else's time if you do not NEED to do this and to do it in 2028? Do not do something that you don't NEED to do.*** 
+
+If you are thinking about a campaign in the next election cycle, ie 2028 ... your campaign will need to be more modern, more forward-looking campaign than you can imagine -- part of getting ready for the campaign is acknowledging that you will have keep stepping outside your comfort zone ... even though you might not crave the spotlight, you will not only need to become a media icon AND but you will need to build your own *media empire* ... sure, your empire might use already-established partners, sponsors and affiliates -- but your campaign will need to control its own message, control its own destiny, set its own tempo ... with its own infrastructure ...and to accomplish that your future campaign's media empire will need a WRITTEN plan and ***working on that written plan starts *TODAY*** *because it's too late to start yesterday or last week or ...* 
 
 ## Strategy and business plan
 
