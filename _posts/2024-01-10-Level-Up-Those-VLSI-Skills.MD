@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Level Up Those Skills"
+title:  "Level Up Those VLSI Skills"
 subtitle:  "What's so special about very large scale integrated circuits?"
-date:   2023-12-24 4:30:00
+date:   2024-01-10 4:30:00
 categories: Discipline
 ---
 
