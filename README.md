@@ -1,6 +1,8 @@
-# SERVE your constituents FIRST! 
+# SERVE your core constituencies FIRST! 
 
-Stop doing political campaigns WRONG! Stop pandering to whiners. Enlisting your constituents in the campaign of becoming their own solution and being independent of you or any politician's promises.
+Stop doing political campaigns WRONG! Stop doing ANY kind of campaign WRONG!
+
+Stop pandering to whiners. Enlisting your constituents in the campaign of becoming their own solution and being independent of you or any politician's promises.
 
 ***SERVE your constituents FIRST!*** is a radically different political philosophy. It's neither right nor left, it is a forward-looking mindset of builders rather than a backward-looking mindset of whiners longing for a past that never was that they think they see in the rear view mirror. 
 
