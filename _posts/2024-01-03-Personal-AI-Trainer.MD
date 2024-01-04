@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your PERSONAL AI Trainer"
+title:  "Your PERSONAL AI Trainer ... HAS TO be YOU."
 date:   2024-01-03 4:30:00
 categories: Tools
 ---
