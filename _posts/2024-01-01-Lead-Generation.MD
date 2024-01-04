@@ -1,9 +1,20 @@
 ---
 layout: post
-title:  "AI Lead Generation"
+title:  "AI Lead Generation...Don't Exactly Buy It YET, But ..."
 date:   2024-01-01 4:30:00
 categories: Tools
 ---
+
+
+I do BELIEVE in having ongoing dialogues with AI ... continually re-engineering prompts, asking better questions, following through with searching for ideas and pursuing ideas.
+
+SERIOUS business development has always been about developing leads from thin air ... while other people are complaining that they don't have any new leads.
+
+But expecting AI to just magically generate leads is like expecting a magic wand to just magically generate leads ... it's just not going to happen.
+
+REGARDLESS of the situation or the times we live, it's always about the mindset of hunting ... doing ALL of the little things and doing them better than anyone else to qualify leads ... to stalk leads ... to follow through on questions and close ... to not just close but assure that delivery happend and every last thing about the whole transaction was sufficent for the customer to evangelically give referrals and produce new leads.
+
+Sales is REALLY tedious stuff ... it's really about constant attention project and time management AND simultaneously focusing on attitude management and NEVER BEING A VICTIM.
 
 # Are you in the hunt ... or are you the hunted?
 
