@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No More New Years Resolutions"
+title:  "Knock It OFF With The New Years Resolutions!"
 subtitle:  "GET SERIOUS About Self-Coaching"
 date:   2023-12-31 4:30:00
 categories: Discipline
