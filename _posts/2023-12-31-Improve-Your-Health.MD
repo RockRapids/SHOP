@@ -14,17 +14,38 @@ The way that you are going to make it smarter, is that EVERY DAY you are going t
 
 But, the important thing is that EVERY evening ... at the end of your day, you need to ask Bard a new question, factoring in how well you actually did during the preceeding day ... your questions will be rambling and a bit lengthy because Bard tolerates the verbosity that comes from not yet having simplified a question AND you can view multiple draft responses by Bard AND regenerate more drafts AND you can rephrase your question and ask it again AND you can modify the response -- because FOR YOUR FUTURE REFERENCE you will need to save your old questions and reuse your best material. 
 
-For example, my [question of Bard today](https://g.co/bard/share/9c397c8dfc0f) is ... 
+## An EXAMPLE of self-coaching by prompt engineering in a continuous dialogue with AI
+
+{GENERAL NOTE ABOUT AI CONVERSATIONS:  In VERY STARK contrast to conversations with humans, it's necessary to keep the questions with AI extremely VERBOSE and even rambling, because AI can actually USE verbosity, whereas human animal conversations are more animal-like in that animals pick up on subtle physical cues.  An AI, like BARD, is somewhat verbose itself but that's fine, you can refine Bard's respone -- you can also view multiple draft responses by Bard AND regenerate even more drafts AND you can rephrase your question over and over and over ... because conversation with an AI should include too much information AND RAMBLING ... although, doing this enough will cause you to tend to talk this way to humans, too ... but you don't really need to ever talk with human beings, *EXCEPT when they ask a question of you* ... otherwise, you'd be better off talking to birds or cats than trying to talk with humans. Humans tend to be a really tedious, self-absorbed, whiny species ... but they're not ALL that way. All of the time.}
+
+### The STARTING question ...
+
+... which I [asked Bard to OPEN the dialogue](https://g.co/bard/share/9c397c8dfc0f) was ... 
 
 *I break my day into 30 minute time blocks, with 25 minute Pomodoros devoted to focusing on dev tasks in AI, data science, content production and 4 minutes devoted to 8 quick sets of 10 rep high intensity interval training (HIIT) exercises. Given that my real focus is on optimizing the productivity of those 25 minute Pomodoros AND since I cannot tolerate lack of variety in my workouts, I really NEED to try new things,* ***so what would you suggest that I use my goto list of the best 200 HIIT Tabata exercises for generally healthy 65-year-old man trying to be more mentally productive?***
 
+### The follow-up question ...
+
+... which I [asked Bard to CONTINUE from yesterday's dialogue and affiliated websearches](https://g.co/bard/share/541458447541) was ...
+
+*Which websites and YouTube channels are the best sources of inspiration for a 65-year-old doing creative cardio yoga and with animal moves and sense-of-the-enemy moves from martial arts. For an older person, it's important not to get injured, but it's also important to avoid letting muscles and joints atrophy or calcify.*
+
+What almost scared me about this question was the ["Create A Yoga Journal" blog post from Jill Conyers](https://jillconyers.com/2018/09/create-yoga-journal/) ... which advises people to "Make yourself a priority!" *Well, Duh, sister!* AND choose a journal that FITS YOUR PERSONALITY. *You mean like Bard?!!!*
 
 
-# Observations and Recommendations Based on My Own Experience [with Bard and just in general]
 
-## PAY CLOSER ATTENTION, expect that your stairs are going to try to kill you OR that you will set your house on fire because you weren't paying attention.
 
-Constantly work on improving your DISCIPLINE of MINDFULNESS ... when you walk, focus only the WALKING ... when you eat, focus only on EATING and really savoring every bite of your food ... when you work, enjoy everything about how good it feels to be getting things DONE and DOING THEM RIGHT.  
+# Observations and Recommendations Based on My Own Experience
+
+... *not just with Bard, but from life and journalling and walking and just slowly figuring out what doesn't work* ... and what kinda seems to work, although I'm still refining it ....
+
+## PAY MUCH CLOSER ATTENTION and work on paying even closer attention tomorrow
+
+For this to work, you HAVE TO **cultivate a more skeptical mindset.** 
+
+For example, you have to be CONVINCED that things like your own familiar carpetted stairs are going to try to kill you ... OR that you will boil some water for your favorite cup of soothing tea and then you'll forget it and will set your house on fire ... *all because you weren't paying attention to the discipline of paying closer and closer attention.*
+
+Constantly work on improving your DISCIPLINE of MINDFULNESS ... when you walk, focus only the WALKING ... when you eat, focus only on EATING and really savoring every bite of your food ... when you work, enjoy everything about how good it feels to be getting things DONE and DOING THEM RIGHT. ***BUT WHEN YOU DRIVE, ask yourself, "WHY IN THE LIVING FUCK ARE YOU DRIVING ANYWHERE, YOU FUCKING MORON? You know that walking is way better for you AND a good way to test ideas, think, meditate and generally improve your ability to pay closer attention."*** The interior dialogue with yourself is helpful ... EXCEPT when you're driving, then focus the fuck on the damned road. 
 
 Pay more attention today than you did yesterday and work at being even more attentive tomorrow! 
 
