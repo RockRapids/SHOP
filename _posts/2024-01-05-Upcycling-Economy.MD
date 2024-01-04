@@ -9,9 +9,15 @@ categories: Discipline
 
 # Start learning how to THINK ... so that you don't need the best of anything, but you can always make the best of whatever you have.
 
-It takes a LOT of money to be STUPID ... or to put that another way, if you are constantly worried about not having enough money to be able to afford things that you are worried you might need, well, then ... you are a MORON. The main requirement for being stupid is worrying that you don't have money because you can't just *make do.*
+It takes a LOT of money to be STUPID ... or to put that another way, if you are constantly worried about not having enough money to be able to afford things that you are worried you might need, well, then ... you are a MORON ... and you're probably a W2 slave or a 1099 contract professional scrambling to earn enough money to pay the cost of being STUPID. 
 
-Those who can just ***make do*** do not need ANY money any more.  When you have learned how to upcycle, ie make lemonade from any lemon that comes along, you make a LOT better use of what you already have AND you stop being a needy prey animal who has to squander money on what PROFESSIONALS recommend *because prey animals simply cannot ever trust their own strength, toughness, resilience*
+The main requirement for being stupid is worrying that you don't have money ... because throughout your existence, you have never learned how to *just make do* ... you are convinced that you NEED a place to live in, you NEED utilities, you NEED your refrigerator and pantry stocked with food, you NEED your conveniences, you NEED your vehicles and assorted mowers, snowblowers, leaf blowers and everything else about your noisy, consumptive lifestyle. You NEED your professional healthcare options and full healthcare insurance. You NEED everything that you can imagine, because you cannot imagine not needing shit. 
+
+This is why most affluent Americans are hopelessly filled with worry, anxiety and depression ... it's because they genuinely NEED to be NEEDY. They have never figured out how to ***just make do*** with what they have AND TO be happy with that.
+
+Those who can ***just make do*** do not need ANY money any more.  
+
+When you have learned how to [artfully upcycle](https://brightly.eco/blog/upcycling-meaning), ie to not only make lemonade from any lemon that comes along, but also ensure that you have turns those lemons into the most spectacular lemonade ever ... you make a LOT better use of what you already have AND you stop being a needy prey animal who has to squander money on what PROFESSIONALS recommend *because prey animals simply cannot ever trust their own strength, toughness, resilience*
 
 If you want to stop being a prey animal ... you have to ***start learning how to THINK about the advantages in any situation, rather than false conspiracies, so that you NEVER EVER need the best of anything, but are always able to make the best of whatever situation you find yourself in.***
 
