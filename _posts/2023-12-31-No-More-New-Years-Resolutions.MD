@@ -1,18 +1,40 @@
 ---
 layout: post
-title:  "GET SERIOUS About Optimizing Your Health"
-subtitle:  "Have I asked you about rolling on the jiu jitsu mats lately"
+title:  "No More New Years Resolutions"
+subtitle:  "GET SERIOUS About Self-Coaching"
 date:   2023-12-31 4:30:00
 categories: Discipline
 ---
 
-# Assess your current strategy and tactics
+# GET SERIOUS About Self-Coaching
 
-Forget New Year's resolutions ... what is actually important is just DO IT ... and instead of settting yourself up for failure with the same old boring daily or weekly routine, try to SMARTEN it up with AI.
+You have to assess your current strategy and tactics in something approaching real-time ... review your progress while the physical memory of what you did is still fresh ... then adjust your strategy ever so slightly as you focus on adjusting your tactics and overhauling the failures in executions.
 
-The way that you are going to make it smarter, is that EVERY DAY you are going to rephrase the question that you ask of Bard that is generally along a highly detailed, personalized, refined, articulated version of a simple starting question: *"What is the most important thing that I can do today to improve my health?*
+Coaching ... especially SELF-coaching has to while you still have the physical memory of what you did, what you felt like, why you let up, why you didn't push harder, why you didn't do more ... it cannot wait for next December.
 
-But, the important thing is that EVERY evening ... at the end of your day, you need to ask Bard a new question, factoring in how well you actually did during the preceeding day ... your questions will be rambling and a bit lengthy because Bard tolerates the verbosity that comes from not yet having simplified a question AND you can view multiple draft responses by Bard AND regenerate more drafts AND you can rephrase your question and ask it again AND you can modify the response -- because FOR YOUR FUTURE REFERENCE you will need to save your old questions and reuse your best material. 
+**Stop the self-delusion inherent in the New Year's resolutions process ... your review can't wait until December!!!**
+
+What is actually NECESSARY is to just resolve, as soon as you notice a let up, that from now on, there'll be no more drama, no more hysterics, no more oaths and resolutions! INSTEAD, when you notice something needs improvement, you will just do your best to just do your best ... you will JUST STAY AT IT ... you might take a break for a drink of water or a short walk to shake it off, but you will just starting making the improvements you need to make right away.
+
+## NO MORE NEW YEAR'S RESOLUTIONS!
+
+Instead of settting yourself up for failure with the same old boring daily or weekly gym routine or some other resolved plan that you were going to stick with in the New Year ... try instead to SMARTEN up your routine with an ongoing dialogue with things like a journal or AI ... or some accountability device ... or, it can be your cat or sock puppet or some other way for you to have a serious interior dialogue about improving your game. 
+
+**YOU are responsible for INVENTING YOUR OWN ACCOUNTABILITY DEVICE.**
+
+The way that you are going to make you smarter is YOU.
+
+EVERY DAY you are going to rephrase thes questions that you ask of yourself, your journal or some AI like Bard ... but it's the repitition of that dialogue and sometimes going back to old answers when you thought you had some sort of epiphany.  
+
+The dialogue is generally along the lines of something that only matters to you ... but it is a highly detailed, doodled, sketched-out, personalized, refined, articulated version of some FUNDAMENTAL question like ... 
+
+## *"What is the most important thing that I can do right now to improve my health?*
+
+But it's not really just that question ...  the more important thing is FOLLOW-UP and self-coaching critique ... and the questions that will come out of your own accountability dialogue.
+
+So that coaching review that you do that EVERY evening or whenever ... but the interval between coaching reviews has to be at most 24 hours long ... it can't be every week or month ... it certainly can't wait until next December.  **The regular coaching review is why NEW YEAR'S RESOLUTIONS are for losers who are not really serious about the game!**
+
+At the end of your day, you will need to ask your journal or your AI friend a new question, factoring in how well you actually did during the preceeding day ... and the dialogue will become the reason for keeping that JOURNAL ... because your journal is exactly not for other people to read, although it might be fine if they do someday ... the point of circling back in your journal to your old questions and answers is FOR YOUR FUTURE REFERENCE when you need to reuse your best material to re-inspire yourself and re-find that WHY. 
 
 ## An EXAMPLE of self-coaching by prompt engineering in a continuous dialogue with AI
 
