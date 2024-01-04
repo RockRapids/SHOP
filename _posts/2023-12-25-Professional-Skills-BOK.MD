@@ -7,7 +7,19 @@ categories: Tools
 ---
  
 
- # The problems in your utility infrastructure future are never going to go away.
+If you want to be relevant, you have to be able to step up and SOLVE problems for people.
+
+This is WHY I tend to never, ever, ever TRUST professionals ... even though I am a professional -- I am a generalist, not a specialist.
+
+My main skill as a multidisciplinary engineer is as a generalist who not only can learn, but LOVES to learn how to do impossibly HARD things ... and loves learning and developing new skills more than anything else, certainly more than dipshit stuff like sports or politics, which are just conversation starter topics, like the weather.
+
+If you never want to worry about anything and generally be the most FREE person in any room, even if that room is in a maximum security prison, then you need to be able to be able to think about how you go about developing a self-paced study curriculum for leveling up your own professional skills in the kinds of things that are really going to matter.
+
+For example ... my own health problems will matter [to me] and no other professional is going to be close to being able to solve my health problems for me than ME ... SELF-DEFENSE, fitness, balance and ability to survive a confrontation with my carpetted stairs is important to me ... another example, INFORMATION UTILITY INFRASTRUCTURE, including things like local information infrastructure, comm bandwidth, satellite and RF comms and things like cloud compute resources/auctions for scientific HPC are going to be more relevant TO ME moving forward ... LOCALLY, there are things like gas/electric systems, water/sewer systems, resource recovery systems, postage/shipping systems are STILL relevant to me ... whereas something like an automobile or what stores I can visit in Sioux Falls just no longer holds my interest, because there are better resources now and even better ones being built.
+
+*The POINT is that readiness depends upon continually surveying the landscape to ensure that one's skills stay relevant.*
+
+# The problems in your utility infrastructure future are never going to go away.
 
 So ... if you want to be PROFESSIONAL asset for your community AND earn a respectable income for yourself ... you can invest in seriously levelling up your professional skillset ... you could buy yourself a journal for taking notes on JUST this topic and label your notes about the journey as something like "Professional Skills Body of Knowledge for Electricians, Utility Infrastructure and Power Systems Engineers" ... and, guess what, since the problem is never going to go away, you can ALSO make skads of money investing companies that actually *get* how to continually level up skillsets in this particular area. 
 
