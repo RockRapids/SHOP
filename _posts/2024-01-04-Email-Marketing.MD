@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Email Marketing STILL Dominates"
+title:  "WHY Email Marketing Will Continue To Dominate"
 date:   2024-01-04 4:30:00
 categories: Tools
 ---
