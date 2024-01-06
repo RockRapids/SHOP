@@ -1,28 +1,61 @@
 ---
 layout: post
-title:  "The Campaign's Media Empire And Its Business Plan"
+title:  "How Your WHY Drives Your Venture and Plan For Outreach"
 date:   2024-01-06 4:30:00
 categories: Tools
 ---
 
-Ask Yourself: WHY do I NEED to do this campaign?
+# Ask Yourself Important Questions ... And KEEP ASKING THE QUESTIONS THAT MATTER
+
+The important questions are the only ones that matter ... it's YOUR life and you only get one life to ask those questions. Your life is the embodiment of an essential PRAYER to your Creator in which you are begging to be instructed on how to understand your purpose, to understand your Creator's will for YOU.
+
+Do not settle for thinking that you already know ... don't be one of those arrogant idiots who just thinks that it's a matter of imitating others.
+
+You don't want to get to the end of your life and have not asked the questions of your Creator ... this is why the FIRST and only really important part of the Lord's Prayer is to gratefully thank our Creator for every moment of existence and implore that our Creator's will be done ... we don't want to pray like greedy little kids asking for nicer toys or some other little convenience ... that's fine when people are immature, but mature, responsible humans have to graduate to praying to understand how to best SERVE our Creator or else they are just stuck in a perpetual undeveloped state of needy immaturity.
+
+*What is my mission? What is my WHY?*
+
+*How should my WHY shape my understanding of the core constituencies that I should serve?
+
+What is it that drives my NEED to do this campaign?
 
         Do I want to educate or inform people or what am I trying to achieve? Am I attempting to SERVE first?
+        
         Is this about championing a cause or an underSERVED community that would not otherwise be SERVED?
-        Is the podcast or vlog or blog or book a lead generator or an entrepreneurial endeavor for something else?
+        
+        Is your podcast or vlog or blog or book a lead generator or an entrepreneurial endeavor for something else?
+        
         Do you and your friends have jokes or insights or music or something the world needs to hear/read/see?
+        
         Are you the biggest superfan of a sports team with stats and stats ... or maybe you love something about history that is ignored?
+        
         Are you willing to pursue your campaign and where yoru content takes enough so that are ready for the difficult interviews or hecklers?
+        
         Do you actually feel called to it? What's your WHY of this? What's the agenda in service of that WHY?
-        Do you really NEED to do this ... even on those days when the world does not encourage you? You don't need to imitate Trump's style but can you *trump* unquenchable **Trump's AMBITION or DRIVE** on this?
+        
+*Does this REALLY matter?*
 
-***Do not waste anybody else's time if you do not NEED to do this and to do it in 2028? Do not do something that you don't NEED to do.*** 
+Do you really NEED to do this or is it somebody else's mission. 
 
-If you are thinking about a campaign in the next election cycle, ie 2028 ... your campaign will need to be more modern, more forward-looking campaign than you can imagine -- part of getting ready for the campaign is acknowledging that you will have keep stepping outside your comfort zone ... even though you might not crave the spotlight, you will not only need to become a media icon AND but you will need to build your own *media empire* ... sure, your empire might use already-established partners, sponsors and affiliates -- but your campaign will need to control its own message, control its own destiny, set its own tempo ... with its own infrastructure ...and to accomplish that your future campaign's media empire will need a WRITTEN plan and ***working on that written plan starts *TODAY*** *because it's too late to start yesterday or last week or ...* 
+Will you still NEED to do this even on those days when the world does not encourage you? 
+
+Are you just imitating some celebrity?
+
+We certainly can learn from celebrity figures ... even those who might rub us the wrong way. You don't need to imitate someone like Trump in his style or rhetoric, you will need that unquenchable ambition or drive ... what is the WHY that will sustain you ... what about your WHY will push you to *trump* the unquenchable Trump-level of **AMBITION or DRIVE** on this? 
+
+***Is this truly your calling?***
+
+Or are you just playing?
+
+*Do not waste anybody else's time if you do not NEED to do this and to do it through the foreseeable future? Until you understand the NEED, do not do something that you don't NEED to do just to stay busy.* 
+
+Your campaign, in politics or in starting a company or in developing some sort of venture philanthropy or whatever it is, will need to develop into a more modern, more forward-looking campaign than you can imagine right now.
+
+Part of getting ready for the campaign is acknowledging that you will have keep stepping outside your comfort zone ... even though you might not crave the spotlight, you will not only need to become a media icon AND but you will need to build your own *media empire* ... sure, your empire might use already-established partners, sponsors and affiliates -- but your campaign will need to control its own message, control its own destiny, set its own tempo ... with its own infrastructure ...and to accomplish that your future campaign's media empire will need a WRITTEN plan and ***working on that written plan starts *TODAY*** *because it's too late to start yesterday or last week or ...* 
 
 ## Strategy and business plan
 
-STEP 1: Refine your blogging / book / MOOC / podcast *media empire* concept
+STEP 1: Refine your outreach plan in blogging / a book / a MOOC / a podcast or whatever your *media empire* concept is
 
 STEP 2: Write down your the content production and promotion and analytics PLAN ... that's what *this OUTLINE* is ... the plan will need more details than this outtline, but at minimum, you will need to have well-defined material outline and plan of the expected frequency of content production and promotion. Your PLAN must evolve as you learn more your audience ... at first, YOU are going to be dogfooding your media -- in other words, YOU will the only audience you have ... but learning about the process and how the recorded material actually sounds/looks *up on stage* to you *back in the audience* is part of it. 
 
@@ -40,12 +73,14 @@ STEP 8: Publish your first episode and promote it ... go back to your WRITTEN co
 
 STEP 9: Focus on your content publishing / media growth and analytics ... update your WRITTEN plan ... and invest more in better analytics and more complete data AS you get more experience and more followers ... but, at first, BASIC minimal level analytics will be fine ... FOR STARTERS,
 
-STEP 10: Plan to make money with your *media empire* ... but TREAT IT AS A SERIOUS BUSINESS, pay attention to licensing and taxes and all that stuff ... but, at first, just generate some dollars ... go back to your WRITTEN content production and promotion and analytics BUSINESS PLAN ... and keep revising that written BUSINESS plan to FOLLOW THE MONEY.
+STEP 10: Plan to make money with your *media empire* ... although you will not at first; at first, there will not be enough income to sustain it ... but TREAT IT AS A SERIOUS BUSINESS INVESTMENT that will pay for itself ...  pay attention to monotonous things like licensing and taxes and all of the super-tedious financial minutia that makes your head hurt ... at first, just generate ***really small*** dollars, but *practice like you intend to play* when the game gets bigger ... *review your game film* ... go back to your WRITTEN content production and promotion and analytics BUSINESS PLAN ... and keep revising that written BUSINESS plan to FOLLOW THE MONEY, to get results ... and maybe even inspire imitators OR get the larger media empires to up the level of their lowest-common-denominator schlock they dish up for the masses.
 
 
 ## Partners and Sponsors
 
-The blogging platforms keep getting better and better ... which is good, because blogging is tougher now than it was a couple decades ago ... and it will keep getting tougher ... because the content that is out there is top notch and it is next to impossible to get noticed ... you are going to need great partners and sponsors AND you are going to have keep your awareness of the industry and alternatives sharper than ever as you move forward ... the important point is that your strategy and business plan will have to adapt ... next month's plan will be different than this month's plan, but you will need to have constantly revised / updated WRITTEN plan or forward looking vision to move toward.
+The blogging platforms out there keep getting better and better ... especially in the analytics necessary for the Plan-Do-Check-Act cycle of your outreach ... which is good, because reaching an audience with a blog might be tougher now than it was a couple decades ago, because of the competition ... and the competition will keep getting tougher ... because the quasi-almost-okish lowest-common-denominator content which is out there is top notch in terms of it's production professionalism ... it is next to impossible to develop something unique, but more importantly, truly unique content never fits inside established categories, so it's unlikely to get promoted -- it's more likely that it gets dumbed down or censored or worse that authors self-censor to make it fit the lowest-common-denominator channels.  
+
+The war against informing humans is being won by media companies ... you will need to understand how those companies work in order to not have your content dumbed down or reduced to simplistic categories ... you are going to need great partners and sponsors AND you are going to have keep your awareness of the industry and alternatives sharper than ever as you move forward ... the important point is that your strategy and business plan will have to adapt ... next month's plan will be different than this month's plan, but you will need to have constantly revised / updated WRITTEN plan or forward looking vision to move toward.
 
 In this post, we will talk briefly about the following alternatives that we have looked into so far ... but it's important to realize why this list only scratches the surface of the alternatives that you will need to consider in the next few months and years:
 
