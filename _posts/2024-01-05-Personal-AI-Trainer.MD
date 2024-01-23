@@ -7,6 +7,8 @@ categories: Tools
 
 
 
+# TL;DR: AI ain't gonna cut it until people understand that AI is not PERSONAL enough.
+
 Let's say, just for the sake of argument, that we wanted to develop a Bruno.Solutions open source version of a ***personal** *AI trainer*, which that might be somewhat similar to [Ditto.Fit](https://www.ditto.fit/)
 
 *What would be the best way to go about this task?*  Well ... MAYBE ... we should just sign up for [Ditto.Fit's beta waitlist](https://airtable.com/shruw72Azfu95ZGMG) and see what they have to offer.  Then we can decide if we want to build something similar. Or better. OR maybe we don't want to build anything at all. Just yet.  
