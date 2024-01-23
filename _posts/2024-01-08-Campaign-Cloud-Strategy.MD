@@ -2,7 +2,7 @@
 layout: post
 title:  "Your Capability to Win A Multi-Dimensional Information War"
 subtitle:  "How do we use GCP, AWS, Azure, IBM Cloud, PaperSpace, LambdaLabs, NVIDIA AI Enterprise, Platform9, Cirrity, Rescale, Bright Computing ... as well as rentable compute thru VAST.ai or LambdaLabs in addition to on on-prem home lab"
-date:   2024-01-07 4:30:00
+date:   2024-01-08 4:30:00
 categories: Tools
 ---
 

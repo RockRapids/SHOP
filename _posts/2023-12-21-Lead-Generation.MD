@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI Lead Generation...Don't Exactly Buy It YET, But ..."
-date:   2024-01-01 4:30:00
+date:   2023-12-21 4:30:00
 categories: Tools
 ---
 

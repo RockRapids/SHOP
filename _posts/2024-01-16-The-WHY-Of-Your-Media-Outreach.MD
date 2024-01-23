@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Your WHY Drives Your Venture and Plan For Outreach"
-date:   2024-01-06 4:30:00
+date:   2024-01-16 4:30:00
 categories: Tools
 ---
 

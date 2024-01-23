@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "KnowledgeGraphs and Graph Databases"
-date:   2024-01-02 4:30:00
+date:   2023-12-27 4:30:00
 categories: Tools
 ---
 
