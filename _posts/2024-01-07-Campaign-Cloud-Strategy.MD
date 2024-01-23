@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploit Every Tool To Control Your Capability to Fight In A Multi-Dimensional Information War"
+title:  "Your Capability to Win A Multi-Dimensional Information War"
 subtitle:  "How do we use GCP, AWS, Azure, IBM Cloud, PaperSpace, LambdaLabs, NVIDIA AI Enterprise, Platform9, Cirrity, Rescale, Bright Computing ... as well as rentable compute thru VAST.ai or LambdaLabs in addition to on on-prem home lab"
 date:   2024-01-07 4:30:00
 categories: Tools
@@ -9,7 +9,14 @@ categories: Tools
 
 # You are AT WAR
 
-There's an information war underway ... and it's not an overstatement to say that your consciousness is being attacked ... especially if you are passively consuming television/movies, social media, news media, sports.
+There's an information war underway ... it's a CULTURAL war, but your culture is dominated by the media consumed by the individuals making up the culture.  When individuals choose not to control the projectors driving their media consumption, they will be programmed by those who are using media programming.  Media and advertisting are gigantic industry segments, which basically dominated the mindshare of people in the culture ... if you don't control your information technology, you have basically ceded the cultural war to those who use media programming to herd human zombies.
+
+**When you have** *favorite programs* **which you much watch every day, YOU have chosen to lose the culture war.**
+
+It's a gross UNDERSTATEMNT to say that your consciousness has been under attack for some time ... especially if you have ever been passively consuming television/movies, social media, news media, sports *just to COPE with your life* ... ***POOR you!***  Coping with the routine first-world gripes of an affluent cultural is symptomatic of spiritual depravity ... feeling sorry for yourself just because you had a long day at work is equivalent to spiritual weakness. **Giving in media programming is not a way to cope with life, it's a way to lose the war without even bothering to fight.**
+
+WHEN your passive media choices have become your coping strategy, ie when you want to get home so that you can watch your favorite program OR YouTube channels, you have EFFECTIVELY CHOSEN TO CEDE TOTAL CONTROL of your consiousness. 
+
 
 ***When we don't CONTROL the projector, we lose the war without even bothering to fight***
 
