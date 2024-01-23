@@ -1,14 +1,24 @@
 ---
 layout: post
-title:  "Level Up Those VLSI Skills"
-subtitle:  "What's so special about very large scale integrated circuits?"
+title:  "What's so special about very large scale integrated circuits?"
+subtitle:  "Level Up Those VLSI Skills"
 date:   2024-01-10 4:30:00
 categories: Discipline
 ---
 
-***Freedom Is Never Free!*** Uncle Sam is looking at you and saying, "*This is up to you, kiddo!*" There's a lump of VLSI magic in your stocking, but to use the magic, you will need to level up those VLSI skills.
 
-Today's Christmas Eve and you might be wondering if Santa has forgotten you. You might be sniffling about [the big money starting to be spread around by the bipartisan Chips and Science Act](https://www.cnbc.com/2023/12/11/bae-systems-new-hampshire-computer-chip-plant-the-first-to-get-funding-from-chips-law.html), thinking to yourself that you could put $52 billion to better use ... *except, if you're actually that selfish to think such a thing, then you're dead wrong.*
+# Level Up Those VLSI Skills
+
+
+Very large scale integrated (VLSI) circuits are not just the bedrock of modern technology ... nobody cares about technolgoy just for the sake of technolgy. 
+
+There are HUGE REASONS why VLSI circuits are more important than gasoline engines or ballistics or pharmaceuticals or *the ability to grow all kinds of corn that can be turned into impressive lagoons of pigshit* ... it's primarily because VLSI circuits go into EVERYTHING that produces anything. Of course, VLSI technology drives modern defense systems capabilties and making warfighters much better informed and better able to make smarter, more strategically successful decisions ... but it's really that VLSI technology drives the engines that power everything in the modern industrial economy.  
+
+***Freedom Is Never Free!*** Uncle Sam is looking at you and saying, "*This is up to you, kiddo!*" There are giant lumps of VLSI magic in the stocking of your investment choices, but to put that magic to USE, you will need to level up those VLSI skills ... even if your VLSI skills will be used for nothing other than making informed investment decisions, ie understanding why VLSI mfg tech is a MUCH SMARTER investment than cryptocurrency can possibly be.
+
+You might be feeling a little neglected, a little left out ... if you have not been following VLSI tech ... like the stupid, immature adult on Christmas Eve who still plays with kiddo toys wondering why Santa has forgotten to bring you any adult presents, ie not understanding that YOU and your ability to invest is the only way you are going to be able to afford ANY presents. 
+
+You might be sniffling about [the big money starting to be spread around by the bipartisan Chips and Science Act](https://www.cnbc.com/2023/12/11/bae-systems-new-hampshire-computer-chip-plant-the-first-to-get-funding-from-chips-law.html), thinking to yourself that you could put $52 billion to better use ... *except, if you're actually that selfish to think such a thing, then you're dead wrong.*
 
 And, FURTHERMORE, it's time for you to grow*TF* up! Santa Claus is not going to drop that much money down your chimney, Princess. 
 
