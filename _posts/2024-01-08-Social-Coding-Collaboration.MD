@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Social Coding Collaboration Under Different Culturally Influenced Workflows"
+title:  "Social Coding Collaboration and Flowing Your Work Different"
 subtitle:  "GitHub Actions, GitLab CI/CD, Gerrit/OpenDev"
 date:   2024-01-08 4:30:00
 categories: Tools
