@@ -28,19 +28,19 @@ Historical: Marcus Aurelius said, “Ask yourself at every moment, ‘Is this ne
 
 **2. How did I demonstrate courage or resilience today, whether visible to others or not?**
 
-This one’s a QUIET, gentle badass. Courage isn’t always loud—sometimes it’s just getting out of bed when you’d rather not, or saying no when yes is easier. Resilience is the bounce-back, the “I’m still here” vibe. Love that it honors the unseen wins.
+This one’s a QUIET, gentle badass. Courage isn’t usually loud, guns blazing, Medal Of Honor stuff — mostly, building the courage muscle [for the times when one really needs it] is just getting out of bed when you’d rather not, or saying NO when yes or tacit compliance is easier. Resilience comes from the bounce-back *after something punches you in the face*, the “I’m still here” vibe. God's love is apparent in how that courage honors the unseen wins.
 
-Voices from X, @jordanbpeterson: “Courage is not the absence of fear, but the ability to act in spite of it.” Spot on for this.  
+Voices from X, @jordanbpeterson: “Courage is not the absence of fear, but the ability to act in spite of it.” Spot quote on for the ordinariness of the challenges in this question.  
 
-Historical: Eleanor Roosevelt: “You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.” A classic.
+Historical: Eleanor Roosevelt: “You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.” Given the conniving ASSHOLE that she had for a husband and the times in which she lived, this line is a true Classic; nobody would have blamed her for being a medicated or drunk, seen-not-heard First Lady.
 
 **3. What unexpected or unplanned achievement surprised me today?**
 
 This is the wildcard in the deck—it’s like finding a twenty in your pocket. It reminds you life’s not all grind; sometimes you stumble into gold. It’s compassionate because it lets you celebrate what you didn’t even plan to crush.
 
-Voices from X, @JamesClear: “Small wins are a sign you’re on the right path.” Ties to spotting those surprises.  
+Voices from X, @JamesClear: “Small wins are a sign you’re on the right path.” Ties back to staying observant throughout the day, spotting and scooping up those surprises.  
 
-Historical: Louis Pasteur: “Chance favors the prepared mind.” Even the unplanned needs a little groundwork.
+Historical: Louis Pasteur: “Chance favors the prepared mind.” The unplanned serendipitous breakthrough needs a little groundwork and depends upon mindfully paying attention, ie Pasteur was not a multi-tasker.
 
 **4. How did I invest in my future self today?**
 
