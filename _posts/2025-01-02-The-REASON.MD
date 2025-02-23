@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "There WAS a REASON that you went to talk to the recruiter"
-date:   2024-01-22 4:30:00
+date:   2025-01-02 4:30:00
 categories: Tools
 ---
 
