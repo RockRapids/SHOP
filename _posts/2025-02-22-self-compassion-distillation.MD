@@ -20,17 +20,17 @@ You can do the same thing that I did ... in the end, you want to end up a shortl
 
 **1. What meaningful progress did I make today on something that truly matters?**
 
-This is about cutting through the noise. It’s not just “Did I do stuff?” but “Did I move the needle on what actually lights me up or builds my life?” It’s tough because it forces you to define “truly matters”—and that’s where the real work starts.
+This sounds almost too simple, but it comes first cut through the noise ... it's the ONE question that you have to ask continually, every day. It’s not just “Did I do a show-offey pile of busywork stuff?” but rather “Did I move the needle on what actually lights me up or builds my life?” It’s tough because prioritization is about not givingAF about things that matter less; the question forces you to define and refine your understanding of what “truly matters”—and that’s where the real work starts.
 
-Voices: From X, @naval (Naval Ravikant): “Most of life is a search for who and what needs you the most.” This ties into daily prioritization, project management discipline of working on what matters MOST to advance the larger project and continually noticing things that need attention and reflecting upon what needs to be done, in small breaks throughout the day. It truly IS a lifelong quest.  
+Voices from X, @naval (Naval Ravikant): “MOST of life is a search for who and what needs you the most.” This ties back daily prioritization and timeblocking, project management disciplines, especially scope management or focusing effort on what matters MOST to advance the larger project and continually noticing the little things that need attention and reflecting upon what is important vs what is urgent or looks back -- the important stuff NEEDS to be done, but the quest for what matters and how/why it matters has to happen continually in small breaks throughout the day ... and it truly IS a lifelong quest, throughout every day that one is alive.  
 
-Historical: Marcus Aurelius said, “Ask yourself at every moment, ‘Is this necessary?’” A Stoic nudge to focus on the essential.
+Historical: Marcus Aurelius said, “Ask yourself at every moment, ‘Is this necessary?’” A Stoic nudge to focus on the essential ... and FWIW, the Stoics and other Classics, like scripture or The Art of War matter and most of what follows under the *Historical:* heading gets reused over and over, in the same way that the patterns in open source, really solid, reusable code matter to developers. We continually refactor this stuff, because it will be reused, thus much more important to our future than it will be for the immediate use.
 
 **2. How did I demonstrate courage or resilience today, whether visible to others or not?**
 
 This one’s a QUIET, gentle badass. Courage isn’t always loud—sometimes it’s just getting out of bed when you’d rather not, or saying no when yes is easier. Resilience is the bounce-back, the “I’m still here” vibe. Love that it honors the unseen wins.
 
-Voices:  From X, @jordanbpeterson: “Courage is not the absence of fear, but the ability to act in spite of it.” Spot on for this.  
+Voices from X, @jordanbpeterson: “Courage is not the absence of fear, but the ability to act in spite of it.” Spot on for this.  
 
 Historical: Eleanor Roosevelt: “You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.” A classic.
 
@@ -38,7 +38,7 @@ Historical: Eleanor Roosevelt: “You gain strength, courage, and confidence by 
 
 This is the wildcard in the deck—it’s like finding a twenty in your pocket. It reminds you life’s not all grind; sometimes you stumble into gold. It’s compassionate because it lets you celebrate what you didn’t even plan to crush.
 
-Voices: From X, @JamesClear: “Small wins are a sign you’re on the right path.” Ties to spotting those surprises.  
+Voices from X, @JamesClear: “Small wins are a sign you’re on the right path.” Ties to spotting those surprises.  
 
 Historical: Louis Pasteur: “Chance favors the prepared mind.” Even the unplanned needs a little groundwork.
 
@@ -46,7 +46,7 @@ Historical: Louis Pasteur: “Chance favors the prepared mind.” Even the unpla
 
 This is about the long-game. Did I plant a seed—mental, physical, emotional—that future me will thank me for? It’s driving because it demands action, but kind because it’s about care, not punishment.
 
-Voices:  From X, @SahilBloom: “Invest in yourself—it pays the best interest.” Simple and true.  
+Voices from X, @SahilBloom: “Invest in yourself—it pays the best interest.” Simple and true.  
 
 Historical: Benjamin Franklin: “An investment in knowledge pays the best interest.” A nod to learning as a future gift.
 
@@ -54,7 +54,7 @@ Historical: Benjamin Franklin: “An investment in knowledge pays the best inter
 
 This one’s a spine-check. It’s NOT JUST “Did I choose?” but “Did I choose what I stand for?” It’s tough because values-driven choices often suck in the moment—saying no to a shortcut, or yes to a slog. Beautifully human.
 
-Voices:  From X, @RyanHoliday: “You don’t have to like the hard choice. You just have to make it.” You want to be quietly thumping those stoic vibes all day.  
+Voices from X, @RyanHoliday: “You don’t have to like the hard choice. You just have to make it.” You want to be quietly thumping those stoic vibes all day.  
 
 Historical: Socrates: “Know thyself.” Picking values starts with knowing what you’re about.
 
@@ -62,7 +62,7 @@ Historical: Socrates: “Know thyself.” Picking values starts with knowing wha
 
 This is the alchemy question—not just lemons into lemonade, but transforming crap into gold. It’s compassionate because it assumes setbacks WILL happen, driving because it demands you do something with them. What I love the growth-predisposition mindset baked in here.
 
-Voices:  From X, @MarkManson: “The struggle is THE point.” Don't just embrace the suck, expect it and then USE it.  
+Voices from X, @MarkManson: “The struggle is THE point.” Don't just embrace the suck, expect it and then USE it.  
 
 Historical: Nietzsche: “What does not kill me makes me stronger.” Overused, maybe, but it fits.
 
@@ -70,7 +70,7 @@ Historical: Nietzsche: “What does not kill me makes me stronger.” Overused, 
 
 This is the “stop hiding” question. It’s tough because it calls out your procrastination or overthinking demons, but the payoff—checking that box—feels like a weight off. It’s about facing the nag, smashing it and winning, *rather than letting it live rent-free in your head*.
 
-Voices:  From X, @david_perell: “Procrastination is a tax on your future self.” Taxes always catch up with you; pay them ONCE.
+Voices from X, @david_perell: “Procrastination is a tax on your future self.” Taxes always catch up with you; pay them ONCE.
 
 Historical: Goethe: “What you can do, or dream you can, begin it; boldness has genius, power, and magic in it.” Get it done.
 
@@ -78,7 +78,7 @@ Historical: Goethe: “What you can do, or dream you can, begin it; boldness has
 
 This is about balance and strength and using your fears when you're on the tightrope. Push too hard, you snap; too soft, you stall. It’s asking, “Did I chase the dream without trashing myself?” Keep the fire, while avoiding the burnout ... *might be the toughest question on the list.*
 
-Voices:  From X, @nedratawwab: “You can’t pour from an empty cup. Boundaries are self-care.” It's like in investing, SMART compassion starts with being able to be long-term compassionate, not just in spraying checks around.
+Voices from X, @nedratawwab: “You can’t pour from an empty cup. Boundaries are self-care.” It's like in investing, SMART compassion starts with being able to be long-term compassionate, not just in spraying checks around.
 
 Historical: Buddha: “You yourself, as much as anybody in the entire universe, deserve your love and affection.” Balance in a nutshell.
 
@@ -86,7 +86,7 @@ Historical: Buddha: “You yourself, as much as anybody in the entire universe, 
 
 This one seems outward but it's maybe more deeply personal. It’s NOT about grand gestures—it could be a smile, a word, giving someone a lift. It’s driving all day long because it ties your day to something bigger, compassionate because what you did today is not about you.
 
-Voices:  From X, @BreneBrown: “Connection is why we’re here; it’s what gives purpose and meaning to our lives.” SMALL impacts matter MOST. Look inside your heart.
+Voices from X, @BreneBrown: “Connection is why we’re here; it’s what gives purpose and meaning to our lives.” SMALL impacts matter MOST. Look inside your heart.
 
 Historical: Dalai Lama: “Be kind whenever possible. It is always possible.” Small acts count.
 
@@ -94,7 +94,7 @@ Historical: Dalai Lama: “Be kind whenever possible. It is always possible.” 
 
 This is about the spark, rather than the fire or explosion ... but the energy of the spark is wasted without gas in the cylinder. Did I start something—a project, an idea, a habit—in the right environment, at the right time—that could go somewhere? It’s forward-looking but grounded in today’s hustle. Love the legacy angle without the pressure.
 
-Voices:  From X, @sama (Sam Altman): “The best way to predict the future is to create it.” Boom.  
+Voices from X, @sama (Sam Altman): “The best way to predict the future is to create it.” Boom.  
 
 Historical: Leonardo da Vinci: “I have been impressed with the urgency of doing. Knowing is not enough; we must apply.” Creation’s the key.
 
@@ -102,7 +102,7 @@ Historical: Leonardo da Vinci: “I have been impressed with the urgency of doin
 
 The eleventh question is the master key—it's the one that ties the other ten together. It’s asking, “Did I say yes to what I could handle and no to what I couldn’t, all while keeping my word?” It’s tough because boundaries take guts, compassionate because it protects your spark, and driving because it keeps you in the game long-term WITH ENTHUSIASM. When you've lost your enthusiasm, take a break and find it ... sustained enthusiasm is the secret sauce—nobody wants a drained yes-man just collecting a paycheck.
 
-Voices:  From X, @nedratawwab: “Boundaries are the distance at which I can love you and me simultaneously.” It IS entirely about LOVE.  
+Voices from X, @nedratawwab: “Boundaries are the distance at which I can love you and me simultaneously.” It IS entirely about LOVE.  
 
 Historical: Henry David Thoreau: “The price of anything is the amount of life you exchange for it.” Boundaries guard that life.
 
