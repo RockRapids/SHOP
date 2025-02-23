@@ -107,9 +107,9 @@ Voices:  From X, @nedratawwab: “Boundaries are the distance at which I can lov
 Historical: Henry David Thoreau: “The price of anything is the amount of life you exchange for it.” Boundaries guard that life.
 
 ### Overall
-The eleven questions that support your main **"What did you get done today?"** question are powerhouse generating your power.
+The eleven questions that support your main **"What did you get done today?"** question are powerhouse generating your power. When the questions come *from you*—they are not just a checklist anymore. What's important is the internalization, the rumination and pondering, and your **constancy of purpose** that helps you reflect your values and be something of a compass to guide others as well.
 
-When the questions come from you—they are not just a checklist anymore; they help you reflect your values and be something of a compass to guide others as well. Each of the first ten, in its own way demands honesty (tough), gives you grace (compassionate), and shoves you forward (driving), but the eleventh is the crown jewel.  The other ten WILL TRY to eat you alive ... you need a system that says, “Go hard, but don’t break.” It has to be your system, something you use everyday, all day long, carry with you for years, tweaking as you grow. 
+Each of the first ten, in its own way demands honesty (tough), gives you grace (compassionate), and shoves you forward (driving), but the eleventh is the crown jewel.  The other ten WILL TRY to eat you alive ... you need a system that says, “Go hard, but don’t break.” It has to be your system, something you use everyday, all day long, carry with you for years, tweaking as you grow. 
 
 ## Your Soul, Your Mission
 
