@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Self-Compassion Needs To Be Compassion For Future Self AND The Better World That Self Enables"
-date:   2022-02-22 4:30:00
+date:   2025-02-21 4:30:00
 categories: Tools
 ---
 
