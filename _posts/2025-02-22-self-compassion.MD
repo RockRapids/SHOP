@@ -14,26 +14,31 @@ Self-compassion needs to be driven by the compassion for one's future self AND t
 
 Take your time with these 100 question in the list ... in the list's TOTALITY. They are for you to ponder -- there are not right or wrong answers, EXCEPT that ducking any question is very definitely the wrong approach to pondering the questions. 
 
-Read the entire list slowly, let the questions sink in ... THEN craft your own questions ... you want to end up the ten best, toughest, most compassionate but still driving questions that allow you to look in the mirror and ask yourself each day that go to the heart of "What did you get done today?"
+Read the entire list slowly, let the questions sink in ... JUST reading the list and letting the questions really sink in might be enough for the first time or two.
 
+EVENTUALLY, after you've read/digested the whole list, you are going to craft your own set of 10 questions ... it's probably best to go with quality over quantity, but we'll set the number at ten -- *you can raise or lower that number, but pick a number that works, a number that you will actually USE.*
 
-Did I take one meaningful step toward something that matters to me today?  
+You want to end up the ten very best, very toughest, vert most compassionate but still driving questions that allow you to look in the mirror and ask yourself each day that go to the heart of "What did you get done today?"
 
-What did I do today that I’ll be proud of tomorrow?  
+### Ponder these 100 questions ... in totality
 
-Did I push past any discomfort to get something important done?  
+How did I take one or two meaningful steps toward something BIG that really matters to me today?  
 
-How did I show up for myself today, even in a small way?  
+What ONE THING did I do today that I’ll be proud of tomorrow or a week from today or even a month from today?  
 
-What’s one thing I accomplished that I didn’t expect to?  
+Exactly how or when did I push past any discomfort or unease or feelings of fear to get something important done?  
 
-Did I waste time today ... if I did, so what ... but what is the lesson can I learn from it? Do I need disciplined breaks?  
+How did I show up for myself or *puts points on the board* today, *moving the needle a bit*, if only in a small way?  
 
-Did I help someone else, even if it was just a kind word? Or something to indicate they need to think more of themselves? 
+What’s one thing I accomplished that came as a bit of surprise; some task that I *knocked off* I didn’t expect to?  
 
-What did I finish today that’s been lingering too long?  What is the root cause for why it lingered?
+Did I waste time today ... *if I did, so what -- that's not important ... what is the lesson can I learn from it, eg *do I need disciplined breaks?*  
 
-Did I give my best effort to something challenging?  
+Did I help someone else, even if it was just a kind word or a comment on social media? Was it something to indicate they need to think more of themselves? 
+
+What did I finish today that’s has perhaps been lingering just a tad too long?  What is the root cause for why it may have lingered?
+
+Did I give my best effort [and maybe fail or embarrass myself slightly] to something challenging? Did I actually stretch enough today?  
 
 How did I handle a moment when I wanted to give up?  Did I give the moment to God and move on, so that I could come back to it later?
 
@@ -129,7 +134,7 @@ What’s one thing I fought for today—myself or something else?
 
 Did I listen to my instincts when they nudged me forward?  
 
-Did I let someone else’s opinion derail my progress?  
+Did I let someone else’s opinion derail or slow down or reconsider my progress? Why does their matter?  
 
 What did I do today that I’d be okay ending the day with?  
 
