@@ -22,7 +22,7 @@ You can do the same thing that I did ... in the end, you want to end up a shortl
 
 This is about cutting through the noise. It’s not just “Did I do stuff?” but “Did I move the needle on what actually lights me up or builds my life?” It’s tough because it forces you to define “truly matters”—and that’s where the real work starts.
 
-Voices: From X, @naval (Naval Ravikant): “Most of life is a search for who and what needs you the most.” This ties into picking what matters.  
+Voices: From X, @naval (Naval Ravikant): “Most of life is a search for who and what needs you the most.” This ties into daily prioritization, project management discipline of working on what matters MOST to advance the larger project and continually noticing things that need attention and reflecting upon what needs to be done, in small breaks throughout the day. It truly IS a lifelong quest.  
 
 Historical: Marcus Aurelius said, “Ask yourself at every moment, ‘Is this necessary?’” A Stoic nudge to focus on the essential.
 
