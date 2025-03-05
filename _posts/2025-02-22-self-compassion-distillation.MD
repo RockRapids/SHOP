@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "The importance of asking oneself WHAT DID YOU GET DONE TODAY?"
+title:  "The importance of asking, 'WHAT DID YOU GET DONE TODAY?'"
 date:   2025-02-22 4:31:00
 categories: Tools
 ---
 
 
-If somebody actually, really GENUINELY cares about you ... they will ask you ... *in a compassionate but firm manner, appropriate for your level of development and that expects you to be great and achieve that you find fulfilling* ... **"What did you get done today?"**  
+# Self-compassion involves self-coaching
+
+If somebody actually, really GENUINELY cares about you ... they will ask you ... *in a* **compassionate** *but firm manner, given a loving high level of expectations, appropriate for your level of development and that expects you to be great and achieve that you find fulfilling* ... **"What did you get done today?"**  
 
 One of the personal DEMONS that I am still wrestling with is the demon that pushes me to ignore issues, rather than address them. This is true for how I regard others, but more importantly, perhaps this is also true of how I treat myself ... ***I'm trying to cave in the melon of this demon.***
 
