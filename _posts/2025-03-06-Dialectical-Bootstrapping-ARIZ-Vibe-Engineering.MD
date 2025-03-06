@@ -22,11 +22,18 @@ It is **together**, by adding the power of AI-assisted creative problem-solving 
 
 ## Dialectical Bootstrapping + TRIZ/ARIZ: Vibe Engineering Meta-Algorithm
 
+### 0. Understand Vibe Engineering Gist: Dialectical Bootstrapping, ARIZ/TRIZ
+- Purify you vibe .. forgive, control your mind, drive out fear, eliminate hate, get rid of unhelpful, negative vibes as they arise.
+- In order to optimize the ASSIST offered by LLM AI, you will succeed most rapidly by understanding the algorithms
+- Articulate your prompts in terms of concrete, quantifiable, realistic objectives; your prompts are like code that should make sense to you when you come back to them after forgetting that you wrote them -- it's like good engineering problem-solving format. 
+- Understand topics like dialectical bootstrapping, ARIZ/TRIZ at Level 5 of 6 of Bloom's Taxonomy or ideally at a level which you could publish in peer-reviewed engineering journals.
+- Vibe engineering is HARD engineering; it's not just about throwing mud in the direction of where you think the wall is in order see if somehow some of your mud might stick to something ... the more that you really UNDERSTAND about how things work, the better that your prompt to the system is going to generate actionable results, which provide the basis for better UNDERSTANDING the *big picture*, thinkering with resulting ideas and then asking better questions 
+
 ### 1. Formulate the initial problem statement using standard TRIZ methodology
-- Identify the primary technical or physical contradiction
-- Define the ideal final result (IFR)
-- Specify available resources and constraints
-- Document your current mental model and assumptions
+- Identify the single primary technical / physical contradiction
+- Concretely visualize, then DEFINE the ideal final result (IFR)
+- State assumptions, factors; specify resources, constraints
+- Document the code of current mental model compilation/build
 
 ### 2. Generate your first solution approach using traditional TRIZ contradiction matrix
 - Identify the improving and worsening parameters in the contradiction matrix
