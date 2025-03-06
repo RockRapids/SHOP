@@ -6,9 +6,13 @@ categories: Infrastructure
 ---
 
 
-The software development community is buzzing about 'vibe coding,' a trend where developers use AI, specifically Large Language Models (LLMs), to generate code from high-level descriptions. This approach is celebrated for its efficiency in creating simple applications and UI designs, enhancing productivity. However, there's skepticism regarding its effectiveness for complex software projects, where traditional coding skills like system architecture understanding and manual debugging are still deemed essential. The release of Windsurf Wave 4, with features like Previews and Cascade Auto-Linter, supports this new coding paradigm by facilitating quick UI adjustments and maintaining code quality. While some developers are enthusiastic, others express concerns about the long-term implications and the depth of understanding required for intricate software development.
+The software development community is buzzing about 'vibe coding,' a trend where developers use AI, specifically Large Language Models (LLMs), to generate code from high-level descriptions. This approach is celebrated for its efficiency in creating simple applications and UI designs, enhancing productivity. Of course, there's skepticism regarding vibe coding effectiveness for complex software projects, where traditional coding skills like system architecture understanding and manual debugging are still deemed essential ... but the early examples are promising. For example, the release of Windsurf Wave 4, with features like Previews and Cascade Auto-Linter, supports this new coding paradigm by facilitating quick UI adjustments and maintaining code quality. 
 
-We asked Grok3 to *vibe code* [an improved meta-design document for the process of developing a municipal wastewater treatment facility serving a community of 5,000-10,000 people in Northwest Iowa.](https://x.com/i/grok/share/frXKkdpW7kaskW9jAQN3BfmTc) 
+# HOW would we adapt the gist of the vibe coding paradigm to open source infrastructure soluionware?
+
+In order to start getting some practical experience with how this might work, we asked Grok3 to *vibe code* [an improved meta-design document for the process of developing a municipal wastewater treatment facility serving a community of 5,000-10,000 people in Northwest Iowa.](https://x.com/i/grok/share/frXKkdpW7kaskW9jAQN3BfmTc) 
+
+In this post, we explore our thinking in how vibe coding might be an incredibly important development in the realm of what BrunoSolutions is about, free open source public infrastructure solutionware.
 
 
 ..
