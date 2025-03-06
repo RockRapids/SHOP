@@ -23,11 +23,16 @@ It is **together**, by adding the power of AI-assisted creative problem-solving 
 ## Dialectical Bootstrapping + TRIZ/ARIZ: Vibe Engineering Meta-Algorithm
 
 ### 0. Understand Vibe Engineering Gist: Dialectical Bootstrapping, ARIZ/TRIZ
-- Purify you vibe .. forgive, control your mind, drive out fear, eliminate hate, get rid of unhelpful, negative vibes as they arise.
-- In order to optimize the ASSIST offered by LLM AI, you will succeed most rapidly by understanding the algorithms
+
+- Purify your vibe .. *love*, groove, forgive, drive out fear, eliminate hate, don't rely on external stimulants/atmosphere/music, control your mind, get rid of unhelpful, negative buzzkill vibes as they arise. Be childlike in your joy, excitement and infectious exuberance.
+
+- In order to optimize the ASSIST offered by LLM AI, you will succeed most rapidly by understanding the algorithms ... but you never understand as much as you can learn from your next AI-assisted engineering session ... there will always be more to learn and master.
+
 - Articulate your prompts in terms of concrete, quantifiable, realistic objectives; your prompts are like code that should make sense to you when you come back to them after forgetting that you wrote them -- it's like good engineering problem-solving format. 
-- Understand topics like dialectical bootstrapping, ARIZ/TRIZ at Level 5 of 6 of Bloom's Taxonomy or ideally at a level which you could publish in peer-reviewed engineering journals.
-- Vibe engineering is HARD engineering; it's not just about throwing mud in the direction of where you think the wall is in order see if somehow some of your mud might stick to something ... the more that you really UNDERSTAND about how things work, the better that your prompt to the system is going to generate actionable results, which provide the basis for better UNDERSTANDING the *big picture*, thinkering with resulting ideas and then asking better questions 
+
+- Become a student of new developments in meta-cognition topics like dialectical bootstrapping, ARIZ/TRIZ at Level 5 of 6 of Bloom's Taxonomy or ideally at a level which you could publish in peer-reviewed engineering / scientific journals.
+
+- Vibe engineering is HARD; it's about controlling your mind, in order to do AI-assisted engineering; it's not just about coloring outside the lines, throwing mud in the direction of where you think the wall is in order see if somehow some of your mud might stick to something ... the more that you really UNDERSTAND about how things work, the better that your prompt to the system is going to generate actionable results, which provide the basis for better UNDERSTANDING the *big picture*, thinkering with resulting ideas and then asking better questions 
 
 ### 1. Formulate the initial problem statement using standard TRIZ methodology
 - Identify the single primary technical / physical contradiction
@@ -126,13 +131,13 @@ It is **together**, by adding the power of AI-assisted creative problem-solving 
 - Develop implementation concepts based on the integrated model
 
 ### 17. Apply ARIZ algorithm with your original mindset
-- Follow the complete ARIZ-85C process with your initial assumptions
+- Follow the complete latest, greatest ARIZ process with your initial assumptions
 - Document decision points and selection criteria
 - Note where psychological inertia appears in your analysis
 - Identify resource limitations in your approach
 
 ### 18. Restart ARIZ with your alternative mindset
-- Follow ARIZ-85C again with your alternative perspective
+- Follow latest, greatest ARIZ again with your alternative perspective
 - Document different choices made at key decision points
 - Note novel resources identified from this perspective
 - Identify different contradiction formulations that emerge
