@@ -2,7 +2,7 @@
 layout: post
 title:  "100-Point DOGE-Food Plan for Small Iowa Communities"
 date:   2025-03-05 4:30:00
-categories: Tools
+categories: Compassion
 ---
 
 

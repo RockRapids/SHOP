@@ -2,7 +2,7 @@
 layout: post
 title:  "The importance of asking, 'WHAT DID YOU GET DONE TODAY?'"
 date:   2025-02-22 4:31:00
-categories: Tools
+categories: Compassion
 ---
 
 
