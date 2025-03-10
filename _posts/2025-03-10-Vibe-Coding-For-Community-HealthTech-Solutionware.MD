@@ -8,7 +8,7 @@ categories: Engagement
 
 ***So that we may BETTER train ourselves*** 
 
-This is about how '[***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e)' might work for something PRACTICAL, ie something to program ourselves to be higher-agency people, better at enjoying and facilitating the solution of problems, not just wanking on computer games for automated distractification, because we are good enough at procrastination, we don’t need to automate things that push us away from solving our practical problems.
+*CODERTROFIPYED* is about how  '[***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e)' [hypertrophizing](https://gemini.google.com/app/cf42870cb9cb5bb4) abilities to accomplish something PRACTICAL -- it's about *programming* ourselves to be higher-agency people, not just fit, but more broadly knowledgeable and engaged, thus better at enjoying and facilitating the solution of problems ... rather than just wanking on computer games and automated distractification ... because we are good enough at procrastination as it is. We don’t need to automate things that push us away from solving our practical problems.
 
 # Vibe Coding Is Fundamentally About Engagement
 
