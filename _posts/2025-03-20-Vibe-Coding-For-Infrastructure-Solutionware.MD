@@ -10,6 +10,8 @@ categories: Engagement
 
 The software development community has been buzzing about the innately SOCIAL trend of 'vibe coding,' in which developers or maybe we should say hackers use AI, specifically Large Language Models (LLMs), to generate code from high-level descriptions. This approach is celebrated for its efficiency in creating simple applications and UI designs, enhancing productivity. Of course, there's skepticism regarding vibe coding effectiveness for complex software projects, where traditional coding skills like system architecture understanding and manual debugging are still deemed essential ... but the early examples are promising. For example, the release of Windsurf Wave 4, with features like Previews and Cascade Auto-Linter, supports this new coding paradigm by facilitating quick UI adjustments and maintaining code quality. 
 
+The key is **JUST DO IT!** That is, of course, what vibe coding or public infrastructure and community hacking are completely about. Of course, it's important to embrace the open-source ethos, prioritize ethical considerations, and foster a collaborative spirit to harness the power of Generative AI for personalized and accessible lifestyle advice ... but the key is just get started, make something, fail, learn as much as possible and iterate, but to **JUST DO IT!** 
+
 # HOW would we adapt the gist of the vibe coding paradigm to open source infrastructure soluionware?
 
 In order to start getting some practical experience with how this might work, we asked Grok3 to *vibe code* [an improved meta-design document for the process of developing a municipal wastewater treatment facility serving a community of 5,000-10,000 people in Northwest Iowa.](https://x.com/i/grok/share/frXKkdpW7kaskW9jAQN3BfmTc) 
