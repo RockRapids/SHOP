@@ -6,7 +6,9 @@ categories: Engagement
 ---
 
 
-***So that we may BETTER train ourselves*** ... this is about how '[***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e),' might work for **something PRACTICAL**, ie *something to program ourselves* to being higher-agency people, better at enjoying the solution of problems, ***not just a computer game*** for automated distractification ... we are good enough at procrastination, we don't need to automate things that push us away from solving our practical problems.
+***So that we may BETTER train ourselves*** 
+
+This is about how '[***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e)' might work for something PRACTICAL, ie something to program ourselves to be higher-agency people, better at enjoying and facilitating the solution of problems, not just wanking on computer games for automated distractification, because we are good enough at procrastination, we don’t need to automate things that push us away from solving our practical problems.
 
 # Vibe Coding Is Fundamentally About Engagement
 
