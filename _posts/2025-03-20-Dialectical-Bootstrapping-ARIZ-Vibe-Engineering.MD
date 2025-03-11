@@ -1,12 +1,16 @@
 ---
 layout: post
 title:  "Dialectical Bootstrapping With TRIZ/ARIZ -- Vibe Engineering"
-date:   2025-03-06 6:30:00
+date:   2025-03-20 6:30:00
 categories: Compassion
 ---
 
 
-The software development community is buzzing about *'vibe coding,'* a trend where developers use AI, specifically Large Language Models (LLMs), to generate code from high-level descriptions. This approach is celebrated for its efficiency in creating simple applications and UI designs, enhancing productivity. Of course, there's skepticism regarding vibe coding effectiveness for complex software projects, where traditional coding skills like system architecture understanding and manual debugging are still deemed essential ... but the early examples are promising. For example, the release of Windsurf Wave 4, with features like Previews and Cascade Auto-Linter, supports this new coding paradigm by facilitating quick UI adjustments and maintaining code quality. 
+The software development community has been buzzing about the innately [SOCIAL trend that '***vibe coding*** represents](https://gemini.google.com/app/e3a900f51f6a920e),' in which developers or maybe we should say hackers use AI, specifically Large Language Models (LLMs), to generate code from high-level descriptions. This approach is celebrated for its efficiency in creating simple applications and UI designs, enhancing productivity. Of course, there's skepticism regarding vibe coding effectiveness for complex software projects, where traditional coding skills like system architecture understanding and manual debugging are still deemed essential. Vibe coding is inherently social coding or engagement with other hackers who are also prioritizing the feeling and social atmosphere of a hacker's digital interface. It's not only fun, but the early examples are promising. For example, the release of Windsurf Wave 4, with features like Previews and Cascade Auto-Linter, supports this new coding paradigm by facilitating quick UI adjustments and maintaining code quality.
+
+The key is **JUST DO IT!** That is, of course, what vibe coding or health hacking are completely about. Of course, it's important to embrace the open-source ethos, prioritize ethical considerations, and foster a collaborative spirit to harness the power of Generative AI for personalized and accessible lifestyle advice ... but the key is just get started, make something, fail, learn as much as possible and iterate, but to **JUST DO IT!** 
+
+In order to start getting some practical experience with how vibe coding might work for **something PRACTICAL**, ie *not just a computer game* for distractification ... *but something practical, so that we might begin train ourselves how to think in an AI-assisted world*...
 
 # HOW would we adapt the gist of the vibe coding paradigm to open source engineering of infrastructure soluionware?**
 
