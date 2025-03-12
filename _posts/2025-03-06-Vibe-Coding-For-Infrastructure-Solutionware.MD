@@ -16,7 +16,7 @@ In order to start thinking about *[vibe engineering](https://x.com/i/grok/share/
 
 3) Leverage AI/RAG Automation: Let AI sweat the details and even re-RAG the details.
 
-4) Support Iterative H-I-L Collaboration: Human-In-Loop iteration enables teamwork.
+4) Iterative H-I-L Collaboration Is Necessary: Human-In-Loop iteration enables teamwork.
 
 5) Maintain Contextual Awareness: Ground the process in traceable reqmts history.
 
