@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Vibe Coding For Public Infrastructure Solutionware"
+title:  "Vibe Engineering For Public Infrastructure Solutionware"
 date:   2025-03-06 4:30:00
 categories: Engagement
 ---
 
 
-# Vibe Coding Is Fundamentally About Engagement
+**Vibe Engineering** is somewhat like '[***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e),' but perhaps, we could say that it's more about requirements elicitation and requirement management, rather than understanding use cases and using programming language constructs. Thus, *vibe engineering* will in the fashion of [***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e)aim at using automation and AI to rapidly overcome the tedium of understanding the full regulatory landscape, something about the multi-disciplinary technologies, and the roadmap for implementation and scope mgmt. 
+
+In order to start thinking about vibe engineering, we need understand what vibe coding is fundamentally about.
+
+# Vibe Coding Is Fundamentally About Engagement ... Engagement Happens Because of rapid prototyping RESULTS
 
 The software development community has been buzzing about the innately SOCIAL trend of '[***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e),' in which developers or maybe we should say hackers use AI, specifically Large Language Models (LLMs), to generate code from high-level descriptions. This approach is celebrated for its efficiency in creating simple applications and UI designs, enhancing productivity. Of course, there's skepticism regarding vibe coding effectiveness for complex software projects, where traditional coding skills like system architecture understanding and manual debugging are still deemed essential. Vibe coding is inherently social coding or engagement with other hackers who are also prioritizing the feeling and social atmosphere of a hacker's digital interface. It's not only fun, but the early examples are promising. For example, the release of Windsurf Wave 4, with features like Previews and Cascade Auto-Linter, supports this new coding paradigm by facilitating quick UI adjustments and maintaining code quality. 
 
