@@ -6,9 +6,9 @@ categories: Engagement
 ---
 
 
-**Vibe Engineering** is somewhat like '[***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e),' but perhaps, we could say that it's more about requirements elicitation and requirement management, rather than understanding use cases and using programming language constructs. Thus, *vibe engineering* will in the fashion of [***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e)aim at using automation and AI to rapidly overcome the tedium of understanding the full regulatory landscape, something about the multi-disciplinary technologies, and the roadmap for implementation and scope mgmt. 
+**Vibe Engineering** is somewhat like '[***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e),' but perhaps, we could say that it's more about requirements elicitation and requirement management, rather than understanding use cases and using programming language constructs. Thus, *[vibe engineering](https://x.com/i/grok/share/kVArubk3OD0h2ZfETGqYxibBp)* will in the fashion of [***vibe coding***](https://gemini.google.com/app/e3a900f51f6a920e)aim at using automation and AI to rapidly overcome the tedium of understanding the full regulatory landscape, something about the multi-disciplinary technologies, and the roadmap for implementation and scope mgmt. 
 
-In order to start thinking about vibe engineering, we need understand what vibe coding is fundamentally about.
+In order to start thinking about *[vibe engineering](https://x.com/i/grok/share/kVArubk3OD0h2ZfETGqYxibBp)*, we will need to really *understand* what vibe coding [is about, why it has taken off, what makes it interesting] in very fundamental terms.
 
 # Vibe Coding Is Fundamentally About Engagement ... Engagement Happens Because of rapid prototyping RESULTS
 
