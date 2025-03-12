@@ -11,9 +11,13 @@ categories: Engagement
 In order to start thinking about *[vibe engineering](https://x.com/i/grok/share/kVArubk3OD0h2ZfETGqYxibBp)* ... maybe as [framework for developing other vibe tools](https://medium.com/intuitionmachine/a-framework-for-developing-vibe-ai-tools-d663971e3a9b) ... with a *vibe layer* for capturing the high-level feel or intent, a natural language conversation chat and more structured prompt layer to enable an efficient back-and-forth dialogue with AI, a domain Knowledge and constraint layer to integrate domain-specific rules, heuristics, or best practices and collaboration and refinement layer to facilitate iterative, co-creative workflows with versioning, branching, and user overrides, or maybe ... we need to take step back to really *understand* what vibe coding [is about, why it has taken off, what makes it interesting] in very fundamental terms and [***contemplate even better frameworks***?](https://x.com/i/grok/share/OSF2aYfYc2TSXPshZxxp5xqJ8) such as a modular framework (Intent Capture, AI Engine, Domain Integrator, Feedback Loop, Output Layer, Context Manager) builds on that by adding flexibility and explicit context handling to structure the framework around guiding principles rather than components: 
 
 1) Prioritize User Intent: Make expressing “what” effortless. 
+
 2) Leverage AI Automation: Let AI sweat the details.
+
 3) Incorporate Domain Expertise: Keep outputs practical.
+
 4) Support Iterative Collaboration: Enable refinement and teamwork.
+
 5) Maintain Contextual Awareness: Ground the process in history.
 
 It is clear that we need more experience *thinkering* with these frameworks, but this does feel like it is some exciting material.
