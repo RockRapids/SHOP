@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vibe Engineering -- Dialectical Bootstrapping, TRIZ/ARIZ, et al"
-date:   2025-03-15 6:30:00
+date:   2025-03-17 6:30:00
 categories: Compassion
 ---
 
