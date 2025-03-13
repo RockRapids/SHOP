@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "What about R? Or Causal and Integrated Statistical Inference?"
-date:   2025-03-15 4:31:00
+title:  "Causal and Integrated Statistical Inference?"
+date:   2025-03-20 4:31:00
 categories: Compassion
 ---
 
 Anyone who has [*just grokked something* with their favorite AI assistant](https://x.com/elonmusk/status/1897509075463598430) understands how AI assistants have rapidly emerged as being superior to something like search engines *which are still plenty amazing in their old* ***pagerankey*** *ways*. 
 
-But, what about [R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#The-R-environment) and [causal and integrated inference techniques](https://integrated-inferences.github.io/book/)? 
+AI-ecoystems remind me slightly of the explosion in the Python ecoystems ... and not just proliferation of frameworks like PyTorch ... or JupyterLab ... or NumPy, SciPy, ScanPy, et al ... and not just Python ... but, what about [R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#The-R-environment) and [causal and integrated inference techniques](https://integrated-inferences.github.io/book/)? 
 
-The differences between AI assistants and R, particularly in causal inference, is where R excels BY SPECIALIZING. 
+The differences between AI assistants and ... things that are like R language, particularly in important areas of statistics like causal inference, is where R excels BY SPECIALIZING ... and becomes a very important tool for developing research programs and efficient experimental / R&D design frameworks.
 
 It is true enough that AI assistants and statistical computing very ***generally*** share goals of data insight and prediction, but in terms of specifics, they approach this from vastly different scales and points of views. AI assistants based on large language models (LLMs) and statistical computing languages like [R (“GNU S”) language and statistical computing environment](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#The-R-environment) and the [Comprehensive R Archive Network](https://cran.r-project.org/), which allow us to use [causal and integrated inference techniques](https://integrated-inferences.github.io/book/), differ vastly in their focus. LLMs use text, basically all of the text ever produced in any language for broad, expansive, almost unpredictable [sometimes practically hallucinatory] analysis of prompts or questions of insight from the LLM ... whereas statistical analysis and packages based on R use other kinds of data, but from smallish, constrained, usually well-wrangled datasets. 
 
