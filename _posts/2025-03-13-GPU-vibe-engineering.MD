@@ -25,13 +25,13 @@ Vibe engineering is an experimental process, primarily in the virtual realm, inv
 
 * **Master the LLM Landscape:**
 
-    * **Hands-on Exploration:** Get API keys for Gemini, Claude, ChatGPT, etc. Experiment with basic prompts, analyze outputs, and compare model behaviors.
+    * **Hands-on Exploration:** Get API keys for Gemini, Claude, ChatGPT, etc. Experiment with basic prompts, analyze outputs, and compare model behaviors. Make lots of mistakes, learn how to fail, how to ask questions, how to overcome obstacles, how to see around corners.
     
-    * **Open Source LLM Deep Dive:** Get familiar, several times each week, with new developments on [HuggingFace Models](https://huggingface.co/models) and [Ollama](https://ollama.com/search). At minimum, install and run Gemma, QwQ, DeepSeek, Mistral, Llama, Phi-4, maybe Nomic and other open-source models from tencent, perplexity, allenAI, et al locally (even on a modest GPU). Understand the models architecture and limitations, as well as the practical nuts-and-bolts stuff about running the models in containers.
+    * **Open Source LLM Deep Dive:** Get familiar, several times each week, with new developments on [HuggingFace Models](https://huggingface.co/models) and [Ollama](https://ollama.com/search), be conversant with [best ways to run smallish LLMs **LOCALLY**](https://www.coinfeeds.ai/ai-blog/run-llms-locally) in order to better understand issues in operating with larger LLMs [using various cloud GPU compte alternatives](https://hyperbolic.xyz/blog/gpu-marketplace-landscape). At minimum, investigate, install and run Gemma, QwQ, DeepSeek, Mistral, Llama, Phi-4, maybe Nomic and other open-source models from tencent, perplexity, allenAI, et al locally (even on a modest GPU). Understand the models architecture and limitations, as well as the practical nuts-and-bolts stuff about running the models in containers.
     
-    * **Study Prompt Engineering:** Learn advanced techniques like few-shot prompting, chain-of-thought, and prompt chaining and start understanding something about the directions in which things like [reasoning with large language models (RLLMs)](https://arxiv.org/abs/2503.09567) are evolving.
+    * **Study Prompt Engineering:** Don't just learn techniques like few-shot prompting, chain-of-thought, and prompt chaining but start understanding something about the large landscape of what is happening in prompt engineering and the new, future directions in which developments in this area like [reasoning with large language models (RLLMs)](https://arxiv.org/abs/2503.09567) are evolving.
     
-    * **Follow Research:** Curate your own lists of sources and RSS feeds to stay updated on the latest LLM advancements through [Arxiv AI papers](https://arxiv.org/list/cs.AI/recent), blogs, and industry publications.
+    * **Follow Research; Learn To Conduct Business Intelligence:** Curate your own lists of X accounts, fora, blogs and pre-print sources and RSS feeds to stay updated on the latest LLM advancements through [Arxiv AI papers](https://arxiv.org/list/cs.AI/recent), blogs that you trust, and new industry publications that people follow. This is primarily about learning the process of continual content curration -- it's not about having the definitive list ... the landscape will change.
 
 * **GPU Compute Basics:**
 
@@ -39,11 +39,11 @@ Vibe engineering is an experimental process, primarily in the virtual realm, inv
 
     * **Decentralized GPU:** Experiment with Akash Network, Vast.ai, Paperspace, and RunPod. Understand their pricing models and deployment processes. Carefully develop a workable stragety to explore different GPU offerings without incurring much in the way of cost.
 
-    * **Containerization:** Explore Docker and Kubernetes, slightly beyond the basics, for deploying LLM applications on different GPU platforms.
+    * **Containerization:** Explore Docker and Kubernetes, AT FIRST, there's is probably no need to master these areas or the intricacies of how containers are built or about what things like container layers are about, but you will have to go slightly beyond the basics, and at some point become proficient in your mastery of k8s adn docker for efficiently deploying LLM applications on different GPU platforms.
 
 * **Tooling:**
 
-    * **Monitoring Tools:** It is IMPERATIVE to learn to use monitoring and billing tools for tracking LLM performance, cost, and latency.
+    * **Monitoring Tools:** It is IMPERATIVE to FIRST learn to use monitoring and billing tools for tracking LLM performance, cost, and latency ... you don't want to run up a gigantic bill in order to pay tuition for this kind of education. MONITOR, MONITOR, MONITOR!
 
     * **LangChain/LlamaIndex:** Master these frameworks, probably on local hardware first, for building LLM-powered applications.
 
