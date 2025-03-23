@@ -15,11 +15,15 @@ Each of these five PROPOSED approaches transforms FEMA-purchased floodplain prop
 
 The approaches, each with **no budget outlays from the City**, utilize nothing but vacant FEMA floodplain land and volunteer labor from those who commit [with a suggested $50/yr donation to defray administrative expense] sign up to participate physically in making these social community fitness-betterment approaches work, are as follows:
 
-1) [Walking Trail Network](https://brunosolutions.github.io/compassion/2025/03/20/1-Floodplain-Walking-Trail-Network.html)
-2) [Fitness Equipment Circuit](https://brunosolutions.github.io/compassion/2025/03/20/2-Floodplain-Fitness-Equipment-Circuit.html)
-3) [Field Sports Program](https://brunosolutions.github.io/compassion/2025/03/20/3-Floodplain-Field-Sports-Program.html)
-4) [Foraging and Natural Movement Program](https://brunosolutions.github.io/compassion/2025/03/20/4-Floodplain-Foraging-and-Natural-Movement-Program.html)
-5) [Cultural Heritage Fitness Trail](https://brunosolutions.github.io/compassion/2025/03/20/5-Cultural-Heritage-Fitness-Trail.html)
+1) [Walking Trail Network](https://brunosolutions.github.io/compassion/2025/03/22/1-Floodplain-Walking-Trail-Network.html)
+
+2) [Fitness Equipment Circuit](https://brunosolutions.github.io/compassion/2025/03/22/2-Floodplain-Fitness-Equipment-Circuit.html)
+
+3) [Field Sports Program](https://brunosolutions.github.io/compassion/2025/03/22/3-Floodplain-Field-Sports-Program.html)
+
+4) [Foraging and Natural Movement Program](https://brunosolutions.github.io/compassion/2025/03/22/4-Floodplain-Foraging-and-Natural-Movement-Program.html)
+
+5) [Cultural Heritage Fitness Trail](https://brunosolutions.github.io/compassion/2025/03/22/5-Cultural-Heritage-Fitness-Trail.html)
 
 There is no implied priority in this ordering. Each of the proposed approaches could be implemented individually OR multiples may be combined into ONE integrated system utilizing different sections of the floodplain for complementary activities. All five approaches emphasize volunteer leadership, minimal infrastructure, and adaptation to natural cycles, ensuring long-term sustainability with minimal ongoing costs.
 
