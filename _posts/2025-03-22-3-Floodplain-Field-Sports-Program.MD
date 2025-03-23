@@ -1,20 +1,19 @@
 ---
 layout: post
 title:  "3. Floodplain Field Sports Program Community Fitness Iniative"
-date:   2025-03-20 4:33:00
+date:   2025-03-22 4:33:00
 categories: Compassion
 ---
 
-## Extreme TBD Warning
+#### Extreme TBD Warning
 
-This is very much adhoc **To Be Determined** territory.  *I am* **only just starting** *to* ***vibe engineer*** *these different ideas. Ultimately I intend to adapt the five community fitness proposals as approaches to take advantage of FEMA-purchased floodplain land, focusing on building fitness and wellness while respecting floodplain restrictions (no permanent structures, fences, or anything that would be damaged by flooding).*
-
+This is very much adhoc **To Be Determined** territory ... these are only five IDEAs for slightly more serious consideration  ...and a list of other brainstormed potentially implement-able approaches.
 
 ## Community Exercise and Fitness Improvement Programs for Floodplain Land
 
 This is one of five PROPOSED approaches to transform FEMA-purchased floodplain properties from a maintenance burden into valuable community assets that use these proposed approach(s) to enhance physical fitness, ecological function, and community connection. By respecting the natural flood cycle and avoiding permanent structures, these programs create sustainable, resilient fitness opportunities while honoring the essential role of floodplains in watershed health.
 
-The approaches, each with no budget outlays from the City, utilizing nothing but vacant FEMA floodplain land and volunteer labor from those who commit [with a suggested $50/yr donation to defray administrative expense] sign up to participate physically in making these social community fitness-betterment approaches work, are as follows:
+The approaches, each with **no budget outlays from the City**, utilize nothing but vacant FEMA floodplain land and volunteer labor from those who commit [with a suggested $50/yr donation to defray administrative expense] sign up to participate physically in making these social community fitness-betterment approaches work, are as follows:
 
 1) Walking Trail Network
 2) Fitness Equipment Circuit
