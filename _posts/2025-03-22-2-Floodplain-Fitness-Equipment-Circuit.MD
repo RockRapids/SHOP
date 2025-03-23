@@ -14,7 +14,7 @@ This is very much adhoc **To Be Determined** territory ... these are only five I
 
 This is one of five PROPOSED approaches to transform FEMA-purchased floodplain properties from a maintenance burden into valuable community assets that use these proposed approach(s) to enhance physical fitness, ecological function, and community connection. By respecting the natural flood cycle and avoiding permanent structures, these programs create sustainable, resilient fitness opportunities while honoring the essential role of floodplains in watershed health.
 
-The approaches, each with **no financial expenditure or Administrative resources from the City government**, utilize nothing but vacant FEMA floodplain land and volunteer labor from those who commit [with a suggested $50/yr donation to defray administrative expense] sign up to participate physically in making these social community fitness-betterment approaches work, are as follows:
+The approaches, each with **no financial expenditure or Administrative resources from the City government**, utilize nothing but vacant FEMA floodplain land and volunteer labor from those KEY VOLUNTEERS who commit [with a suggested $50/yr donation to defray administrative expense] sign up to participate physically in making these social community fitness-betterment approaches work, are as follows:
 
 1) [Walking Trail Network](https://brunosolutions.github.io/compassion/2025/03/22/1-Floodplain-Walking-Trail-Network.html) ... would establish a system of natural surface walking paths throughout FEMA-purchased floodplain properties, creating an interconnected network of trails that promote regular physical activity while respecting floodplain restrictions. This approach is based on successful models from communities in Vermont, North Carolina, and Iowa that have maintained floodplain trail systems for over 25 years.
 
@@ -26,10 +26,11 @@ The approaches, each with **no financial expenditure or Administrative resources
 
 5) [Cultural Heritage Fitness Trail](https://brunosolutions.github.io/compassion/2025/03/22/5-Cultural-Heritage-Fitness-Trail.html) ...creates a fitness program by connecting physical activity with the cultural and natural history of the floodplain through an interpretive trail system with associated activities. This approach is modeled after successful programs in river communities in Kentucky, South Carolina, and parts of the Midwest operating for 25+ years.
 
-As noted, each of these approaches would be modeled upon something that have proven to be sustainable and successful in other communities of this size for decades. We can learn from these examples of what has worked and also avoid what has not worked.
+As noted, KEY VOLUNTEERS who express commitment would be necessary; the annual suggested donation is *only suggested*, but what is necessary is a firm pledge of intention to stick with the idea and see it through.
+
+Each of these approaches would be modeled upon something that have proven to be sustainable and successful in other communities of this size for decades. We can learn from these examples of what has worked and also avoid what has not worked.
 
 There is no implied priority in this ordering of five. Each of the proposed approaches could be implemented individually OR multiples may be combined into ONE integrated system utilizing different sections of the floodplain for complementary activities. All five approaches emphasize volunteer leadership, minimal infrastructure, and adaptation to natural cycles, ensuring long-term sustainability with minimal ongoing costs.
-
 
 
 
