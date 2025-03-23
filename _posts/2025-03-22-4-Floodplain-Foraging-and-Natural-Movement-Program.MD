@@ -26,7 +26,7 @@ The approaches, each with **no financial expenditure or Administrative resources
 
 5) [Cultural Heritage Fitness Trail](https://brunosolutions.github.io/compassion/2025/03/22/5-Cultural-Heritage-Fitness-Trail.html) ...creates a fitness program by connecting physical activity with the cultural and natural history of the floodplain through an interpretive trail system with associated activities. This approach is modeled after successful programs in river communities in Kentucky, South Carolina, and parts of the Midwest operating for 25+ years.
 
-As noted, each of these approaches would be modeled upon something that have proven to be sustainable and successful in other communities of this size for decades. We can learned from these examples of what has worked and also avoid what has not worked.
+As noted, each of these approaches would be modeled upon something that have proven to be sustainable and successful in other communities of this size for decades. We can learn from these examples of what has worked and also avoid what has not worked.
 
 There is no implied priority in this ordering of five. Each of the proposed approaches could be implemented individually OR multiples may be combined into ONE integrated system utilizing different sections of the floodplain for complementary activities. All five approaches emphasize volunteer leadership, minimal infrastructure, and adaptation to natural cycles, ensuring long-term sustainability with minimal ongoing costs.
 
