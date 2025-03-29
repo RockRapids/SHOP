@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "RockRapids.INFO ... .ART .FUN .GUIDE .SHOP .STORE .XYZ .WORK"
+date:   2025-03-20 4:31:00
+categories: Compassion
+---
+
 What follows below is a brief vision statement and Minimal Viable Prototype (MVP) development roadmap for each of the eight Rock Rapids projects. Each app will be developed as having a distinct focus while maintaining some coherence as part of a comprehensive suite of applications for the town ... it is expected that there will be some consolidation ... but the general strategy at first is for RockRapids.INFO to be top-level menu app, with short discriptions to information found on the other more detailed apps.
 
 These vision statements and MVP roadmaps provide a foundation for developing eight complementary digital platforms that collectively showcase the vibrant community life in Rock Rapids, Iowa.
