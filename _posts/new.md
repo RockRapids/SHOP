@@ -10,7 +10,6 @@ Strengths-Weaknesses-Opportunities-Threats Analysis for Rock Rapids, Iowa
 Maybe TL;DR ... *I don't want to spoil ***the movie version of this book***, *but let's just say that am not too worried about some of the* ***Weaknesses***, *but there are definitely some interesting [strategic considerations that emerge from this SWOT analysis](#top-ten-strategic-considerations-for-rock-rapids-iowa).*
 
 
-
 ## Strengths
 
 - **Quality of life**: Lyon County was ranked the 16th Best County to Live in Iowa (out of 98 counties) by NICHE.com in 2017, earning an overall A- grade.
@@ -139,7 +138,7 @@ Iowa's high rates of binge drinking (24.5% of adults) likely affect Rock Rapids,
 ### 7. Aging Infrastructure
 Some public infrastructure (sewer is a more immediate concern, roads will always be an issue, but maybe especially after last year's flood -- possibly water and power will eventually need upgrades, in the futures) requires significant investment despite the limited tax base to support improvements. Deferred maintenance creates potential for costly emergency repairs rather than planned upgrades. The visible deterioration of infrastructure affects resident satisfaction and possibly community aesthetics [for flood-related road issues].
 
-### 7. Limited Housing Diversity
+### 8. Limited Housing Diversity
 Housing stock primarily consists of single-family homes, with few options for seniors looking to downsize or young professionals seeking apartments. Aging housing stock requires significant maintenance and may not offer the features or energy efficiency of newer construction. The limited variety constrains population growth, mobility within the community and possibly even constrains others [professionals working on temporary projects who would utilize AirBnB or VRBO properties as substitutes for extended stay hotel accomodations].
 
 ### 9. Distance from Higher Education
@@ -213,7 +212,7 @@ The free market is providing better and better digital connectivity, but this is
 
 ## Opportunities
 
-- **Healthcare expansion**: The recent investments in healthcare facilities provide opportunities for specialized services targeting the aging population and potential healthcare jobs.
+- **Community Wellness Initiative**: Building a competitivy culture of youthful fitness and intergenerational wellness would enhance quality of life while potentially reducing healthcare utilization costs over time.
 
 - **Economic development support**: Lyon County "strongly supports existing and prospective business and industry" with communities, county, utilities and organizations working cooperatively to provide incentives for expansion and location in the county.
 
@@ -225,8 +224,8 @@ The free market is providing better and better digital connectivity, but this is
 
 ### Expanded Discussion of Opportunities
 
-### 1. Healthcare Specialization in Geriatric Care
-The new healthcare facilities could be developed into a regional center of excellence for senior care, creating both jobs and improved services. Specialized geriatric services would address the needs of the aging local population while attracting patients from surrounding communities. Partnerships with medical education programs could create training opportunities for geriatric specialties, addressing workforce needs while enhancing care quality.
+### 1. Community Wellness Initiative
+A comprehensive approach to community health could address chronic disease prevention, mental wellness, and active living opportunities. Workplace wellness programs could improve health outcomes while potentially reducing healthcare costs for employers and employees. Building a culture of wellness would enhance quality of life while potentially reducing healthcare utilization costs over time.
 
 ### 2. Remote Work Hub Development
 The proximity to Sioux Falls combined with lower housing costs creates potential for Rock Rapids to become a remote work hub. Investing in coworking spaces with high-speed internet could attract professionals seeking small-town quality of life with metropolitan connections. Marketing campaigns targeting remote workers could highlight the community's affordability, healthcare access, and family-friendly environment.
@@ -260,6 +259,9 @@ A coordinated approach to updating older housing stock could preserve neighborho
 
 ### 12. Small Business Succession Planning
 With many business owners approaching retirement age, formalized succession planning assistance, espeically involving Hispanics and others unrelated to local farmers could prevent business closures and maintain a robust economy. Entrepreneurship and intergenerational transfer programs connecting retiring owners with potential buyers could preserve essential businesses and local jobs. These intergenerational transitions would represent opportunities to re-invigorate established businesses for greater long-term sustainability.
+
+### 13. Healthcare Specialization in Geriatric Care
+The new healthcare facilities could be developed into a regional center of excellence for senior care, creating both jobs and improved services. Specialized geriatric services would address the needs of the aging local population while attracting patients from surrounding communities. Partnerships with medical education programs could create training opportunities for geriatric specialties, addressing workforce needs while enhancing care quality.
 
 ### 14. Alcohol Connoiseurship As Well As Abuse Prevention Leadership
 The community could develop model rural responsible alcohol use programs transforming Iowa's high rates of alcohol abuse into one that is driven by connoiseurship and lower-quantity appreciation of higher value wines and spirits, eg Templeton Rye from Carroll, wines from a local vineyard, the local microbrew or hard cider mix... connoisseurship helps decrease the related health issues tied to excessive consumption of low-quality junk alcohol. School-based prevention efforts combined with community education could create generational change in drinking norms. Success in this area would improve public health outcomes while potentially attracting program funding and recognition.
