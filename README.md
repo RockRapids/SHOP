@@ -1,4 +1,17 @@
-I'll create a 6-sentence vision statement and MVP development roadmap for each of the eight Rock Rapids projects. Each will have a distinct focus while maintaining some coherence as part of a comprehensive suite of applications for the town.
+Here's a brief vision statement and MVP development roadmap for each of the eight Rock Rapids projects. Each app will be developed as having a distinct focus while maintaining some coherence as part of a comprehensive suite of applications for the town ... it is expected that there will be some consolidation ... but the general strategy at first is for RockRapids.INFO to be top-level menu app, with short discriptions to information found on the other more detailed apps.
+
+## rockrapids.info
+
+**Vision Statement:**
+Rockrapids.info will serve as a lightweight, centralized digital hub that aggregates the most essential information from all other Rock Rapids apps, providing quick access to key highlights through abbreviated summaries and direct links. The platform will function as both an entry point for newcomers exploring Rock Rapids digital resources and a convenient dashboard for regular users who want efficient access to information across multiple domains. A clean, minimalist interface will organize content into logical categories that mirror the sister apps while eliminating unnecessary details for faster loading and easier navigation. The platform will prioritize time-sensitive information like upcoming events, new job postings, and community alerts to ensure users stay informed about matters requiring immediate attention. Intelligent content curation algorithms will showcase trending topics and popular content from across the Rock Rapids digital ecosystem based on user engagement metrics. Personalization features will allow users to customize their information dashboard according to their specific interests and needs within the Rock Rapids community.
+
+**MVP Development Roadmap:**
+1. Develop an API framework to pull highlight content from all other Rock Rapids applications
+2. Create a clean, card-based interface organizing information by category (arts, events, jobs)
+3. Implement a prioritization algorithm that surfaces time-sensitive information at the top
+4. Build a notification system for alerting users to important community updates
+5. Develop user accounts with basic preference settings for personalized content display
+6. Launch with connections to at least three other Rock Rapids apps for initial content sourcing
 
 ## rockrapids.art
 
@@ -38,19 +51,6 @@ Rockrapids.guide will function as a comprehensive civic information hub that con
 4. Implement a searchable directory of local services and emergency contacts
 5. Create mobile-responsive layouts optimized for quick information access during emergencies
 6. Test with a limited group of community organizations before full public launch
-
-## rockrapids.info
-
-**Vision Statement:**
-Rockrapids.info will serve as a lightweight, centralized digital hub that aggregates the most essential information from all other Rock Rapids apps, providing quick access to key highlights through abbreviated summaries and direct links. The platform will function as both an entry point for newcomers exploring Rock Rapids digital resources and a convenient dashboard for regular users who want efficient access to information across multiple domains. A clean, minimalist interface will organize content into logical categories that mirror the sister apps while eliminating unnecessary details for faster loading and easier navigation. The platform will prioritize time-sensitive information like upcoming events, new job postings, and community alerts to ensure users stay informed about matters requiring immediate attention. Intelligent content curation algorithms will showcase trending topics and popular content from across the Rock Rapids digital ecosystem based on user engagement metrics. Personalization features will allow users to customize their information dashboard according to their specific interests and needs within the Rock Rapids community.
-
-**MVP Development Roadmap:**
-1. Develop an API framework to pull highlight content from all other Rock Rapids applications
-2. Create a clean, card-based interface organizing information by category (arts, events, jobs)
-3. Implement a prioritization algorithm that surfaces time-sensitive information at the top
-4. Build a notification system for alerting users to important community updates
-5. Develop user accounts with basic preference settings for personalized content display
-6. Launch with connections to at least three other Rock Rapids apps for initial content sourcing
 
 ## rockrapids.shop
 
