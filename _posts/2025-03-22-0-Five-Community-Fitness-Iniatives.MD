@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Five Proposed Community Fitness Iniatives"
-date:   2025-03-22 4:30:00
+date:   2025-03-22 4:40:00
 categories: Compassion
 ---
 
