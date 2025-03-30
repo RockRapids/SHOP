@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The RockRapids.INFO App Development Strategy"
+title:  "The RockRapids.INFO App Project Development Vison And Roadmap"
 date:   2025-03-29 15:31:00
 categories: Compassion
 ---
