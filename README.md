@@ -3,24 +3,26 @@
 # Table of Contents
 
 - [Executive Summary](#executive-summary)
-- [Project Philosophy](#project-philosophy)
-- [Development Phases](#development-phases)
+- [Key Technical Components](#key-technical-components)
+  - [Core Framework: Next.js](#core-framework-nextjs)
+  - [Headless CMS: Sanity.io](#headless-cms-sanityio)
+  - [Event Management: Integration with Eventbrite and TEC](#event-management-integration-with-eventbrite-and-tec)
+  - [Database: Supabase](#database-supabase)
+  - [Deployment and Hosting: Vercel](#deployment-and-hosting-vercel)
+- [Application Architecture Design](#application-architecture-design)
+  - [Monorepo Structure](#monorepo-structure)
+  - [Data Flow Architecture](#data-flow-architecture)
+- [Implementation Roadmap](#implementation-roadmap)
   - [Phase 1: Foundation Building (Months 1-3)](#phase-1-foundation-building-months-1-3)
-  - [Phase 2: Core Applications Development (Months 10-15)](#phase-2-core-applications-development-higher-priority-months-10-15)
-  - [Phase 3: Supplementary Applications Development (Months 10-18)](#phase-3-supplementary-applications-development-dependent-upon-success-of-phase-2-months-10-18)
-  - [Phase 4: Mobile & Advanced Features (Months 19-24)](#phase-4-mobile--advanced-features-after-phase-2-and-probably-phase-3-months-19-24)
-- [Technical Approaches](#two-alternative-technical-approaches-currently-under-consideration)
-  - [Approach 1: WordPress-Based Implementation](#approach-1-wordpress-based-implementation)
-  - [Approach 2: Gatsby.js-Based Implementation](#approach-2-gatsbyjs-based-implementation)
-- [Event Management Implementation](#event-management-implementation)
-  - [Event Data Architecture](#event-data-architecture)
-  - [Event Display and Discovery](#event-display-and-discovery)
-  - [Event Distribution Channels](#event-distribution-channels)
-  - [Organizer Tools](#organizer-tools)
-- [Success Metrics](#success-metrics)
-- [Governance and Maintenance](#governance-and-maintenance)
-- [Technical Approach Decision Factors](#technical-approach-decision-factors)
-- [Risk Management](#risk-management)
+  - [Phase 2: Core Applications Development, Higher Priority (Months 10-15)](#phase-2-core-applications-development-higher-priority-months-10-15)
+  - [Phase 3: Supplementary Applications Development, Dependent Upon Success of Phase 2 (Months 10-18)](#phase-3-supplementary-applications-development-dependent-upon-success-of-phase-2-months-10-18)
+  - [Phase 4: Mobile and Advanced Features (Months 19-24)](#phase-4-mobile-and-advanced-features-months-19-24)
+- [Eventbrite Integration Strategy](#eventbrite-integration-strategy)
+  - [Event Discovery and Display](#event-discovery-and-display)
+  - [Event Creation and Management](#event-creation-and-management)
+  - [Synchronization and Backup](#synchronization-and-backup)
+  - [The Events Calendar (TEC) Alternative](#the-events-calendar-tec-alternative)
+- [SEO and Social Sharing Strategy](#seo-and-social-sharing-strategy)
 - [Conclusion](#conclusion)
 
 ## Executive Summary
@@ -45,46 +47,161 @@ This roadmap outlines the development strategy for a suite of eight interconnect
 
 The core strategy is to develop these applications in a phased approach, beginning with rockrapids.INFO as the central hub and primary navigation point for the entire ecosystem. Each application will be developed with a clear focus on addressing specific community needs while maintaining a coherent user experience across the entire suite.
 
-This document presents [two technical approaches under current consideration](https://docs.google.com/document/d/1W0LloMUAVgVIHZ9YIcboGSQJfyFtl3Zkl2CPNJ9mhEw/edit?usp=sharing), neither has been chosen, each have distinct advantages:
-1. A WordPress-based approach that leverages familiar technology for faster initial deployment
-2. A Gatsby.js-based approach that provides enhanced performance, security, and flexibility
+This document outlines an alternative technical approach for the Rock Rapids community apps ecosystem, utilizing Next.js as the primary framework instead of WordPress. [Both were given significant consideration](https://docs.google.com/document/d/1hzM7osSUDd4wp0B3yXzxayoXBFc0UhhdF72XSqBHrLE/edit?usp=sharing), but the more modern architecture leverages the robust capabilities of Next.js, a React-based framework that offers both static site generation (SSG) and server-side rendering (SSR), making it ideal for a content-focused community platform. The approach maintains the modular philosophy of eight interconnected applications (.INFO, .ART, .FUN, .GUIDE, .SHOP, .STORE, .XYZ, and .WORK) while providing a more unified technical foundation and improved performance characteristics.
 
-Regardless of the technical approach selected, the end-user experience and core functionality of the eight community apps remain consistent with the project vision.
+## Key Technical Components
 
-## Project Philosophy
+### Core Framework: Next.js
 
-The Rock Rapids community apps aim to create a digital ecosystem that:
+Next.js will serve as the foundation for all eight Rock Rapids applications, offering several advantages over the WordPress approach:
 
-1. Serves as a "meta-directory of directories" - organizing existing information rather than reinventing established platforms
-2. Provides a centralized entry point through rockrapids.INFO with specialized sister apps for deeper engagement
-3. Enhances community engagement through improved information accessibility
-4. Supports local businesses, artists, volunteers, and job seekers
-5. Preserves the unique character and heritage of Rock Rapids
+- **Static Site Generation (SSG)**: Pages are pre-rendered at build time, providing extremely fast load times and improved SEO
+- **Server-Side Rendering (SSR)**: Dynamic content can be rendered server-side when needed, combining performance with fresh content
+- **Incremental Static Regeneration (ISR)**: Pages can be regenerated in the background without rebuilding the entire site
+- **API Routes**: Built-in API functionality for data operations without requiring a separate backend
+- **Image Optimization**: Automatic image optimization for improved performance across devices
+- **React Ecosystem**: Access to the entire React component ecosystem for rich interactivity
+- **TypeScript Support**: Built-in TypeScript support for improved code quality and maintainability
 
-## Development Phases
+### Headless CMS: Sanity.io
+
+Rather than WordPress, Sanity.io will be used as the headless CMS, offering:
+
+- **Structured Content**: Highly customizable content schemas specific to each Rock Rapids app
+- **Real-time Collaboration**: Multiple editors can work simultaneously without conflicts
+- **Content API**: GraphQL and REST APIs for flexible content delivery
+- **Portable Content**: Content is stored as structured data that can be easily migrated if needed
+- **Custom Validation**: Define rules for content creation to maintain quality and consistency
+- **Media Management**: Asset handling with automatic transformations and CDN delivery
+- **Role-based Permissions**: Granular access controls for different community contributors
+
+### Event Management: Integration with Eventbrite and TEC
+
+For event management and publication, a dual integration approach will be implemented:
+
+1. **Primary: Eventbrite API Integration**
+
+   Eventbrite offers a comprehensive API that will be integrated directly with the Next.js applications:
+   - **Events Discovery**: Access to public events in Rock Rapids through the Eventbrite API
+   - **Event Creation**: Ability to create events through the API using organizer credentials
+   - **Attendee Management**: Access to attendee lists and communication tools
+   - **Ticket Sales**: Integration with Eventbrite's payment processing for ticketed events
+   - **Check-in Tools**: Mobile-friendly check-in experiences for event organizers
+
+2. **Alternative: The Events Calendar (TEC) Integration**
+
+   As a secondary option or for organizations without Eventbrite, integration with The Events Calendar:
+   - **Self-hosted Calendar**: Events can be managed through a dedicated TEC installation
+   - **iCalendar Feed**: Events from TEC can be exported to the Rock Rapids platforms via iCal
+   - **Two-way Synchronization**: Events created in either system can be mirrored across platforms
+   - **Free Event Focus**: Ideal for community gatherings without ticketing requirements
+
+### Database: Supabase
+
+Supabase will serve as the backend database and authentication system:
+
+- **PostgreSQL Database**: Powerful, open-source relational database
+- **Real-time Subscriptions**: Live database updates for dynamic content
+- **Authentication System**: Built-in user management with multiple sign-in methods
+- **Storage**: File storage for user-generated content
+- **Edge Functions**: Serverless function execution for backend logic
+- **Row-level Security**: Granular data access control for enhanced security
+
+### Deployment and Hosting: Vercel
+
+Vercel will provide hosting for the Next.js applications:
+
+- **Global CDN**: Content delivery from edge locations worldwide
+- **Automatic HTTPS**: Secure connections by default
+- **Preview Deployments**: Automatic previews for new features before release
+- **Analytics**: Built-in performance and usage analytics
+- **Serverless Functions**: Backend logic without managing servers
+- **Continuous Integration**: Automated deployment from GitHub repositories
+
+## Application Architecture Design
+
+### Monorepo Structure
+
+The Rock Rapids community apps will be organized in a monorepo structure using Turborepo:
+
+```
+rockrapids/
+├── apps/
+│   ├── info/         # rockrapids.info application
+│   ├── art/          # rockrapids.art application
+│   ├── fun/          # rockrapids.fun application
+│   ├── guide/        # rockrapids.guide application
+│   ├── shop/         # rockrapids.shop application
+│   ├── store/        # rockrapids.store application
+│   ├── xyz/          # rockrapids.xyz application
+│   └── work/         # rockrapids.work application
+├── packages/
+│   ├── ui/           # Shared UI components
+│   ├── database/     # Database schemas and clients
+│   ├── eventbrite/   # Eventbrite API integration
+│   ├── tec/          # The Events Calendar integration
+│   ├── config/       # Shared configuration
+│   └── utils/        # Utility functions
+└── tooling/
+    ├── eslint/       # ESLint configuration
+    └── typescript/   # TypeScript configuration
+```
+
+This structure allows for:
+- Shared code between applications
+- Consistent design patterns and user experience
+- Efficient development with parallel building and testing
+- Simplified deployment process
+
+### Data Flow Architecture
+
+Events and other community data will flow through the system as follows:
+
+1. **Content Creation**
+   - Event organizers create events in Eventbrite or TEC
+   - Community content creators add content through Sanity Studio
+
+2. **Data Synchronization**
+   - Scheduled jobs fetch new events from Eventbrite API
+   - TEC events are synchronized via iCalendar or REST API
+   - Content updates in Sanity trigger webhooks
+
+3. **Content Processing**
+   - Events are processed and normalized into a consistent format
+   - Related content is linked (e.g., venues, organizations)
+   - SEO metadata is generated
+
+4. **Content Delivery**
+   - Next.js pre-renders static pages during build or on-demand (ISR)
+   - Dynamic content is served via API routes
+   - Real-time updates via WebSockets for highly dynamic content
+
+## Implementation Roadmap
 
 ### Phase 1: Foundation Building (Months 1-3)
 
-**Primary Focus: rockrapids.INFO Development**
+**Primary Focus: Infrastructure Setup and rockrapids.INFO Development**
 
-The initial phase will focus on establishing rockrapids.INFO as the central hub for the entire ecosystem. At first, the INFO portion will be primarily in unpublicized "ALPHA" mode and then lightly publicized "BETA" mode to test whether this entire project is feasible or workable. It is expected that this .INFO application will serve as the "top-level menu" with abbreviated summaries and direct links to information that will eventually reside on the sister applications.
+1. **Month 1: Setup Development Infrastructure**
+   - Establish monorepo structure with Turborepo
+   - Configure Sanity.io schemas for core content types
+   - Set up Supabase database and authentication
+   - Create shared UI component library with design system
+   - Configure deployment pipelines on Vercel
+
+2. **Month 2-3: Develop rockrapids.INFO Application**
+   - Build core pages and layout components
+   - Implement Eventbrite API integration for events
+   - Create content aggregation from sister apps (placeholders initially)
+   - Develop priority content algorithm for homepage
+   - Implement user account system with preferences
 
 **Key Deliverables:**
-
-BEFORE ANYTHING ELSE ... assemble the information. To accomplish this, we START off by developing the TOP level and seven sister level APP with just a currated list of AWESOME links to information for the most expedient information access without any app development overhead
-
-
-- Design and implement a clean, ultra-minimalist, sparse interface focused on efficient information access
-
-- Develop a simple card-based layout organizing information by category (arts, fun things to do, necessary community info, shopping events/sales/introductions, items for sale locally, jobs for citizens, volunteering, etc.)
-
-- Implement a prioritization algorithm to surface time-sensitive information
-
-- Build basic notification infrastructure for important community updates
-
-- Create a simple user account system with preference settings
-
-- Establish API framework and AI integration strategy for future integration with sister apps, other data APIs
+- Functioning rockrapids.INFO site with clean, minimalist interface
+- Event display integration with Eventbrite
+- Content preview capabilities for future sister apps
+- Mobile-responsive layouts for all device types
+- Basic user account functionality
 
 ### Phase 2: Core Applications Development, Higher Priority (Months 10-15)
 
@@ -147,201 +264,124 @@ The remaining four applications will be developed in sequence, with each buildin
 - Implement searchable directory of local services and emergency contacts
 - Optimize for mobile access during emergencies
 
-### Phase 4: Mobile & Advanced Features, After Phase 2 and Probably Phase 3 (Months 19-24)
+### Phase 4: Mobile and Advanced Features (Months 19-24)
 
-- Develop mobile applications for iOS and Android
-- Implement offline data access for critical information
-- Enhance cross-platform notification system
-- Optimize performance and user experience
-- Implement advanced analytics and reporting
+**Mobile Application Development**
+- Create React Native mobile applications using Expo
+- Implement offline data synchronization
+- Build push notification system using Firebase
+- Develop location-based features
+- Create native sharing capabilities
 
-## Two Alternative Technical Approaches, Currently Under Consideration
+**Advanced Feature Implementation**
+- Enhance search with Algolia integration across all apps
+- Implement machine learning for content recommendations
+- Build analytics dashboard for community organizers
+- Develop advanced SEO features for improved discoverability
+- Create community-focused API for third-party integration
 
-Neither approach has been chosen yet, but given concerns about performance *especially for citizens/visitors who might have limited data bandwith*, much stronger security, and the flexibility of more-modern JavaScript frameworks with a decoupled architecture to use GraphQL data layer will empower future maintainers efficient data fetching and integration capabilities across diverse sources, it is probably going to be [best to go with the second Gatsy.JS approach](https://docs.google.com/document/d/1W0LloMUAVgVIHZ9YIcboGSQJfyFtl3Zkl2CPNJ9mhEw/edit?usp=sharing) ... but it is important to emphasize both approaches are still very much currently under investigation.
+## Eventbrite Integration Strategy
 
-### Approach 1: WordPress-Based Implementation
+The Eventbrite integration will be implemented in a dedicated package within the monorepo and will provide the following capabilities:
 
-The WordPress-based approach leverages familiar technology with the extensive WordPress plugin ecosystems to accelerate initial development and simplify long-term maintenance.
+### Event Discovery and Display
 
-**Core Technical Stack:**
-- **Content Management:** WordPress with custom post types and fields
-- **Event Management:** Eventbrite integration through WordPress plugins
-- **Frontend:** Responsive WordPress theme with modern CSS framework
-- **Database:** MySQL (managed through WordPress)
-- **Search:** WordPress native search enhanced with custom taxonomies
-- **Authentication:** WordPress user management system
+1. **API Integration**
+   - Utilize the Eventbrite API to fetch events for Rock Rapids and surrounding areas
+   - Filter events by location, date range, category, and keywords
+   - Implement caching to reduce API calls and improve performance
+   - Handle pagination for comprehensive event listings
 
-**Eventbrite Integration Strategy:**
-1. **Plugin Selection:** Use established WordPress plugins such as "Widget for Eventbrite API" or "Import Eventbrite Events" to connect with Eventbrite
-2. **Configuration:**
-   - Set up OAuth authentication with Eventbrite
-   - Configure plugin settings for automatic synchronization
-   - Customize display templates to match overall design
-3. **Event Distribution:**
-   - Embed event listings and checkout options directly on WordPress pages
-   - Configure social sharing capabilities for events
-   - Implement calendar exports and email notifications
+2. **Event Display Components**
+   - Create reusable React components for different event display formats:
+     - Calendar view with day/week/month options
+     - List view with filtering and sorting
+     - Featured event carousel for homepage
+     - Map view showing event locations
+   - Implement responsive designs for all screen sizes
 
-**Phase 1 Implementation:**
-- Install and configure WordPress with selected theme
-- Set up custom post types for different content categories
-- Implement responsive design framework
-- Configure Eventbrite plugin for event integration
-- Set up user roles and permissions
-- Create initial page templates and navigation structure
+3. **Event Detail Pages**
+   - Generate static pages for each event with comprehensive details
+   - Include structured data (JSON-LD) for enhanced SEO
+   - Provide social sharing functionality
+   - Display related events based on category, location, or organizer
 
-**Strengths:**
-- Faster initial development with established CMS
-- Extensive plugin ecosystem for added functionality
-- Familiar interface for content contributors
-- Lower technical barrier for community maintenance
-- Built-in user management and permissions
+### Event Creation and Management
 
-**Challenges:**
-- Potential performance limitations at scale
-- Security considerations with server-side processing
-- Possible SEO limitations with dynamic content
-- Higher hosting requirements and maintenance costs
-- Potential plugin conflicts and compatibility issues
+1. **Embedded Creation Forms**
+   - Integrate Eventbrite's event creation workflow directly within rockrapids.INFO
+   - Provide templates for common event types in Rock Rapids
+   - Include guided creation process for novice organizers
 
-### Approach 2: Gatsby.js-Based Implementation
+2. **Organization Management**
+   - Allow organizations to manage their Eventbrite presence through the Rock Rapids platform
+   - Provide dashboard views of analytics and attendee information
+   - Enable communication tools for event organizers to reach attendees
 
-[The Gatsby.js approach](https://docs.google.com/document/d/1W0LloMUAVgVIHZ9YIcboGSQJfyFtl3Zkl2CPNJ9mhEw/edit?usp=sharing) embraces a more modern JAMstack architecture to deliver cleaner style for focus, exceptionally fast, text-only loading performance *especially for citizens/visitors who might have limited data bandwith*, much stronger security, and the flexibility of more-modern JavaScript frameworks with a decoupled architecture to use GraphQL data layer will empower future maintainers efficient data fetching and integration capabilities across diverse sources.
+3. **Ticketing Integration**
+   - Embed Eventbrite's ticketing widget for seamless purchase experience
+   - Support free, paid, and donation-based events
+   - Implement discount code functionality for community partners
 
-**Core Technical Stack:**
-- **Frontend Framework:** Gatsby.js for all web applications
-- **Content Management:** Headless CMS (Contentful or Sanity)
-- **Data Storage:** Combination of CMS and Firestore/Firebase
-- **Authentication:** Firebase Authentication
-- **Hosting:** Netlify or Vercel for web applications
-- **Mobile:** React Native with shared component library
-- **Search:** Algolia for advanced search capabilities
+### Synchronization and Backup
 
-**Eventbrite Integration Strategy:**
-1. **Custom Integration:**
-   - Develop custom Gatsby source plugin for Eventbrite API
-   - Implement webhook handlers for real-time content updates
-   - Create build hooks for incremental site updates when events change
-2. **Multi-Source Event Aggregation:**
-   - Integrate with multiple event sources (Eventbrite, Facebook Events, Google Calendar)
-   - Create data normalization layer for consistent presentation
-   - Implement unified event schema for consistent metadata
-3. **Event Distribution:**
-   - Generate structured data (JSON-LD) for enhanced search visibility
-   - Implement social sharing metadata for each event
-   - Create calendar export functionality and email notifications
-   - Build serverless functions for event submission and management
+1. **Two-way Synchronization**
+   - Events created in Eventbrite appear automatically on Rock Rapids platforms
+   - Events created through Rock Rapids interfaces are published to Eventbrite
+   - Changes in either system propagate to the other
 
-**Phase 1 Implementation:**
-- Set up Gatsby.js development environment with CI/CD pipeline
-- Configure headless CMS with content models and workflows
-- Develop shared component library and design system
-- Create source plugins for critical data sources
-- Implement authentication and user preference system
-- Build initial page templates and navigation structure
+2. **Local Data Storage**
+   - Store a copy of event data in Supabase for resilience
+   - Implement fallback display if Eventbrite API is unavailable
+   - Create periodic backups of event data
 
-**Strengths:**
-- Superior performance with static site generation
-- Enhanced security with reduced attack surface
-- Improved SEO with static HTML and structured data
-- Reduced hosting costs with CDN-based distribution
-- Flexibility in content sources and data integration
-- Better developer experience with modern tooling
+3. **Batch Operations**
+   - Provide tools for bulk event creation and management
+   - Support recurring event series with customization options
+   - Enable category and tag management across multiple events
 
-**Challenges:**
-- Steeper learning curve for development team
-- Higher initial development complexity
-- More complex content editing workflow
-- Build time considerations with large content volumes
-- Requires more specialized technical skills for maintenance
+### The Events Calendar (TEC) Alternative
 
-## Event Management Implementation
+For organizations that prefer not to use Eventbrite, an alternative integration with The Events Calendar will be provided:
 
-Regardless of the technical approach chosen, either Gatsby.JS or WordPress, an effective event management system is critical for the Rock Rapids community apps. Both approaches will implement the following core event functionality:
+1. **REST API Integration**
+   - Connect to a self-hosted TEC installation via REST API
+   - Synchronize events bidirectionally between systems
+   - Map TEC event fields to the Rock Rapids event schema
 
-### Event Data Architecture
-- Unified event schema with consistent metadata
-- Multi-source event aggregation capabilities
-- Categorization and tagging system for discovery
-- Location and venue management system
+2. **iCalendar Integration**
+   - Support import/export of events via iCalendar format
+   - Enable subscription to calendar feeds from external sources
+   - Provide export options for users to add events to personal calendars
 
-### Event Display and Discovery
-- Calendar views with multiple visualization options
-- List and grid layouts with filtering capabilities
-- Search integration with category and location filters
-- Featured and trending event highlighting
-- Personalized recommendations based on user preferences
+3. **Migration Pathway**
+   - Create tools to help organizations migrate between Eventbrite and TEC
+   - Support event history preservation during platform changes
+   - Maintain consistent display regardless of the backend system
 
-### Event Distribution Channels
-- Web and mobile application display
-- Social media posting and sharing
-- Email newsletter integration
-- Calendar export (iCal, Google Calendar)
-- Public display feeds for community spaces
+## SEO and Social Sharing Strategy
 
-### Organizer Tools
-- Event submission and management interface
-- Attendance tracking and reporting
-- Promotional tools and templates
-- Analytics and performance metrics
+The Next.js architecture provides several advantages for SEO and social sharing:
 
-## Success Metrics
+1. **Static Generation**
+   - Pre-rendered HTML for optimal search engine indexing
+   - Fast load times improving search ranking
+   - Structured data (JSON-LD) for rich results in search engines
 
-The success of the Rock Rapids community apps will be measured by:
+2. **Social Metadata**
+   - Comprehensive Open Graph tags for attractive social sharing cards
+   - Twitter Card metadata for enhanced Twitter sharing
+   - Dynamic image generation for social sharing previews
 
-1. **User Adoption:** Percentage of Rock Rapids residents who regularly use the applications
-2. **Content Freshness:** Frequency of updates across all platforms
-3. **Community Engagement:** Number of events posted, jobs listed, volunteer opportunities filled
-4. **Information Accessibility:** Time required for users to find specific community information
-5. **Platform Integration:** Level of data consistency and cross-application functionality
-6. **Search Engine Visibility:** Ranking of community information in relevant search results
-7. **Mobile Usage:** Proportion of access via mobile devices vs. desktop
-
-## Governance and Maintenance
-
-To ensure the long-term success and sustainability of the Rock Rapids apps ecosystem:
-
-1. **Content Management:** Establish a distributed content management approach where community organizations can maintain their own information
-2. **Technical Maintenance:** Implement regular update schedule for security patches and feature enhancements
-3. **Community Oversight:** Form a digital advisory committee with representatives from various community sectors
-4. **Feedback Mechanisms:** Create simple ways for users to report issues and suggest improvements
-5. **Knowledge Transfer:** Document all systems and processes to facilitate future maintenance by new contributors
-
-## Technical Approach Decision Factors
-
-The following factors should be considered when selecting between the WordPress and Gatsby.js approaches:
-
-1. **Technical Expertise:** Assessment of available development resources and their familiarity with each technology stack
-2. **Timeline Priority:** Whether faster initial deployment or long-term performance is the higher priority
-3. **Content Management Needs:** Complexity of content workflows and number of content contributors
-4. **Budget Constraints:** Initial development costs vs. long-term hosting and maintenance expenses
-5. **Performance Requirements:** Expected traffic volumes and performance expectations
-6. **Scalability Needs:** Anticipated growth in content volume and user base
-7. **Mobile Strategy:** Importance of native mobile applications vs. responsive web design
-
-## Risk Management
-
-Key risks and mitigation strategies include:
-
-1. **Volunteer Burnout:** Implement clear contribution boundaries and recognition systems
-   - Mitigation: Rotate responsibilities and celebrate contributions
-
-2. **Technical Complexity:** Ensure architecture remains manageable for community maintenance
-   - Mitigation: Prioritize simplicity and thorough documentation
-
-3. **Content Freshness:** Address the challenge of keeping information current
-   - Mitigation: Distribute update responsibilities and implement automated verification
-
-4. **Platform Fragmentation:** Prevent inconsistent user experience across multiple apps
-   - Mitigation: Establish clear design guidelines and shared component libraries
-
-5. **Resource Constraints:** Manage development with limited available resources
-   - Mitigation: Prioritize features based on community impact and adopt incremental development approach
+3. **Sitemap Generation**
+   - Automatic sitemap generation for all event and content pages
+   - Prioritization based on content importance and freshness
+   - Integration with Google Search Console for indexing monitoring
 
 ## Conclusion
 
-This roadmap presents a structured approach to developing a comprehensive digital ecosystem for the Rock Rapids community with two viable technical options for implementation. Both the WordPress-based and Gatsby.js-based approaches can successfully deliver the eight interconnected community applications, though with different trade-offs in terms of development speed, performance, and long-term maintenance.
+This Next.js-based technical approach for the Rock Rapids community apps ecosystem offers significant advantages in terms of performance, developer experience, and maintenance compared to the WordPress alternative. By leveraging modern JAMstack architecture with Next.js, Sanity.io, Supabase, and Vercel, the platform can provide a faster, more reliable, and more scalable solution for the Rock Rapids community.
 
-The phased development approach allows for early delivery of value while building toward a sophisticated ecosystem that enhances community engagement, supports local businesses, and preserves the unique character of Rock Rapids. By beginning with rockrapids.INFO as the central hub and progressively developing specialized sister applications, the project will create a cohesive network of digital resources that serve the diverse needs of the Rock Rapids community.
+The comprehensive Eventbrite integration strategy ensures that events remain at the heart of the platform, with robust capabilities for discovery, display, and management. The addition of The Events Calendar as an alternative provides flexibility for different organization needs while maintaining a consistent user experience across the platform.
 
-The ultimate selection between technical approaches should be guided by an assessment of local technical resources, timeline priorities, and long-term maintenance considerations, while keeping focus on the shared vision of an accessible, engaging, and comprehensive community information ecosystem.
+The phased development approach allows for incremental delivery of value to the community while building toward a sophisticated ecosystem that serves the diverse needs of Rock Rapids residents and visitors.
