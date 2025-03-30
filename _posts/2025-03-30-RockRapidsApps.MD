@@ -5,8 +5,7 @@ date:   2025-03-29 15:31:00
 categories: Compassion
 ---
 
-**The menu above BRIEF vision statement and Minimal Viable Prototype (MVP) development roadmap for EACH of the eight Rock Rapids projects. INFO ... as well as .ART .FUN .GUIDE .SHOP .STORE .XYZ .WORK**
-
+*The menu above BRIEF vision statement and Minimal Viable Prototype (MVP) development roadmap for EACH of the eight Rock Rapids projects. INFO ... as well as .ART .FUN .GUIDE .SHOP .STORE .XYZ .WORK*
 
 # Rock Rapids Community App of Apps: Unified Project Roadmap
 
@@ -14,22 +13,21 @@ categories: Compassion
 
 This roadmap outlines the development strategy for a suite of eight interconnected web applications designed to serve the Rock Rapids, Iowa community. Rather than building a single monolithic platform, this project takes a modular approach with distinct yet complementary applications, each addressing a specific aspect of community life (in order of currently expected development): 
 
-1) [Centralized info and top level links to other apps (.INFO)]([RockRapids.INFO](https://rockrapids.github.io/FOSS/0/)),
+1) Centralized info and top level links to other apps [(.INFO)](https://rockrapids.github.io/FOSS/0/),
 
-2) [Volunteering and optimization/recognition of volunteer abilities/time (.XYZ)]([RockRapids.XYZ](https://rockrapids.github.io/FOSS/7/)),    
+2) Volunteering and optimization/recognition of volunteer abilities/time [(.XYZ)](https://rockrapids.github.io/FOSS/7/),    
 
-3) [Retail promotions and shopping events (.SHOP)]([RockRapids.SHOP](https://rockrapids.github.io/FOSS/4/)),
+3) Retail promotions and shopping events [(.SHOP)](https://rockrapids.github.io/FOSS/4/),
 
-4) [Fun things to do, recreation and entertainment (.FUN)]([RockRapids.FUN](https://rockrapids.github.io/FOSS/2/)),
+4) Fun things to do, recreation and entertainment [(.FUN)](https://rockrapids.github.io/FOSS/2/),
 
-5) [Arts, music, gardening, collections, BBQ, writing and various forms of creativity (.ART)]([RockRapids.ART](https://rockrapids.github.io/FOSS/1/)),
+5) Arts, music, gardening, collections, BBQ, writing and various forms of creativity [(.ART)](https://rockrapids.github.io/FOSS/1/),
 
-6) [Marketplace listings of top ten things on sale (.STORE)]([RockRapids.STORE](https://rockrapids.github.io/FOSS/5/)) 
+6) Marketplace listings of top ten things on sale [(.STORE)](https://rockrapids.github.io/FOSS/5/) 
 
-7) [Local employment, remote/hybric employement, side-hustles (.WORK)]([RockRapids.WORK](https://rockrapids.github.io/FOSS/6/))
+7) Local employment, remote/hybric employement, side-hustles [(.WORK)](https://rockrapids.github.io/FOSS/6/)
 
-8) [Civic, schoool, church, service provider information (.GUIDE)]([RockRapids.GUIDE](https://rockrapids.github.io/FOSS/3/)),
-
+8) Civic, schoool, church, service provider information [(.GUIDE)](https://rockrapids.github.io/FOSS/3/)
 
 The core strategy is to develop these applications in a phased approach, beginning with rockrapids.INFO as the central hub and primary navigation point for the entire ecosystem. Each application will be developed with a clear focus on addressing specific community needs while maintaining a coherent user experience across the entire suite.
 
