@@ -1,13 +1,31 @@
 
+
 # Rock Rapids Community App of Apps: Unified Project Roadmap
 
 ## Executive Summary
 
-This roadmap outlines the development strategy for a suite of eight interconnected web applications designed to serve the Rock Rapids, Iowa community. Rather than building a single monolithic platform, this project takes a modular approach with distinct yet complementary applications, each addressing a specific aspect of community life: information centralization (.INFO), arts and creativity (.ART), recreation and entertainment (.FUN), civic information (.GUIDE), retail promotions (.SHOP), marketplace listings (.STORE), volunteering (.XYZ), and employment (.WORK).
+This roadmap outlines the development strategy for a suite of eight interconnected web applications designed to serve the Rock Rapids, Iowa community. Rather than building a single monolithic platform, this project takes a modular approach with distinct yet complementary applications, each addressing a specific aspect of community life (in order of currently expected development): 
+
+1) [Centralized info and top level links to other apps (.INFO)]([RockRapids.INFO](https://rockrapids.github.io/FOSS/0/)),
+
+2) [Volunteering and optimization/recognition of volunteer abilities/time (.XYZ)]([RockRapids.XYZ](https://rockrapids.github.io/FOSS/7/)),    
+
+3) [Retail promotions and shopping events (.SHOP)]([RockRapids.SHOP](https://rockrapids.github.io/FOSS/4/)),
+
+4) [Fun things to do, recreation and entertainment (.FUN)]([RockRapids.FUN](https://rockrapids.github.io/FOSS/2/)),
+
+5) [Arts, music, gardening, collections, BBQ, writing and various forms of creativity (.ART)]([RockRapids.ART](https://rockrapids.github.io/FOSS/1/)),
+
+6) [Marketplace listings of top ten things on sale (.STORE)]([RockRapids.STORE](https://rockrapids.github.io/FOSS/5/)) 
+
+7) [Local employment, remote/hybric employement, side-hustles (.WORK)]([RockRapids.WORK](https://rockrapids.github.io/FOSS/6/))
+
+8) [Civic, schoool, church, service provider information (.GUIDE)]([RockRapids.GUIDE](https://rockrapids.github.io/FOSS/3/)),
+
 
 The core strategy is to develop these applications in a phased approach, beginning with rockrapids.INFO as the central hub and primary navigation point for the entire ecosystem. Each application will be developed with a clear focus on addressing specific community needs while maintaining a coherent user experience across the entire suite.
 
-This document presents two technical approaches under consideration, each with distinct advantages:
+This document presents [two technical approaches under current consideration](https://docs.google.com/document/d/1W0LloMUAVgVIHZ9YIcboGSQJfyFtl3Zkl2CPNJ9mhEw/edit?usp=sharing), neither has been chosen, each have distinct advantages:
 1. A WordPress-based approach that leverages familiar technology for faster initial deployment
 2. A Gatsby.js-based approach that provides enhanced performance, security, and flexibility
 
@@ -33,6 +51,9 @@ The initial phase will focus on establishing rockrapids.INFO as the central hub 
 
 **Key Deliverables:**
 
+BEFORE ANYTHING ELSE ... assemble the information. To accomplish this, we START off by developing the TOP level and seven sister level APP with just a currated list of AWESOME links to information for the most expedient information access without any app development overhead
+
+
 - Design and implement a clean, ultra-minimalist, sparse interface focused on efficient information access
 
 - Develop a simple card-based layout organizing information by category (arts, fun things to do, necessary community info, shopping events/sales/introductions, items for sale locally, jobs for citizens, volunteering, etc.)
@@ -47,32 +68,7 @@ The initial phase will focus on establishing rockrapids.INFO as the central hub 
 
 ### Phase 2: Core Applications Development For Locals (Months 4-9)
 
-Following the establishment of rockrapids.INFO, development will proceed with three core applications that address the most immediate community needs; an important reason for doing this first is about getting local user, hopefully person-to-person feedback on this phase.
-
-**rockrapids.GUIDE (Months 4-5)**
-- Create notification system for city service alerts and announcements
-- Develop content management system for multiple organizations
-- Build community calendar with organizational filtering
-- Implement searchable directory of local services and emergency contacts
-- Optimize for mobile access during emergencies
-
-**rockrapids.FUN (Months 6-7)**
-- Develop database structure for activities with comprehensive metadata
-- Create intuitive calendar with multi-faceted filtering capabilities
-- Implement "happening now" feature for immediate activities
-- Build submission form for local businesses to add events; this will overlap with shopping events/sales
-- Develop basic recommendation engine based on preferences and seasonality
-
-**rockrapids.WORK (Months 8-9)**
-- Create job listing database with comprehensive position details
-- Develop employer profiles for local businesses
-- Build categorization system for local and remote opportunities
-- Implement job alert system for personalized notifications
-- Create basic resume and application resources
-
-### Phase 3: Supplementary Applications Development For Volunteers, Visitors (Months 10-18)
-
-The remaining four applications will be developed in sequence, with each building upon the foundation established in earlier phases:
+Following the establishment of rockrapids.INFO, development will proceed with three core applications that address the most immediate community needs; an important reason for doing this first is about getting more involved users for hopefully person-to-person feedback, before testing it outside visitors on this earlier phase.
 
 **rockrapids.XYZ (Months 10-11)**
 - Develop volunteer opportunity database with detailed organization profiles
@@ -81,13 +77,6 @@ The remaining four applications will be developed in sequence, with each buildin
 - Implement recognition system for outstanding contributions
 - Develop project tracking dashboard for community initiatives
 
-**rockrapids.ART (Months 12-13)**
-- Create artist profile database with multimedia capabilities
-- Develop submission form for self-service profile management
-- Implement responsive grid layout with medium-based filtering
-- Build events calendar for workshops and creative activities
-- Create admin dashboard for content moderation and featured selection
-
 **rockrapids.SHOP (Months 14-15)**
 - Develop merchant profile system with comprehensive business information
 - Create promotions database for sales and special events
@@ -95,12 +84,50 @@ The remaining four applications will be developed in sequence, with each buildin
 - Implement notification system for limited-time offers
 - Develop merchant content management system
 
+**rockrapids.FUN (Months 6-7)**
+- Develop database structure for activities with comprehensive metadata
+- Create intuitive calendar with multi-faceted filtering capabilities
+- Implement "happening now" feature for immediate activities
+- Build submission form for local businesses to add events; this will overlap with shopping events/sales
+- Develop basic recommendation engine based on preferences and seasonality
+
+### Phase 3: Supplementary Applications Development For Volunteers, Visitors (Months 10-18)
+
+The remaining four applications will be developed in sequence, with each building upon the foundation established in earlier phases:
+
+**rockrapids.ART (Months 12-13)**
+- Create artist profile database with multimedia capabilities
+- Develop submission form for self-service profile management
+- Implement responsive grid layout with medium-based filtering
+- Build events calendar for workshops and creative activities
+- Create admin dashboard for content moderation and featured selection
+
 **rockrapids.STORE (Months 16-18)**
+- developed later; it might not be just an adjunct of .SHOP
 - Create product database with robust metadata
 - Develop categorization system for diverse product types
 - Build advanced search with multi-faceted filtering
 - Implement direct links to purchase channels
-- Create merchant dashboard for inventory management
+- Create merchant dashboard / data API tool for inventory management
+
+**rockrapids.WORK (Months 8-9)**
+- developed later because it likely duplicate existing job boards
+- In the app family for convenience of job listing database with comprehensive position details
+- Develop employer profiles for local businesses
+- Build categorization system for local and remote opportunities as well as side hustle gigs
+- Implement job alert system for personalized notifications
+- Create basic resume, professional brand mgmt, networking and application resources
+
+**rockrapids.GUIDE (Months 4-5)**
+
+- developed last because it likely duplicate existing alerts and announcements; it's only included for convenience
+- In the app family for convenices of notification system for city service alerts and announcements
+- Develop content management system for multiple organizations
+- Build community calendar with organizational filtering
+- Implement searchable directory of local services and emergency contacts
+- Optimize for mobile access during emergencies
+
+
 
 ### Phase 4: Mobile & Advanced Features (Months 19-24)
 
