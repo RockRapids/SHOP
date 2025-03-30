@@ -1,16 +1,20 @@
 ---
 layout: post
-title:  "RockRapids.INFO"
-date:   2025-03-29 14:31:00
+title:  "The RockRapids.INFO App"
+date:   2025-03-29 15:31:00
 categories: Compassion
 ---
 
 **The menu above brief vision statement and Minimal Viable Prototype (MVP) development roadmap for EACH of the eight Rock Rapids projects. INFO ... as well as .ART .FUN .GUIDE .SHOP .STORE .XYZ .WORK**
 
 
-Each app will be developed as having a distinct focus while maintaining some coherence as part of a comprehensive suite of applications for the town ... this is very much under development ... it's still in the rqmts elicitations phase ... it is expected that there will be some consolidation ... but the general strategy, ***at first*** ... is for RockRapids.INFO to be top-level and first developed menu app, with short discriptions to information found on the other sister apps in more detailed form.  
+Each app will be focused app for a meta-directory of existing directories of already available information.  
 
-In other words, at first the aim is to produce .INFO ... as the most minimal prototype possible  ... and THEN to develop the apps that provide deeper levels of information, targetted for a particular audience.
+Each app will be developed as having a distinct focus while maintaining some coherence as part of a comprehensive suite of applications for the town. ***this is very much under development ... it's still in the rqmts elicitations phase ... it is expected that there will be some consolidation*** 
+
+The general strategy, ***at first*** ... is for RockRapids.INFO to be top-level and first developed menu app, with short discriptions to information found on the other sister apps in more detailed form.  
+
+In other words, at first the aim is to produce .INFO ... as the most minimal prototype possible for a meta-directory of directories ... and THEN to develop the apps that provide deeper levels of information, targetted for a particular audience.
 
 # **Building a Set Of Community Apps for Rock Rapids, Iowa: A Comprehensive Guide**
 
