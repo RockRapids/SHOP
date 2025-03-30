@@ -65,7 +65,7 @@ BEFORE ANYTHING ELSE ... assemble the information. To accomplish this, we START 
 
 - Establish API framework and AI integration strategy for future integration with sister apps, other data APIs
 
-### Phase 2: Core Applications Development For Locals (Months 4-9)
+### Phase 2: Core Applications Development, Higher Priority (Months 10-15)
 
 Following the establishment of rockrapids.INFO, development will proceed with three core applications that address the most immediate community needs; an important reason for doing this first is about getting more involved users for hopefully person-to-person feedback, before testing it outside visitors on this earlier phase.
 
@@ -90,7 +90,7 @@ Following the establishment of rockrapids.INFO, development will proceed with th
 - Build submission form for local businesses to add events; this will overlap with shopping events/sales
 - Develop basic recommendation engine based on preferences and seasonality
 
-### Phase 3: Supplementary Applications Development For Volunteers, Visitors (Months 10-18)
+### Phase 3: Supplementary Applications Development, Dependent Upon Success of Phase 2 (Months 10-18)
 
 The remaining four applications will be developed in sequence, with each building upon the foundation established in earlier phases:
 
@@ -126,9 +126,7 @@ The remaining four applications will be developed in sequence, with each buildin
 - Implement searchable directory of local services and emergency contacts
 - Optimize for mobile access during emergencies
 
-
-
-### Phase 4: Mobile & Advanced Features (Months 19-24)
+### Phase 4: Mobile & Advanced Features, After Phase 2 and Probably Phase 3 (Months 19-24)
 
 - Develop mobile applications for iOS and Android
 - Implement offline data access for critical information
