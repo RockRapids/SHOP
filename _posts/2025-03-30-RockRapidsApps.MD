@@ -7,9 +7,30 @@ categories: Compassion
 
 *The menu above BRIEF vision statement and Minimal Viable Prototype (MVP) development roadmap for EACH of the eight Rock Rapids projects. INFO ... as well as .ART .FUN .GUIDE .SHOP .STORE .XYZ .WORK*
 
-
-
 # Rock Rapids Community App of Apps: Unified Project Roadmap
+
+# Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [Project Philosophy](#project-philosophy)
+- [Development Phases](#development-phases)
+  - [Phase 1: Foundation Building (Months 1-3)](#phase-1-foundation-building-months-1-3)
+  - [Phase 2: Core Applications Development (Months 10-15)](#phase-2-core-applications-development-higher-priority-months-10-15)
+  - [Phase 3: Supplementary Applications Development (Months 10-18)](#phase-3-supplementary-applications-development-dependent-upon-success-of-phase-2-months-10-18)
+  - [Phase 4: Mobile & Advanced Features (Months 19-24)](#phase-4-mobile--advanced-features-after-phase-2-and-probably-phase-3-months-19-24)
+- [Technical Approaches](#two-alternative-technical-approaches-currently-under-consideration)
+  - [Approach 1: WordPress-Based Implementation](#approach-1-wordpress-based-implementation)
+  - [Approach 2: Gatsby.js-Based Implementation](#approach-2-gatsbyjs-based-implementation)
+- [Event Management Implementation](#event-management-implementation)
+  - [Event Data Architecture](#event-data-architecture)
+  - [Event Display and Discovery](#event-display-and-discovery)
+  - [Event Distribution Channels](#event-distribution-channels)
+  - [Organizer Tools](#organizer-tools)
+- [Success Metrics](#success-metrics)
+- [Governance and Maintenance](#governance-and-maintenance)
+- [Technical Approach Decision Factors](#technical-approach-decision-factors)
+- [Risk Management](#risk-management)
+- [Conclusion](#conclusion)
 
 ## Executive Summary
 
