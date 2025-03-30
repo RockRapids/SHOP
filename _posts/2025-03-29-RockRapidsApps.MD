@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building A Directory of Directories of Local Information, Without Reinventing Already Useful Wheels"
+title:  "Background Intell Gathering For Building A Directory of Directories of Local Information, Without Reinventing Already Useful Wheels"
 date:   2025-03-29 14:31:00
 categories: Compassion
 ---
