@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Background Intelligence On Building A Directory of Directories of Local Information ... without reinventing already trusted wheels"
+title:  "Background Intelligence On Building A Directory of Directories of Local Information *without reinventing already trusted wheels*"
 date:   2025-03-29 14:31:00
 categories: Compassion
 ---
