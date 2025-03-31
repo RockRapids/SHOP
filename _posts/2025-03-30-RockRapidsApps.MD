@@ -5,7 +5,7 @@ date:   2025-03-29 15:31:00
 categories: Communication
 ---
 
-*The menu targets above gives a BRIEF vision statement and Minimal Viable Prototype (MVP) development roadmap for EACH of the eight Rock Rapids projects. INFO ... as well as .ART .FUN .GUIDE .SHOP .STORE .XYZ .WORK*
+*The menu targets above gives a BRIEF vision statement and Minimal Viable Prototype (MVP) development roadmap for EACH of the eight Rock Rapids projects. The domain URLs and forwarding to the same addresses, ie for [Rockrapids.INFO](https://RockRapids.info) [Rockrapids.ART](https://RockRapids.art) [Rockrapids.FUN](https://RockRapids.fun) [Rockrapids.GUIDE](https://RockRapids.guide) [Rockrapids.SHOP](https://RockRapids.shop) [Rockrapids.STORE](https://RockRapids.store) [Rockrapids.WORK](https://RockRapids.work) [Rockrapids.XYZ](https://RockRapids.xyz) are operational.*
 
 ## Rock Rapids Community Apps Ecosystem Design Philosophy
 
