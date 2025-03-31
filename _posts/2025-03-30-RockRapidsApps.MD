@@ -9,7 +9,7 @@ categories: Communication
 
 ## Rock Rapids Community Apps Ecosystem Design Philosophy
 
-- Look Forward to That Which Will Work in 2026 ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting and filling gaps*
+Generally, this is about attempting to look forward to what will work in 2026, by looking at what works very well now and will probably persist. This is probably about *reusing what has worked and will continue to be used, rather than re-inventing new. Our focus needs to be connecting, filling gaps and building something simple that future volunteers can maintain, improve, ie this is what design for maintainability and extensibility look like now.*
 
 - [Integrate Necessary Existing and Future Datastores](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-1.html) ... We all know that digital age has *past tense* ushered in an unprecedented era of information availability, with a vast array of online resources now serving as primary repositories for community-related data ... but AI and vibe coding will change how data is exchanged. 
 
@@ -18,7 +18,7 @@ categories: Communication
 
 - [Evaluate Local Platforms and Their Reach](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-3.html) ... Rock Rapids, Iowa, exhibits a multifaceted online presence of information served to the outside world.
 
-- Build A Maintainable Community Apps Ecosystem That Fills Gaps Now And In The Future ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting, filling gaps and building something simple that future volunteers can maintain, improve, ie design-for-maintainability-extensibility*
+- [Design For Maintainability and Extensibility](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-4.html) ... fill gaps now; make something that can be built to do that in future ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting, filling gaps and building something simple that future volunteers can maintain, improve and build upon.*
 
 ### Table of Contents
 
