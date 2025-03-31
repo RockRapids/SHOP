@@ -5,7 +5,7 @@ date:   2025-03-29 15:31:00
 categories: Compassion
 ---
 
-*The menu above BRIEF vision statement and Minimal Viable Prototype (MVP) development roadmap for EACH of the eight Rock Rapids projects. INFO ... as well as .ART .FUN .GUIDE .SHOP .STORE .XYZ .WORK*
+*The menu targets above gives a BRIEF vision statement and Minimal Viable Prototype (MVP) development roadmap for EACH of the eight Rock Rapids projects. INFO ... as well as .ART .FUN .GUIDE .SHOP .STORE .XYZ .WORK*
 
 # Rock Rapids Community Apps Ecosystem
 
