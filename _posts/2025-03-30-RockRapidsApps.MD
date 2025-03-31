@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Vison And Development Roadmap For RockRapids.INFO App Project"
+title:  "Infrastructure Vison And Development Roadmap For RockRapids.INFO App Project"
 date:   2025-03-29 15:31:00
 categories: Communication
 ---
 
 *The menu targets above gives a BRIEF vision statement and Minimal Viable Prototype (MVP) development roadmap for EACH of the eight Rock Rapids projects. INFO ... as well as .ART .FUN .GUIDE .SHOP .STORE .XYZ .WORK*
 
-# Rock Rapids Community Apps Ecosystem Design Philosophy
+## Rock Rapids Community Apps Ecosystem Design Philosophy
 
 - Look Forward to That Which Will Work in 2026 ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting and filling gaps*
 
@@ -18,7 +18,7 @@ categories: Communication
 
 - [Evaluate Local Platforms and Their Reach](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-3.html) ... Rock Rapids, Iowa, exhibits a multifaceted online presence of information served to the outside world.
 
-- Build A Community Apps Ecosystem That Fills Gaps ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting and filling gaps*
+- Build A Maintainable Community Apps Ecosystem That Fills Gaps Now And In The Future ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting, filling gaps and building something simple that future volunteers can maintain, improve, ie design-for-maintainability-extensibility*
 
 ### Table of Contents
 
