@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Background Intelligence On Building A Directory of Directories of Local Information...without reinventing already trusted wheels"
-date:   2025-03-29 14:31:00
+title:  "Background Intelligence -- A More Detailed Plan For Integrating Necessary Existing Datastores"
+date:   2025-04-04 14:31:00
 categories: Compassion
 ---
 
