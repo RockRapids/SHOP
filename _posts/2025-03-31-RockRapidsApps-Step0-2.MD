@@ -34,6 +34,8 @@ categories: Communication
 
 ## [Conclusion](#conclusion-1)
 
+## [Works cited](#works-cited-1)
+
 ## Executive Summary
 
 Rock Rapids, a small town in northwest Iowa, exhibits a multifaceted online presence indicative of both its rural character and the pervasive influence of digital technologies. 
@@ -162,7 +164,7 @@ The town benefits from a well-established ecosystem of local news websites, incl
 
 ### Works Cited
 
-1. <a id="works-cited"></a>How Iowans Use Iowa Social Media - Blue Compass, accessed March 31, 2025, [https://www.bluecompass.com/blog/iowa-social-media-survey-2021](https://www.bluecompass.com/blog/iowa-social-media-survey-2021)  
+1. How Iowans Use Iowa Social Media - Blue Compass, accessed March 31, 2025, [https://www.bluecompass.com/blog/iowa-social-media-survey-2021](https://www.bluecompass.com/blog/iowa-social-media-survey-2021)  
 2. Iowa's 2023 Digital Media Habits Revealed - Blue Compass, accessed March 31, 2025, [https://www.bluecompass.com/blog/iowa-social-media-survey](https://www.bluecompass.com/blog/iowa-social-media-survey)  
 3. Social Media Use Among Iowans Online - Blue Compass, accessed March 31, 2025, [https://www.bluecompass.com/filesimages/Blue%20Compass%20-%20Social%20Media%20Usage%20in%20Iowa%20-%202021.pdf](https://www.bluecompass.com/filesimages/Blue%20Compass%20-%20Social%20Media%20Usage%20in%20Iowa%20-%202021.pdf)  
 4. Citizen Engagement - IOWA League, accessed March 31, 2025, [https://iowaleague.org/resource/citizen-engagement/](https://iowaleague.org/resource/citizen-engagement/)  

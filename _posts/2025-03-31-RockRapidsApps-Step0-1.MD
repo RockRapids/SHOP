@@ -31,6 +31,8 @@ categories: Communication
 
 ## [Conclusion and Recommendations: Building an Effective Ecosystem for Community Information Access](#conclusion-and-recommendations-building-an-effective-ecosystem-for-community-information-access-1)
 
+## [Works Cited](#works-cited-1)
+
 ## Introduction: Navigating the Digital Landscape for Community Information
 
 We all know that digital age has *past tense* ushered in an unprecedented era of information availability, with a vast array of online resources now serving as primary repositories for community-related data ... but AI and vibe coding will change how data is exchanged. 
@@ -175,7 +177,7 @@ By pursuing these initiatives, it is possible to build an effective ecosystem th
 
 ### Works Cited
 
-1. <a id="works-cited"></a>18 Top Search Engines to Try | Built In, accessed March 30, 2025, [https://builtin.com/articles/search-engines-list](https://builtin.com/articles/search-engines-list)  
+1. Top Search Engines to Try | Built In, accessed March 30, 2025, [https://builtin.com/articles/search-engines-list](https://builtin.com/articles/search-engines-list)  
 2. Search Engines & SEO: 34 Most Popular Search Engines in 2025 - Mangools, accessed March 30, 2025, [https://mangools.com/blog/search-engines/](https://mangools.com/blog/search-engines/)  
 3. Reaching Rural Communities Through Social Media - Becker Digital, accessed March 30, 2025, [https://www.becker-digital.com/blog/rural-social-media-strategy](https://www.becker-digital.com/blog/rural-social-media-strategy)  
 4. Addressing Misinformation in Rural Communities: Snapshot from the KFF Health Misinformation Tracking Poll Pilot | KFF, accessed March 30, 2025, [https://www.kff.org/health-information-and-trust/poll-finding/addressing-misinformation-in-rural-communities-snapshot-from-the-kff-health-misinformation-tracking-poll-pilot/](https://www.kff.org/health-information-and-trust/poll-finding/addressing-misinformation-in-rural-communities-snapshot-from-the-kff-health-misinformation-tracking-poll-pilot/)  

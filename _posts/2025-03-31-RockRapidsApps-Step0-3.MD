@@ -27,6 +27,9 @@ categories: Communication
 
 ## [Conclusion and Strategic Recommendations](#conclusion-and-strategic-recommendations-1)
 
+## [Works cited](#works-cited-1)
+
+
 ## Executive Summary
 
 Rock Rapids, Iowa, exhibits a multifaceted online presence of information served to the outside world.
@@ -113,7 +116,7 @@ A coordinated online strategy involving businesses, local government, and commun
 
 ### Works Cited
 
-1. <a id="works-cited"></a>Rock Rapids – Life, Balanced., accessed March 31, 2025, [https://rockrapids.com/](https://rockrapids.com/)  
+1. Rock Rapids – Life, Balanced., accessed March 31, 2025, [https://rockrapids.com/](https://rockrapids.com/)  
 2. City Council – Rock Rapids, accessed March 31, 2025, [https://rockrapids.com/city/city-council/](https://rockrapids.com/city/city-council/)  
 3. Rock Rapids Municipal Utilities, accessed March 31, 2025, [https://rockrapids.net/home](https://rockrapids.net/home)  
 4. Sheriff of Lyon County, Iowa, accessed March 31, 2025, [https://lyoncounty.iowa.gov/sheriff/](https://lyoncounty.iowa.gov/sheriff/)  

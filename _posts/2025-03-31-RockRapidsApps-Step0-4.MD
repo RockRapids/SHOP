@@ -28,6 +28,8 @@ categories: Communication
 
 ## [Conclusion: Navigating the Future of Community Communication with Maintainability and Extensibility](#conclusion-navigating-the-future-of-community-communication-with-maintainability-and-extensibility-1)
 
+## [Works cited](#works-cited-1)
+
 ## Unique Challenges and Opportunities in Community Communication App Ecosystems
 
 This backgrounder aims to synthesize the best practices for designing community communication app ecosystems that are *inherently, **by design**, maintainable and easily extensible by volunteer contributors.* 
@@ -159,7 +161,7 @@ Ultimately, the success of community communication app ecosystems hinges on a ho
 
 ### Works Cited
 
-1. <a id="works-cited"></a>Successful Volunteer-based Software Projects | by Adam Kariv | Medium, accessed March 31, 2025, [https://medium.com/@adam.kariv/successful-volunteer-based-software-projects-fad6d294ad07](https://medium.com/@adam.kariv/successful-volunteer-based-software-projects-fad6d294ad07)  
+1. Successful Volunteer-based Software Projects | by Adam Kariv | Medium, accessed March 31, 2025, [https://medium.com/@adam.kariv/successful-volunteer-based-software-projects-fad6d294ad07](https://medium.com/@adam.kariv/successful-volunteer-based-software-projects-fad6d294ad07)  
 2. Contribution checklist - Mattermost Developers, accessed March 31, 2025, [https://developers.mattermost.com/contribute/more-info/getting-started/contribution-checklist/](https://developers.mattermost.com/contribute/more-info/getting-started/contribution-checklist/)  
 3. Vibe Coding. AI-Assisted Coding for Non-Developers | by Niall McNulty - Medium, accessed March 31, 2025, [https://medium.com/@niall.mcnulty/vibe-coding-b79a6d3f0caa](https://medium.com/@niall.mcnulty/vibe-coding-b79a6d3f0caa)  
 4. What I Learned from Vibe Coding - DEV Community, accessed March 31, 2025, [https://dev.to/erikch/what-i-learned-vibe-coding-30em](https://dev.to/erikch/what-i-learned-vibe-coding-30em)  
