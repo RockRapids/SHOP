@@ -2,18 +2,26 @@
 layout: post
 title:  "Vison And Development Roadmap For RockRapids.INFO App Project"
 date:   2025-03-29 15:31:00
-categories: Compassion
+categories: Communication
 ---
 
 *The menu targets above gives a BRIEF vision statement and Minimal Viable Prototype (MVP) development roadmap for EACH of the eight Rock Rapids projects. INFO ... as well as .ART .FUN .GUIDE .SHOP .STORE .XYZ .WORK*
 
-# Rock Rapids Community Apps Ecosystem
+# Rock Rapids Community Apps Ecosystem Design Philosophy
 
-**Design philosophy ... REUSE, don't re-invent! Do NOT design for 2024, REUSE that which will work in 2026.** *THINK!* Use AI to help you see things that you would miss because you are stuck in your 2024 way of doing it. Do not revent wheels that are working or the wheels that people WILL start using ...present SIMPLE, text-based information with relevant hyperlinks for deeper context ... it's 2025 and it'll be 2026 before you know it, but yet most content is still written for humans instead of LLMs. 99.99% of attention needs to be about to be LLM attention, not human attention ... *design-for--an-AI-world*, expect people to use AI much more.
+- Look Forward to That Which Will Work in 2026 ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting and filling gaps*
+
+- Integrate Necessary Existing Datastores
+
+- Understand Local Participation In Online Platforms
+
+- Evaluate Local Platforms and Their Reach
+
+- Build A Community Apps Ecosystem That Fills Gaps ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting and filling gaps*
 
 ### Table of Contents
 
-## [Executive Summary](#executive-summary)
+## [Executive Summary of Technical Infrastructure](#executive-summary)
 
 ## [Why Remix: The Superior Choice for Rock Rapids](#why-remix-the-superior-choice-for-rock-rapids-1)
 - [1. Optimized for Polyglot Data Integration](#1-optimized-for-polyglot-data-integration)
