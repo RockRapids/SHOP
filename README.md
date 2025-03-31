@@ -1,8 +1,18 @@
-# Rock Rapids Community Apps Ecosystem
+
+Generally, this is about attempting to look forward to what will work in 2026, by looking at what works very well now and will probably persist. This is probably about *reusing what has worked and will continue to be used, rather than re-inventing new. Our focus needs to be connecting, filling gaps and building something simple that future volunteers can maintain, improve, ie this is what design for maintainability and extensibility look like now.*
+
+- [Integrate Necessary Existing and Future Datastores](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-1.html) ... We all know that digital age has *past tense* ushered in an unprecedented era of information availability, with a vast array of online resources now serving as primary repositories for community-related data ... but AI and vibe coding will change how data is exchanged. 
+
+- [Understand Local Participation In Online Platforms](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-2.html) ... Rock Rapids, a small town in northwest Iowa, exhibits a multifaceted online presence indicative of both its rural character and the pervasive influence of digital technologies. 
+
+
+- [Evaluate Local Platforms and Their Reach](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-3.html) ... Rock Rapids, Iowa, exhibits a multifaceted online presence of information served to the outside world.
+
+- [Design For Maintainability and Extensibility](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-4.html) ... a synthesis of the best practices for designing community communication app ecosystems that are *inherently, **by design**, maintainable and easily extensible by volunteer contributors.* 
 
 ### Table of Contents
 
-## [Executive Summary](#executive-summary)
+## [Executive Summary of Technical Infrastructure](#executive-summary)
 
 ## [Why Remix: The Superior Choice for Rock Rapids](#why-remix-the-superior-choice-for-rock-rapids-1)
 - [1. Optimized for Polyglot Data Integration](#1-optimized-for-polyglot-data-integration)
