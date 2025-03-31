@@ -18,7 +18,7 @@ Generally, this is about attempting to look forward to what will work in 2026, b
 
 - [Evaluate Local Platforms and Their Reach](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-3.html) ... Rock Rapids, Iowa, exhibits a multifaceted online presence of information served to the outside world.
 
-- [Design For Maintainability and Extensibility](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-4.html) ... fill gaps now; make something that can be built to do that in future ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting, filling gaps and building something simple that future volunteers can maintain, improve and build upon.*
+- [Design For Maintainability and Extensibility](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-4.html) ... a synthesis of the best practices for designing community communication app ecosystems that are *inherently, **by design**, maintainable and easily extensible by volunteer contributors.* 
 
 ### Table of Contents
 
