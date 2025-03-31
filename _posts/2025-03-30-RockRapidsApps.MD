@@ -11,11 +11,12 @@ categories: Communication
 
 - Look Forward to That Which Will Work in 2026 ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting and filling gaps*
 
-- Integrate Necessary Existing Datastores
+- [Integrate Necessary Existing and Future Datastores](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-1.html) ... We all know that digital age has *past tense* ushered in an unprecedented era of information availability, with a vast array of online resources now serving as primary repositories for community-related data ... but AI and vibe coding will change how data is exchanged. 
 
-- Understand Local Participation In Online Platforms
+- [Understand Local Participation In Online Platforms](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-2.html) ... Rock Rapids, a small town in northwest Iowa, exhibits a multifaceted online presence indicative of both its rural character and the pervasive influence of digital technologies. 
 
-- Evaluate Local Platforms and Their Reach
+
+- [Evaluate Local Platforms and Their Reach](https://rockrapids.github.io/communication/2025/03/31/RockRapidsApps-Step0-3.html) ... Rock Rapids, Iowa, exhibits a multifaceted online presence of information served to the outside world.
 
 - Build A Community Apps Ecosystem That Fills Gaps ... *reuse what has worked and will continue to be used, rather than re-invent new, focus on connecting and filling gaps*
 

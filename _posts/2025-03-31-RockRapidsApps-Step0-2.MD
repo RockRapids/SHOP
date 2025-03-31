@@ -36,7 +36,9 @@ categories: Communication
 
 ## Executive Summary
 
-Rock Rapids, a small town in northwest Iowa, exhibits a multifaceted online presence indicative of both its rural character and the pervasive influence of digital technologies. This analysis of available research material reveals a community actively engaging with a variety of online platforms for communication, information sharing, and community building. While certain mainstream social media platforms like Facebook demonstrate significant local adoption, others such as Twitter and LinkedIn appear to have a more niche presence. The town benefits from a robust ecosystem of local news websites and utilizes online platforms for disseminating event information and community announcements. However, the presence of neighborhood-specific platforms like Nextdoor and business review sites like Yelp appears less pronounced based on the available data. Photo-sharing platforms such as Flickr contain some locally relevant content, suggesting a digital footprint that extends beyond the most popular social media channels.
+Rock Rapids, a small town in northwest Iowa, exhibits a multifaceted online presence indicative of both its rural character and the pervasive influence of digital technologies. 
+
+This analysis of available research material reveals a community actively engaging with a variety of online platforms for communication, information sharing, and community building. While certain mainstream social media platforms like Facebook demonstrate significant local adoption, others such as Twitter and LinkedIn appear to have a more niche presence. The town benefits from a robust ecosystem of local news websites and utilizes online platforms for disseminating event information and community announcements. However, the presence of neighborhood-specific platforms like Nextdoor and business review sites like Yelp appears less pronounced based on the available data. Photo-sharing platforms such as Flickr contain some locally relevant content, suggesting a digital footprint that extends beyond the most popular social media channels.
 
 ## Dominant Social Media Platforms in Iowa and Rock Rapids
 
