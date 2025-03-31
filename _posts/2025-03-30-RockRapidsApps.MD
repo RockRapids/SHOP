@@ -9,6 +9,8 @@ categories: Compassion
 
 # Rock Rapids Community Apps Ecosystem
 
+**Design philosophy ... REUSE, don't re-invent! Do NOT design for 2024, REUSE that which will work in 2026.** *THINK!* Use AI to help you see things that you would miss because you are stuck in your 2024 way of doing it. Do not revent wheels that are working or the wheels that people WILL start using ...present SIMPLE, text-based information with relevant hyperlinks for deeper context ... it's 2025 and it'll be 2026 before you know it, but yet most content is still written for humans instead of LLMs. 99.99% of attention needs to be about to be LLM attention, not human attention ... *design-for--an-AI-world*, expect people to use AI much more.
+
 ### Table of Contents
 
 ## [Executive Summary](#executive-summary)
