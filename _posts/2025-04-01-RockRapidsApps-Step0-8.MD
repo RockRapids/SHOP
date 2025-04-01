@@ -8,7 +8,7 @@ categories: Communication
 
 ***Diving deeper into PROCESSING ... and economic revitalization. ***
 
-As we have learned from agricultural commodities, it is the PROCESSING of commodities that matters. While the spotlight often shines on the power of new sophisticated AI algorithms and user-facing applications, the progress of Music AI is fundamentally tethered to the quality and depth of the data it learns from. PROCESSING of data, eg, music AI data annotation, therefore, is not merely a preparatory step but a critical, ongoing process that shapes the capabilities and limitations of AI in understanding, organizing, generating, and interacting with music. **PROCESSING drives economic revitalization tied to AI and data.**
+As we have learned from agricultural commodities, it is the PROCESSING of commodities that matters from the perspective of economic sustainability ... While the spotlight often shines on the power of new sophisticated AI algorithms and user-facing applications, the progress of AI is fundamentally tethered to the quality and depth of the data it learns from. PROCESSING of data, eg, music AI data annotation, therefore, is not merely a preparatory step but a critical, ongoing process that shapes the capabilities and limitations of AI in understanding, organizing, generating, and interacting with music.
 
 ## Table of Contents
 - [1. Executive Summary](#1-executive-summary)
