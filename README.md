@@ -1,6 +1,6 @@
 # Rock Rapids Community Applications Ecosystem
 
-A suite of interconnected web applications designed to serve the Rock Rapids, Iowa community through easily maintainable, volunteer-driven technology solutions.
+Project just initiated 4/1/2025 ... for a *proposed* suite of interconnected web applications designed to serve the Rock Rapids, Iowa community through easily maintainable, volunteer-driven technology solutions.
 
 ## Important Notice for Contributors
 
