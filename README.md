@@ -1,7 +1,5 @@
 # Rock Rapids Community Applications Ecosystem
 
-![Rock Rapids Logo](https://www.example.com/placeholder-for-rock-rapids-logo.png)
-
 A suite of interconnected web applications designed to serve the Rock Rapids, Iowa community through easily maintainable, volunteer-driven technology solutions.
 
 ## Important Notice for Contributors
