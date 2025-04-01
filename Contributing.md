@@ -1,6 +1,8 @@
 # Contributing to Rock Rapids Community Apps
 
-Thank you for your interest in contributing to the Rock Rapids community applications ecosystem! This document outlines how you can get involved and help build digital tools that serve our community.
+Thank you for your interest in the Rock Rapids community applications ecosystem! 
+
+This document outlines how you can get involved and help build digital tools that serve our community.
 
 ## Who Can Contribute
 
