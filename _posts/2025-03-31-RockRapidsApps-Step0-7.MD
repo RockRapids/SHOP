@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Rock Rapids Digital Landscape: Jobs, Jobs, Jobs ... Web Stacks, AI, and Polyglot Databases"
+title:  "Rock Rapids Digital Landscape: Jobs, Jobs, Jobs ... Web Stacks, AI, and Polyglot Databases for Music/Content Industry"
 date:   2025-03-31 20:35:00
 categories: Communication
 ---
-# **Rock Rapids Digital Landscape: Jobs, Jobs, Jobs ... Web Stacks, AI, and Polyglot Databases for Music Industry**
+# **Rock Rapids Digital Landscape: Jobs, Jobs, Jobs ... Web Stacks, AI, and Polyglot Databases for Music/Content Industry**
 
 ***This about JOBS ... and economic revitalization. ***
 
